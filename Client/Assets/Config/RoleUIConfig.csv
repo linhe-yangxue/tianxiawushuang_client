@@ -1,0 +1,4 @@
+﻿INDEX,MODEL,ROLE_TYPE,COST_ITEM_TYPE,COST_ITEM_COUNT,ATLAS,SPRITE,BACKGROUND_ATLAS_NAME,BACKGROUND_SPRITE_NAME,ROLE_INFO
+INT,INT,INT,INT,INT,STRING,STRING,STRING,STRING,STRING
+0,50001,1,4,350,LandingAtlas,a_ui_select_01,CommonUIAtlas2,a_ui_diwen_xsm,无双|女|16岁|封灵师|水境|花浣若耶（符铳）|活泼可爱，非常自信|生于世家得宠，年少生故疏离；\n立志于世卓然，历尽五境腥风；\n独掌五灵同运，成就阴阳传奇。
+1,50101,2,4,350,LandingAtlas,a_ui_select_02,CommonUIAtlas2,a_ui_diwen_shangguanhuan,上官欢|男|18岁|封灵师|木境|江河日月（袖剑）|热血大胆，充满好奇心|市井之间，不坠青云志；\n大殿之上，到底意难平；\n少年锐气，锋芒已初露；\n此生不改，一颗赤子心。

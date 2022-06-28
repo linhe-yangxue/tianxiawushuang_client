@@ -1,0 +1,8 @@
+﻿INDEX,ELEMENT_NAME,PROMOTING_INDEX,CONSTRAINING_INDEX,ELEMENT_ATLAS_NAME,ELEMENT_SPRITE_NAME,CARD_BG_ELEMENT_ATLAS_NAME,ELEMENT_BG_SPRITE_NAME,ELEMENT_ICON_ATLAS_NAME,ELEMENT_ICON_SPRITE_NAME,SELECT_PET_ELEMENT_ICON_ATLAS_NAME,SELECT_PET_ELEMENT_ICON_SPRITE_NAME,ELEMENT_COLOR,FRAGMENT_ATLAS_NAME,FRAGMENT_SPRITE_NAME,EQUIP_ELEMENT_ATLAS_NAME,EQUIP_ELEMENT_SPRITE_NAME
+INT,STRING,INT,INT,STRING,STRING,STRING,STRING,STRING,STRING,STRING,STRING,STRING,STRING,STRING,STRING,STRING
+0,赤炎,2,1,ElementAtlas,a_ui_logo_chiyan_001,CardAtlas,ui_gostcardbackground_red,ElementAtlas,icon_red,LandingAtlas,ui_big_red,[fc0000],ElementAtlas,ui_zhezhao_red,ElementAtlas,magic_red
+1,碧渊,0,2,ElementAtlas,a_ui_logo_biyuan_001,CardAtlas,ui_gostcardbackground_blue,ElementAtlas,icon_blue,LandingAtlas,ui_big_blue,[00e4ff],ElementAtlas,ui_zhezhao_blue,ElementAtlas,magic_blue
+2,森罗,1,0,ElementAtlas,a_ui_logo_senluo_001,CardAtlas,ui_gostcardbackground_green,ElementAtlas,icon_green,LandingAtlas,ui_big_green,[00fd36],ElementAtlas,ui_zhezhao_green,ElementAtlas,magic_green
+3,乾阳,4,4,ElementAtlas,a_ui_logo_qianyang_001,CardAtlas,ui_gostcardbackground_gold,ElementAtlas,icon_gold,LandingAtlas,ui_big_gold,[fff300],ElementAtlas,ui_zhezhao_gold,ElementAtlas,magic_gold
+4,玄冥,3,3,ElementAtlas,a_ui_logo_xuanming_001,CardAtlas,ui_gostcardbackground_shadow,ElementAtlas,icon_shadow,LandingAtlas,ui_big_shadow,[8e00fc],ElementAtlas,ui_zhezhao_shadow,ElementAtlas,magic_shadow
+5,无属性,5,5,0,0,CardAtlas,ui_playercardbackground,ElementAtlas,icon_no,0,0,0,ElementAtlas,ui_zhezhao_suipian,0,0

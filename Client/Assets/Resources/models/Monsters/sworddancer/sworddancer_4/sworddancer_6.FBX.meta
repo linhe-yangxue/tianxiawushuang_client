@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 5a56b1e698b79794588966fb6df23288
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger0Nub
+    100016: Bip001 L Foot
+    100018: Bip001 L Forearm
+    100020: Bip001 L Hand
+    100022: Bip001 L Thigh
+    100024: Bip001 L Toe0
+    100026: Bip001 L Toe0Nub
+    100028: Bip001 L UpperArm
+    100030: Bip001 Neck
+    100032: Bip001 Pelvis
+    100034: Bip001 R Calf
+    100036: Bip001 R Clavicle
+    100038: Bip001 R Finger0
+    100040: Bip001 R Finger0Nub
+    100042: Bip001 R Foot
+    100044: Bip001 R Forearm
+    100046: Bip001 R Hand
+    100048: Bip001 R Thigh
+    100050: Bip001 R Toe0
+    100052: Bip001 R Toe0Nub
+    100054: Bip001 R UpperArm
+    100056: Bip001 Spine
+    100058: Bip001 Spine1
+    100060: Bone009
+    100062: Bone016
+    100064: Bone033
+    100066: Bone037
+    100068: Eye_L01
+    100070: Eye_L02
+    100072: Eye_R01
+    100074: Eye_R02
+    100076: QB_B01
+    100078: QB_B02
+    100080: QB_B03
+    100082: QB_F01
+    100084: QB_F02
+    100086: QB_F03
+    100088: QB_L01
+    100090: QB_L02
+    100092: QB_L03
+    100094: QB_R01
+    100096: QB_R02
+    100098: QB_R03
+    100100: //RootNode
+    100102: sworddancer_6
+    100104: Weapon_01
+    100106: Weapon_02
+    100108: Weapon_03
+    100110: Weapon_04
+    100112: Weapon_05
+    100114: Bip01
+    100116: Bip01 Head
+    100118: Bip01 HeadNub
+    100120: Bip01 L Calf
+    100122: Bip01 L Clavicle
+    100124: Bip01 L Finger0
+    100126: Bip01 L Finger0Nub
+    100128: Bip01 L Foot
+    100130: Bip01 L Forearm
+    100132: Bip01 L Hand
+    100134: Bip01 L Thigh
+    100136: Bip01 L Toe0
+    100138: Bip01 L Toe0Nub
+    100140: Bip01 L UpperArm
+    100142: Bip01 Neck
+    100144: Bip01 Pelvis
+    100146: Bip01 R Calf
+    100148: Bip01 R Clavicle
+    100150: Bip01 R Finger0
+    100152: Bip01 R Finger0Nub
+    100154: Bip01 R Foot
+    100156: Bip01 R Forearm
+    100158: Bip01 R Hand
+    100160: Bip01 R Thigh
+    100162: Bip01 R Toe0
+    100164: Bip01 R Toe0Nub
+    100166: Bip01 R UpperArm
+    100168: Bip01 Spine
+    100170: Bip01 Spine1
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger0Nub
+    400016: Bip001 L Foot
+    400018: Bip001 L Forearm
+    400020: Bip001 L Hand
+    400022: Bip001 L Thigh
+    400024: Bip001 L Toe0
+    400026: Bip001 L Toe0Nub
+    400028: Bip001 L UpperArm
+    400030: Bip001 Neck
+    400032: Bip001 Pelvis
+    400034: Bip001 R Calf
+    400036: Bip001 R Clavicle
+    400038: Bip001 R Finger0
+    400040: Bip001 R Finger0Nub
+    400042: Bip001 R Foot
+    400044: Bip001 R Forearm
+    400046: Bip001 R Hand
+    400048: Bip001 R Thigh
+    400050: Bip001 R Toe0
+    400052: Bip001 R Toe0Nub
+    400054: Bip001 R UpperArm
+    400056: Bip001 Spine
+    400058: Bip001 Spine1
+    400060: Bone009
+    400062: Bone016
+    400064: Bone033
+    400066: Bone037
+    400068: Eye_L01
+    400070: Eye_L02
+    400072: Eye_R01
+    400074: Eye_R02
+    400076: QB_B01
+    400078: QB_B02
+    400080: QB_B03
+    400082: QB_F01
+    400084: QB_F02
+    400086: QB_F03
+    400088: QB_L01
+    400090: QB_L02
+    400092: QB_L03
+    400094: QB_R01
+    400096: QB_R02
+    400098: QB_R03
+    400100: //RootNode
+    400102: sworddancer_6
+    400104: Weapon_01
+    400106: Weapon_02
+    400108: Weapon_03
+    400110: Weapon_04
+    400112: Weapon_05
+    400114: Bip01
+    400116: Bip01 Head
+    400118: Bip01 HeadNub
+    400120: Bip01 L Calf
+    400122: Bip01 L Clavicle
+    400124: Bip01 L Finger0
+    400126: Bip01 L Finger0Nub
+    400128: Bip01 L Foot
+    400130: Bip01 L Forearm
+    400132: Bip01 L Hand
+    400134: Bip01 L Thigh
+    400136: Bip01 L Toe0
+    400138: Bip01 L Toe0Nub
+    400140: Bip01 L UpperArm
+    400142: Bip01 Neck
+    400144: Bip01 Pelvis
+    400146: Bip01 R Calf
+    400148: Bip01 R Clavicle
+    400150: Bip01 R Finger0
+    400152: Bip01 R Finger0Nub
+    400154: Bip01 R Foot
+    400156: Bip01 R Forearm
+    400158: Bip01 R Hand
+    400160: Bip01 R Thigh
+    400162: Bip01 R Toe0
+    400164: Bip01 R Toe0Nub
+    400166: Bip01 R UpperArm
+    400168: Bip01 Spine
+    400170: Bip01 Spine1
+    4300000: sworddancer_6
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: sworddancer_6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

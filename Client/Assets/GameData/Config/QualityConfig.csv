@@ -1,0 +1,9 @@
+﻿INDEX,QUALITY_NAME,QUALITY_ATLAS_NAME,QUALITY_SPRITE_NAME,CARD_BG_ATLAS_NAME_PET,CARD_BG_SPRITE_NAME_PET,CARD_BG_ATLAS_NAME_CHARACTER,CARD_BG_SPRITE_NAME_CHARACTER,ROTATE_UI,ROTATE_MAIN_UI,ROTATE_FIGHT_UI,UI_AUREOLE,MAIN_UI_AUREOLE,FIGHT_UI_AUREOLE,AUREOLE_NAME,COLOR
+INT,STRING,STRING,STRING,STRING,STRING,STRING,STRING,FLOAT,FLOAT,FLOAT,STRING,STRING,STRING,STRING,STRING
+1,白色,ElementAtlas,ui_fuwen_red,CardAtlas,a_ui_card_1,0,0,0,0,0,0,0,0,0,[cccccc]
+2,绿色,ElementAtlas,ui_fuwen_blue,CardAtlas,a_ui_card_2,0,0,0,0,0,0,0,0,0,[009900]
+3,蓝色,ElementAtlas,ui_fuwen_green,CardAtlas,a_ui_card_3,CardAtlas,a_ui_zhujuecard_3,0,0,0,0,0,0,0,[0099cc]
+4,紫色,ElementAtlas,ui_fuwen_gold,CardAtlas,a_ui_card_4,CardAtlas,a_ui_zhujuecard_4,0,0,0,0,0,0,0,[cc33ff]
+5,橙色,ElementAtlas,ui_fuwen_shadow,CardAtlas,a_ui_card_5,CardAtlas,a_ui_zhujuecard_5,187,7,0,new_ui_npcadvanced_small,new_ui_npcadvanced,new_ui_npcadvanced,new_ui_npcadvanced,[ff9900]
+6,红色,0,0,0,0,0,0,0,0,0,0,0,0,0,[ff0000]
+7,粉色,0,0,0,0,0,0,0,0,0,0,0,0,0,[ff9966]

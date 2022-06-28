@@ -1,0 +1,8 @@
+INT,STRING,STRING,STRING,STRING
+INDEX,ATTRIBUTE_BACKGROUND_NAME,ATTRIBUTE_NAME,ATTRIBUTE_ICON,ATTRIBUTE_SPRITE
+1000,属性竞技场背景图片路径,属性竞技场名字,属性icon,属性排行榜icon
+0,textures/UItextures/Background/ui_red_sx,火属性竞技场,ui_logo_red,ui_sxc_red
+1,textures/UItextures/Background/ui_blue_sx,水属性竞技场,ui_logo_blue,ui_sxc_blue
+2,textures/UItextures/Background/ui_green_sx,木属性竞技场,ui_logo_green,ui_sxc_green
+3,textures/UItextures/Background/ui_yellow_sx,阳属性竞技场,ui_logo_yellow,ui_sxc_yellow
+4,textures/UItextures/Background/ui_zi_sx,阴属性竞技场,ui_logo_zi,ui_sxc_zi

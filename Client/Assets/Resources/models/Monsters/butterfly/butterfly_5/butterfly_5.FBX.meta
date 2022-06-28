@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 6f47441c30a7d3148b46b138ce81c8bb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 L Calf
+    100006: Bip01 L Clavicle
+    100008: Bip01 L Finger0
+    100010: Bip01 L Finger1
+    100012: Bip01 L Finger2
+    100014: Bip01 L Foot
+    100016: Bip01 L Forearm
+    100018: Bip01 L Hand
+    100020: Bip01 L Thigh
+    100022: Bip01 L Toe0
+    100024: Bip01 L UpperArm
+    100026: Bip01 Neck
+    100028: Bip01 Pelvis
+    100030: Bip01 R Calf
+    100032: Bip01 R Clavicle
+    100034: Bip01 R Finger0
+    100036: Bip01 R Finger1
+    100038: Bip01 R Finger2
+    100040: Bip01 R Foot
+    100042: Bip01 R Forearm
+    100044: Bip01 R Hand
+    100046: Bip01 R Thigh
+    100048: Bip01 R Toe0
+    100050: Bip01 R UpperArm
+    100052: Bip01 Spine
+    100054: Bip01 Spine1
+    100056: //RootNode
+    100058: butterfly_water_05
+    100060: CB_L01
+    100062: CB_L02
+    100064: CB_R01
+    100066: CB_R02
+    100068: Eye_L01
+    100070: Eye_R01
+    100072: Hair_L01
+    100074: Hair_L02
+    100076: Hair_L03
+    100078: Hair_R01
+    100080: Hair_R02
+    100082: Hair_R03
+    100084: ______005
+    100086: Bone004
+    100088: Bone008
+    100090: Bone013
+    100092: Bone015
+    100094: Bone017
+    100096: Bone019
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 L Calf
+    400006: Bip01 L Clavicle
+    400008: Bip01 L Finger0
+    400010: Bip01 L Finger1
+    400012: Bip01 L Finger2
+    400014: Bip01 L Foot
+    400016: Bip01 L Forearm
+    400018: Bip01 L Hand
+    400020: Bip01 L Thigh
+    400022: Bip01 L Toe0
+    400024: Bip01 L UpperArm
+    400026: Bip01 Neck
+    400028: Bip01 Pelvis
+    400030: Bip01 R Calf
+    400032: Bip01 R Clavicle
+    400034: Bip01 R Finger0
+    400036: Bip01 R Finger1
+    400038: Bip01 R Finger2
+    400040: Bip01 R Foot
+    400042: Bip01 R Forearm
+    400044: Bip01 R Hand
+    400046: Bip01 R Thigh
+    400048: Bip01 R Toe0
+    400050: Bip01 R UpperArm
+    400052: Bip01 Spine
+    400054: Bip01 Spine1
+    400056: //RootNode
+    400058: butterfly_water_05
+    400060: CB_L01
+    400062: CB_L02
+    400064: CB_R01
+    400066: CB_R02
+    400068: Eye_L01
+    400070: Eye_R01
+    400072: Hair_L01
+    400074: Hair_L02
+    400076: Hair_L03
+    400078: Hair_R01
+    400080: Hair_R02
+    400082: Hair_R03
+    400084: ______005
+    400086: Bone004
+    400088: Bone008
+    400090: Bone013
+    400092: Bone015
+    400094: Bone017
+    400096: Bone019
+    4300000: butterfly_water_05
+    4300002: ______005
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: butterfly_water_05
+    13700002: ______005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

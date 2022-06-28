@@ -1,0 +1,14 @@
+INDEX,DATA_TYPE,NOTE,TABLE_PATH
+INT,STRING,STRING,STRING
+0,yuanbao,元宝,1000001
+1,yinbi,银币,1000002
+2,fuhuen,符魂,1000004
+3,shengwang,声望,1000006
+4,moling,魔麟,1000008
+5,linghe,灵核,1000007
+6,zongmencontri,宗门贡献,1000009
+7,energy,精力,30
+8,manual,体力,100
+9,xiangmoling,降魔令,10
+10,tid,VIP等级,Viplist/INDEX
+11,leadicon,主角头像,ActiveObject/HEAD_SPRITE_NAME

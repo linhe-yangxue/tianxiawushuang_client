@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 796a0a20af345194d9e06259cb20d9cb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Footsteps
+    100004: Bip01 Head
+    100006: Bip01 HeadNub
+    100008: Bip01 L Calf
+    100010: Bip01 L Clavicle
+    100012: Bip01 L Finger0
+    100014: Bip01 L Finger01
+    100016: Bip01 L Finger0Nub
+    100018: Bip01 L Foot
+    100020: Bip01 L Forearm
+    100022: Bip01 L Hand
+    100024: Bip01 L Thigh
+    100026: Bip01 L Toe0
+    100028: Bip01 L Toe0Nub
+    100030: Bip01 L Toe1
+    100032: Bip01 L Toe1Nub
+    100034: Bip01 L UpperArm
+    100036: Bip01 Neck
+    100038: Bip01 Pelvis
+    100040: Bip01 R Calf
+    100042: Bip01 R Clavicle
+    100044: Bip01 R Finger0
+    100046: Bip01 R Finger01
+    100048: Bip01 R Finger0Nub
+    100050: Bip01 R Foot
+    100052: Bip01 R Forearm
+    100054: Bip01 R Hand
+    100056: Bip01 R Thigh
+    100058: Bip01 R Toe0
+    100060: Bip01 R Toe0Nub
+    100062: Bip01 R Toe1
+    100064: Bip01 R Toe1Nub
+    100066: Bip01 R UpperArm
+    100068: Bip01 Spine
+    100070: Bone001
+    100072: Bone003
+    100074: Bone004
+    100076: Bone005
+    100078: Bone006
+    100080: Bone007
+    100082: Bone008
+    100084: Bone009
+    100086: Bone010
+    100088: Bone011
+    100090: Bone012
+    100092: Bone013
+    100094: Bone015
+    100096: Bone017
+    100098: Bone019
+    100100: Bone021
+    100102: //RootNode
+    100104: mechbird_wood_2
+    400000: Bip01
+    400002: Bip01 Footsteps
+    400004: Bip01 Head
+    400006: Bip01 HeadNub
+    400008: Bip01 L Calf
+    400010: Bip01 L Clavicle
+    400012: Bip01 L Finger0
+    400014: Bip01 L Finger01
+    400016: Bip01 L Finger0Nub
+    400018: Bip01 L Foot
+    400020: Bip01 L Forearm
+    400022: Bip01 L Hand
+    400024: Bip01 L Thigh
+    400026: Bip01 L Toe0
+    400028: Bip01 L Toe0Nub
+    400030: Bip01 L Toe1
+    400032: Bip01 L Toe1Nub
+    400034: Bip01 L UpperArm
+    400036: Bip01 Neck
+    400038: Bip01 Pelvis
+    400040: Bip01 R Calf
+    400042: Bip01 R Clavicle
+    400044: Bip01 R Finger0
+    400046: Bip01 R Finger01
+    400048: Bip01 R Finger0Nub
+    400050: Bip01 R Foot
+    400052: Bip01 R Forearm
+    400054: Bip01 R Hand
+    400056: Bip01 R Thigh
+    400058: Bip01 R Toe0
+    400060: Bip01 R Toe0Nub
+    400062: Bip01 R Toe1
+    400064: Bip01 R Toe1Nub
+    400066: Bip01 R UpperArm
+    400068: Bip01 Spine
+    400070: Bone001
+    400072: Bone003
+    400074: Bone004
+    400076: Bone005
+    400078: Bone006
+    400080: Bone007
+    400082: Bone008
+    400084: Bone009
+    400086: Bone010
+    400088: Bone011
+    400090: Bone012
+    400092: Bone013
+    400094: Bone015
+    400096: Bone017
+    400098: Bone019
+    400100: Bone021
+    400102: //RootNode
+    400104: mechbird_wood_2
+    4300000: mechbird_wood_2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: mechbird_wood_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

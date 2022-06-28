@@ -1,0 +1,50 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NGUI\Scripts\UI\UICamera.cs">
+    <Files>
+      <File FileName="Assets\Script\Common\ActivateLater.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Login\LoginData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\StartMain.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\VIP\RechargeContainerWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\VIP\RechargeWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\VIP\VIPWindowBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Net\NetManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SDK\SDKHelper\SDKPayHelper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\MainUIScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\WindowUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\VIP\VIPWindowNew.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Common\GameCommon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Common\UnityResource.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Net\HttpModule.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GlobalModule.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Net\NetDefine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SDK\GalaxySDK\src\data\U3DSharkData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\Main\ActivityWindow\ActivityFirstRechargeWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\Main\ActivityWindow\ActivityRechargeGiftWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Common\CommonDefine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Common\DataCenter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Base\NiceTable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\UIEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameEventCenter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\TableCommon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameData\RoleData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\Main\ActivityWindow\ActivityWindowUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\Main\ActivityWindow\ActivitySignWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\Main\TaskWindow\TaskProperty.cs" Line="38" Column="18" />
+      <File FileName="Assets\Script\Net\NetRequester.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UI\Main\SelectLevel\ScrollWorldMapUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\UICamera.cs" Line="871" Column="20" />
+      <File FileName="Assets\Source\LuaWrap\InputWrap.cs" Line="437" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\XiaoShiMeiFinish\XiaoShiMeiFinish\XiaoShiMei_branches\Client\Assets\Script\UI\VIP\RechargeContainerWindow.cs" line="179" />
+      <Breakpoint file="E:\XiaoShiMeiFinish\XiaoShiMeiFinish\XiaoShiMei_branches\Client\Assets\Script\UI\UIEvent.cs" line="2689" />
+      <Breakpoint file="E:\XiaoShiMeiFinish\XiaoShiMeiFinish\XiaoShiMei_branches\Client\Assets\Script\UI\UIEvent.cs" line="2696" />
+      <Breakpoint file="E:\XiaoShiMeiFinish\XiaoShiMeiFinish\XiaoShiMei_branches\Client\Assets\Script\UI\MainUIScript.cs" line="1848" />
+      <Breakpoint file="E:\XiaoShiMeiFinish\XiaoShiMeiFinish\XiaoShiMei_branches\Client\Assets\Script\GameEventCenter.cs" line="491" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

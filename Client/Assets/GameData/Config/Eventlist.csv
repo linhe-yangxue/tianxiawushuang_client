@@ -1,0 +1,6 @@
+INT,STRING,STRING,STRING,STRING
+INDEX,LISTIMG_ATLAS,LISTIMG_SPRITE,LISTIMG_OFF_ATLAS,LISTIMG_OFF_SPRITE
+0,活动大页图片集,活动图片大页图片,,
+100,EventAtlas,ui_huodongqian_jinqian_on,EventAtlas,ui_huodongqian_jinqian_off
+101,EventAtlas,ui_huodongqian_jinyan_on,EventAtlas,ui_huodongqian_jinyan_off
+102,EventAtlas,ui_huodongqian_mijing_on,EventAtlas,ui_huodongqian_mijing_off

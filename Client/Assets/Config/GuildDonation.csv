@@ -1,0 +1,8 @@
+INT,STRING,STRING,STRING,STRING
+INDEX,NAME,ICONATLAS,PICTURE,DESCRIPTION
+0,捐献名字,捐献图集,图标,描述
+1001,泛泛之辈,GuildAtlas,ui_gonghui_banggoushangdian001,[EEEEEE]增加个人、公会贡献度[99FF00]1000[EEEEEE]点
+1002,慷慨解囊,GuildAtlas,ui_gonghui_banggoushangdian002,[EEEEEE]增加个人、公会贡献度[99FF00]2000[EEEEEE]点
+1003,一掷千金,GuildAtlas,ui_gonghui_banggoushangdian003,[EEEEEE]增加个人、公会贡献度[99FF00]5000[EEEEEE]点
+1004,倾囊而出,GuildAtlas,ui_gonghui_banggoushangdian004,[EEEEEE]增加个人、公会贡献度[99FF00]10000[EEEEEE]点
+1005,众志成城,GuildAtlas,ui_gonghui_banggoushangdian004,[EEEEEE]增加个人、公会贡献度[99FF00]20000[EEEEEE]点

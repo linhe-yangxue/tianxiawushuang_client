@@ -1,0 +1,735 @@
+﻿INDEX,NAME,TYPE,MODEL,LIFE_TIME,UPDATEPOS,LOCATION_1,LOCATION_2,BONE,APPLY_DIRECTION,X,Y,Z,SOUND,SOUND_START_TIME,EFFECT_SPEED,EFFECT_SIZE
+INT,STRING,STRING,STRING,FLOAT,INT,STRING,STRING,STRING,STRING,FLOAT,FLOAT,FLOAT,STRING,FLOAT,FLOAT,FLOAT
+9999,技能释放测试,Effect,effect/Char/ec_skillex,1.2,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+90001,技能释放火,Effect,effect/Char/ec_skillexfire,1.2,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+90002,技能释放水,Effect,effect/Char/ec_skillexwater,1.2,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+90003,技能释放木,Effect,effect/Char/ec_skillexwood,1.2,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+90004,技能释放阳,Effect,effect/Char/ec_skillexgold,1.2,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+90005,技能释放阴,Effect,effect/Char/ec_skillexshadow,1.2,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1101,缠绕符,Effect,effect/Char/ec_sheepforce_m,2,0,OBJECT,0,Bip01Footsteps,NONE,0,0.5,0,0,0,1,1
+1102,减速符,Effect,effect/Char/ec_slowdown_m,2,0,OBJECT,0,Bip01Footsteps,NONE,0,0.5,0,0,0,1,1
+1103,鹰眼符,Effect,effect/Char/ec_eagleeye_blue_m,2,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1104,鹰爪符,Effect,effect/Char/ec_talons_m,2,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1105,鹰速符,Effect,effect/Char/ec_eagle_green_m,2,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1106,威武符,Effect,effect/Char/ec_mighty_red_m,2,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1107,不动符,Effect,effect/Char/ec_defense_green_m,2,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1108,无力符,Effect,effect/Char/ec_unable_shadow_m,2,0,OBJECT,0,Bip01Footsteps,NONE,0,0.5,0,0,0,1,1
+1109,虚弱符,Effect,effect/Char/ec_weak_gold_m,2,0,OBJECT,0,Bip01Footsteps,NONE,0,0.5,0,0,0,1,1
+1110,钝足符,Effect,effect/Char/ec_bluntenough_blue_m,2,0,OBJECT,0,Bip01Footsteps,NONE,0,0.5,0,0,0,1,1
+1111,嚎叫符,Effect,effect/Char/ec_howl_blue_m,2,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1112,木肤符,Effect,effect/Char/ec_woodskin_green_m,2,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1113,幸运符,Effect,effect/Char/ec_lucky_red_m,2,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1114,治疗符,Effect,effect/Char/ec_treatment_green_m,2,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1115,霞光符,Effect,effect/Char/ec_twilight_q,2,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1116,回春符,Effect,effect/Char/ec_rejuvenation_q,2,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1117,回命符,Effect,effect/Char/ec_backtolife_q,2,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1118,鹿力符,Effect,effect/Char/ec_luli_m,2,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1001,聚气符（水）起手,Effect,effect/Char/ec_gather_blue_q,1,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1002,聚气符（木）起手,Effect,effect/Char/ec_gather_green_q,1,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1003,聚气符（火）起手,Effect,effect/Char/ec_gather_red_q,1,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1004,聚气符（光）起手,Effect,effect/Char/ec_gettogether_gold_q,1,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1005,聚气符（暗）起手,Effect,effect/Char/ec_gettogether_shadow_q,1,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1006,凝气符（水）起手激光,Effect,effect/Char/ec_condensate_blue_q,4,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1007,凝气符（木）起手激光,Effect,effect/Char/ec_condensate_green_q,4,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1008,凝气符（火）起手激光,Effect,effect/Char/ec_condensate_red_q,4,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1009,凝气符（光）起手激光,Effect,effect/Char/ec_condensate_gold_q,4,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1010,凝气符（暗）起手激光,Effect,effect/Char/ec_condensate_shadow_q,4,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1011,冲击符（水）起手,Effect,effect/Char/ec_impact_blue_q,2,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1012,冲击符（木）起手,Effect,effect/Char/ec_impact_green_q,2,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1013,冲击符（火）起手,Effect,effect/Char/ec_impact_red_q,2,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1014,冲击符（光）起手-预留,Effect,effect/Char/ec_impact_red_q,2,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1015,冲击符（暗）起手-预留,Effect,effect/Char/ec_impact_red_q,2,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1016,气贯长虹（水）起手,Effect,effect/Char/ec_changhong_blue_q,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1017,气贯长虹（木）起手,Effect,effect/Char/ec_changhong_green_q,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1018,气贯长虹（火）起手,Effect,effect/Char/ec_changhong_red_q,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1019,气贯长虹（光）起手,Effect,effect/Char/ec_changhong_gold_q,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1020,气贯长虹（暗）起手,Effect,effect/Char/ec_changhong_shadow_q,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1021,喷射（水）起手,Effect,effect/Char/ec_jet_blue_q,1.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1022,喷射（木）起手,Effect,effect/Char/ec_jet_green_q,1.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1023,喷射（火）起手,Effect,effect/Char/ec_jet_red_q,1.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1024,喷射（光）起手,Effect,effect/Char/ec_jet_gold_q,1.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1025,喷射（暗）起手,Effect,effect/Char/ec_jet_shadow_q,1.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1026,机关射线（水）起手,Effect,effect/Char/ec_ray_blue_q,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1027,机关射线（木）起手,Effect,effect/Char/ec_ray_green_q,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1028,机关射线（火）起手,Effect,effect/Char/ec_ray_red_q,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1030,超级机关射线（光）起手,Effect,effect/Char/ec_authorityray_z,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1031,超级机关射线（暗）起手,Effect,effect/Char/ec_authorityray_shadow,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+1032,蜘蛛网,Effect,Effect/Char/ec_slowdown_m,1.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+2000,空子弹飞行,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2001,聚气符（水）飞行,Effect,effect/Char/ec_gather_blue_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2002,聚气符（木）飞行,Effect,effect/Char/ec_gather_green_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2003,聚气符（火）飞行,Effect,effect/Char/ec_gather_red_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2004,聚气符（光）飞行,Effect,effect/Char/ec_gettogether_gold_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2005,聚气符（暗）飞行,Effect,effect/Char/ec_gettogether_shadow_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2006,冲击符（水）飞行,Effect,effect/Char/ec_impact_blue_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2007,冲击符（木）飞行,Effect,effect/Char/ec_impact_green_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2008,冲击符（火）飞行,Effect,effect/Char/ec_impact_red_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2009,冲击符（光）飞行-预留,Effect,effect/Char/ec_impact_red_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2010,冲击符（暗）飞行-预留,Effect,effect/Char/ec_impact_red_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2011,爆裂符（水）飞行,Effect,effect/Char/ec_burst_blue_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2012,爆裂符（木）飞行,Effect,effect/Char/ec_burst_green_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2013,爆裂符（火）飞行,Effect,effect/Char/ec_burst_red_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2014,爆裂符（光）飞行,Effect,effect/Char/ec_burst_gold_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2015,爆裂符（暗）飞行,Effect,effect/Char/ec_burst_gold_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2016,大爆裂符（水）飞行,Effect,effect/Char/ec_boom_blue_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2017,大爆裂符（木）飞行,Effect,effect/Char/ec_boom_green_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2018,大爆裂符（火）飞行,Effect,effect/Char/ec_boom_red_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2019,大爆裂符（光）飞行,Effect,effect/Char/ec_boom_gold_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2020,大爆裂符（暗）飞行,Effect,effect/Char/ec_boom_shadow_z,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2021,巨剑符（水）起手（实际为飞行）,Effect,effect/Char/ec_sword_blue_q,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2022,巨剑符（木）起手（实际为飞行）,Effect,effect/Char/ec_sword_green_q,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2023,巨剑符（火）起手（实际为飞行）,Effect,effect/Char/ec_sword_red_q,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2024,巨剑符（光）起手（实际为飞行）-暂时使用火代替,Effect,effect/Char/ec_sword_red_q,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2025,巨剑符（暗）起手（实际为飞行）-暂时使用火代替,Effect,effect/Char/ec_sword_red_q,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2026,天罡符（木）飞行,Effect,effect/Char/ec_highestday_green_z,3,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2027,天罡符（火）飞行,Effect,effect/Char/ec_highestday_red_z,3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+2028,鬼剑巨剑符（水）起手（实际为飞行）,Effect,effect/Char/ec_ghostsword_blue_q,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2029,鬼剑巨剑符（木）起手（实际为飞行）,Effect,effect/Char/ec_ghostsword_green_q,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2030,鬼剑巨剑符（火）起手（实际为飞行）,Effect,effect/Char/ec_ghostsword_red_q,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2031,鬼剑巨剑符（光）起手（实际为飞行）,Effect,effect/Char/ec_ghostsword_gold_q,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2032,鬼剑巨剑符（暗）起手（实际为飞行）,Effect,effect/Char/ec_ghostsword_shadow_q,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2033,青龙符飞行,Effect,effect/Char/ec_tsinglung_z,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2034,朱雀符飞行,Effect,effect/Char/ec_rosefinch_z,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2035,暴食（木）,Effect,effect/Char/ec_taotie_z,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0.5,0,0,0,1,1
+2036,神威,Effect,effect/Char/ec_comparedto_q,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2037,天庭火,Effect,effect/Char/skill_bossgoldenlionskill1,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0.1,0,0,0,1,1
+2038,天罡符（木）起手,Effect,effect/Char/ec_sheepforce_z,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+2039,天罡符（火）起手,Effect,effect/Char/ec_highestday_red_z,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+2040,超级机关射线（暗）子弹,Effect,effect/Atteffect/empty,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,Sound/new/TX/xingtian,0,1,1
+2041,猴子锤子子弹,Effect,Effect/Char/ec_chuizifly,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2042,狐狸魅惑子弹,Effect,effect/Atteffect/ec_meihuofox,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2043,技能子弹,Effect,Effect/Char/ec_queskillnew,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+2044,机关枪子弹,Effect,Effect/Atteffect/noratt_quefly,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,1.2,0,0,0,1,1
+2045,主角新技能，散弹,Effect,Effect/Char/ec_rolesanzidan,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+3000,加红+,Effect,effect/State/ec_redcross,1,1,BONE,0,Bip01 Head,NONE,0,0,0,0,0,1,1
+3001,加蓝+,Effect,effect/State/ec_bluecross,1,1,BONE,0,Bip01 Head,NONE,0.5,0,0,0,0,1,1
+3002,掉落红,DropEffect,effect/State/effectballhp,9000,1,0,0,0,0,0.5,2,0,0,0,1,1
+3003,掉落蓝,DropEffect,effect/State/effectballmp,9000,1,0,0,0,0,0,2,0.5,0,0,1,1
+3004,绿叶旋风,BaseEffect,effect/cfx3/cartoonfx/cfx3prefabs/nature/cfx3_shield_leaves,2,1,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+3005,范围特效,Effect,effect/State/bound_effect,0,1,OBJECT,0,0,0,0,0.2,0,0,0,1,1
+3006,感叹号,WarnEffect,0,0,1,OBJECT,0,Bip01 Head,0,0,2,0,0,0,1,1
+3007,测试BUFFER,Effect,db/prefabs/skill/bluehoming,0,1,BONE,0,Bip01 Head,0,0,0.6,0,0,0,1,1
+3008,聚气符（水）命中,Effect,effect/Char/ec_gather_blue_m,1,1,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+3009,聚气符（木）命中,Effect,effect/Char/ec_gather_green_m,1,1,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+3010,聚气符（火）命中,Effect,effect/Char/ec_gather_red_m,1,1,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+3011,聚气符（光）命中-暂时使用火代替,Effect,effect/Char/ec_gather_red_m,1,1,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+3012,聚气符（暗）命中-暂时使用火代替,Effect,effect/Char/ec_gather_red_m,1,1,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+3013,爆裂符（水）命中,Effect,effect/Char/ec_burst_blue_m,1,1,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+3014,爆裂符（水）命中,Effect,effect/Char/ec_burst_green_m,1,1,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+3015,爆裂符（水）命中,Effect,effect/Char/ec_burst_red_m,1,1,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+3016,爆裂符（水）命中,Effect,effect/Char/ec_burst_gold_m,1,1,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+3017,爆裂符（水）命中,Effect,effect/Char/ec_burst_shadow_m,1,1,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+3018,大爆裂符（水）命中,Effect,effect/Char/ec_boom_blue_m,1.5,1,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+3019,大爆裂符（木）命中,Effect,effect/Char/ec_boom_green_m,1.5,1,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+3020,大爆裂符（火）命中,Effect,effect/Char/ec_boom_red_m,1.5,1,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+3021,大爆裂符（光）命中-暂时使用火代替,Effect,effect/Char/ec_boom_gold_m,1.5,1,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+3022,大爆裂符（暗）命中-暂时使用火代替,Effect,effect/Char/ec_boom_shadow_m,1.5,1,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+3023,天罡符（木）命中,Effect,effect/Char/ec_highestday_green_m,1,1,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+3024,天罡符（火）命中,Effect,effect/Char/ec_highestday_red_m,1,1,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+3025,普攻命中,Effect,effect/Char/ec_generalhit,0.7,1,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+3026,灵将出现,Effect,effect/State/ec_monsterstart,2,1,OBJECT,0,0,0,0,1,0,0,0,1,1
+3027,灵将死亡,Effect,effect/State/ec_monsterdead,5,1,OBJECT,0,0,0,0,1,0,0,0,1,1
+3028,箱子特效,DropEffect,Effect/UI/ec_ui_diaoluobox,9000,1,0,0,0,0,0,0,0,0,0,0,0
+3029,铜钱特效,DropEffect,Effect/UI/ec_ui_diaoluotq,9000,1,0,0,0,0,0,0,0,0,0,0,0
+3030,高级灵将出现,Effect,effect/State/ec_monsterstartgold,2,1,OBJECT,0,0,0,0,1,0,0,0,1,1
+4001,天师护身符（水）命中,Effect,effect/Char/ec_protective_blue_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4002,天师护身符（木）命中,Effect,effect/Char/ec_protective_green_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4003,天师护身符（火）命中,Effect,effect/Char/ec_protective_red_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4004,天师护身符（光）命中-暂时用火代替,Effect,effect/Char/ec_protective_red_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4005,天师护身符（暗）命中,Effect,effect/Char/ec_protective_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4006,天剑符（水）命中,Effect,effect/Char/ec_heavenly_blue_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4007,天剑符（木）命中,Effect,effect/Char/ec_heavenly_green_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4008,天剑符（火）命中,Effect,effect/Char/ec_heavenly_red_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4009,天剑符（光）命中,Effect,effect/Char/ec_heavenly_gold_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4010,天剑符（暗）命中,Effect,effect/Char/ec_heavenly_shadow_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4011,虎力符起手,Effect,effect/Char/ec_tigerforce_q,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4012,木旋风命中,Effect,effect/Char/ec_wood_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4013,天雷震命中,Effect,effect/Char/ec_daysofthunder_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4014,白虎符,Effect,effect/Char/ec_whitetrigerfu,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4015,玄武符,Effect,effect/Char/ec_basaltic_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,1.25,0,0,0,1,1
+4016,麒麟符,Effect,effect/Char/ec_kirin_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,1.25,0,0,0,1,1
+4017,羊力符（木）,Effect,effect/Char/ec_yanglidaxian,4,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+1029,漩涡射线起手,Effect,effect/Char/ec_whirlpool_q,4,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4018,毒雾需求,Effect,Effect/Char/ec_snakeduwu,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4019,天降大锤子,Effect,Effect/Char/ec_bigchuizi,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4020,灵爆,Effect,effect/Char/ec_yuanzidan,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4021,破天剑,Effect,effect/Char/ec_heavenly_green_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+4022,自爆,Effect,effect/Char/ec_heavenly_green_m,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+6001,狐狸远程1起手,Effect,effect/Atteffect/empty,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6002,狐狸远程2起手,Effect,effect/Atteffect/empty,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6003,狐狸远程3起手,Effect,effect/Atteffect/empty,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6004,鹿力大仙远程1起手,Effect,effect/Atteffect/empty,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6005,鹿力大仙远程2起手,Effect,effect/Atteffect/empty,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6006,鹿力大仙远程3起手,Effect,effect/Atteffect/empty,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6007,仙女远程1起手,Effect,effect/Atteffect/noratt_fairyatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6008,仙女远程2起手,Effect,effect/Atteffect/noratt_fairyatt1,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6009,仙女远程3起手,Effect,effect/Atteffect/noratt_fairyatt2,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6010,鬼道士远程1起手,Effect,effect/Atteffect/noratt_evilwizardatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6011,鬼道士远程2起手,Effect,effect/Atteffect/noratt_evilwizardatt1,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6012,鬼道士远程3起手,Effect,effect/Atteffect/noratt_evilwizardatt2,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6013,狸猫远程1起手,Effect,effect/Atteffect/noratt_civetatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6014,狸猫远程2起手,Effect,effect/Atteffect/noratt_civetatt1,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6015,狸猫远程3起手,Effect,effect/Atteffect/noratt_civetatt1,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6016,狐妖远程1起手,Effect,effect/Atteffect/noratt_evilfoxatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6017,狐妖远程2起手,Effect,effect/Atteffect/noratt_evilfoxatt1,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6018,狐妖远程3起手,Effect,effect/Atteffect/noratt_evilfoxatt2,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6019,风伯远程1起手,Effect,effect/Atteffect/noratt_windmasteratt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6020,风伯远程2起手,Effect,effect/Atteffect/noratt_windmasteratt1,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6021,风伯远程3起手,Effect,effect/Atteffect/noratt_windmasteratt2,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6022,机关鸟远程1起手,Effect,effect/Atteffect/noratt_mechbirdatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6023,机关鸟远程2起手,Effect,effect/Atteffect/noratt_mechbirdatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6024,机关鸟远程3起手,Effect,effect/Atteffect/noratt_mechbirdatt2,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6025,朱雀远程1起手,Effect,effect/Atteffect/noratt_redbirdatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6026,朱雀远程2起手,Effect,effect/Atteffect/noratt_redbirdatt1,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6027,朱雀远程3起手,Effect,effect/Atteffect/noratt_redbirdatt2,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6028,鹰远程起手1,Effect,effect/Atteffect/noratt_eagleatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6029,鹰远程起手2,Effect,effect/Atteffect/noratt_eagleatt1,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6030,鹰远程起手3,Effect,effect/Atteffect/noratt_eagleatt2,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6031,蝴蝶精远程起手1,Effect,effect/Atteffect/noratt_butterflyatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6032,蝴蝶精远程起手2,Effect,effect/Atteffect/noratt_butterflyatt1,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6033,蝴蝶精远程起手3,Effect,effect/Atteffect/noratt_butterflyatt2,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6034,蜘蛛精远程起手1,Effect,effect/Atteffect/noratt_spideratt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6035,蜘蛛精远程起手2,Effect,effect/Atteffect/noratt_spideratt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6036,蜘蛛精远程起手3,Effect,effect/Atteffect/noratt_spideratt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6037,女主起手1,Effect,effect/Atteffect/noratt_wushuangatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6038,女主起手2,Effect,effect/Atteffect/noratt_wushuangatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6039,女主起手3,Effect,effect/Atteffect/noratt_wushuangatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6040,男主起手1,Effect,effect/Atteffect/empty,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6041,男主起手2,Effect,effect/Atteffect/empty,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+6042,男主起手3,Effect,effect/Atteffect/empty,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+7001,狐狸远程1飞行,Effect,effect/Atteffect/noratt_foxfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0.6,0,0,0,1,1
+7002,狐狸远程2飞行,Effect,effect/Atteffect/noratt_foxfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0.6,0,0,0,1,1
+7003,狐狸远程3飞行,Effect,effect/Atteffect/noratt_foxfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0.6,0,0,0,1,1
+7004,鹿力大仙远程1飞行,Effect,effect/Atteffect/noratt_deerlordatt,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7005,鹿力大仙远程2飞行,Effect,effect/Atteffect/noratt_deerlordatt,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7006,鹿力大仙远程3飞行,Effect,effect/Atteffect/noratt_deerlordatt,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7007,仙女远程1飞行,Effect,effect/Atteffect/noratt_fairyfly,10,0,OBJECT,0,Bip01Footsteps,LINE,-0.21,0,0,0,0,1,1
+7008,仙女远程2飞行,Effect,effect/Atteffect/noratt_fairyfly,10,0,OBJECT,0,Bip01Footsteps,LINE,-0.21,0,0,0,0,1,1
+7009,仙女远程3飞行,Effect,effect/Atteffect/noratt_fairyfly,10,0,OBJECT,0,Bip01Footsteps,LINE,-0.21,0,0,0,0,1,1
+7010,鬼道士远程1飞行,Effect,effect/Atteffect/noratt_evilwizardfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7011,鬼道士远程2飞行,Effect,effect/Atteffect/noratt_evilwizardfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7012,鬼道士远程3飞行,Effect,effect/Atteffect/noratt_evilwizardfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7013,狸猫远程1飞行,Effect,effect/Atteffect/noratt_zidan,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7014,狸猫远程2飞行,Effect,effect/Atteffect/noratt_zidan,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7015,狸猫远程3飞行,Effect,effect/Atteffect/noratt_zidan,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7016,狐妖远程1飞行,Effect,effect/Atteffect/noratt_evilfoxfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7017,狐妖远程2飞行,Effect,effect/Atteffect/noratt_evilfoxfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7018,狐妖远程3飞行,Effect,effect/Atteffect/noratt_evilfoxfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7019,风伯远程1飞行,Effect,effect/Atteffect/noratt_windmasterfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7020,风伯远程2飞行,Effect,effect/Atteffect/noratt_windmasterfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7021,风伯远程3飞行,Effect,effect/Atteffect/noratt_windmasterfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7022,机关鸟远程1飞行,Effect,effect/Atteffect/noratt_mechbirdfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7023,机关鸟远程2飞行,Effect,effect/Atteffect/noratt_mechbirdfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7024,机关鸟远程3飞行,Effect,effect/Atteffect/noratt_mechbirdfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7025,朱雀远程1飞行,Effect,effect/Atteffect/noratt_redbirdfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7026,朱雀远程2飞行,Effect,effect/Atteffect/noratt_redbirdfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7027,朱雀远程3飞行,Effect,effect/Atteffect/noratt_redbirdfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7028,鹰远程子弹1,Effect,effect/Atteffect/noratt_eaglefly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7029,鹰远程子弹2,Effect,effect/Atteffect/noratt_eaglefly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7030,鹰远程子弹3,Effect,effect/Atteffect/noratt_eaglefly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7031,蝴蝶精远程子弹1,Effect,effect/Atteffect/noratt_butterflyfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7032,蝴蝶精远程子弹2,Effect,effect/Atteffect/noratt_butterflyfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7033,蝴蝶精远程子弹3,Effect,effect/Atteffect/noratt_butterflyfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7034,蜘蛛精远程子弹1,Effect,effect/Atteffect/noratt_spiderfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7035,蜘蛛精远程子弹2,Effect,effect/Atteffect/noratt_spiderfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7036,蜘蛛精远程子弹3,Effect,effect/Atteffect/noratt_spiderfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7037,女主角子弹,Effect,effect/Atteffect/noratt_zhujiaozidan,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+7038,男主角子弹,Effect,effect/Skill/male_fly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+100,3D漂字,0,0,0,1,BONE,0,Bip01 Head,NONE,0,1.2,0,0,0,1,1
+81000,爆炸,Effect,effect/Char/ec_gather_red_q,99,1,BONE,0,Bip01 RHand,NONE,0,0,0,0,0,1,1
+81001,暴击,Effect,db/prefabs/skill/skillstomp,3,0,OBJECT,0,0,LINE,0,0.1,0,0,0,1,1
+81002,深紫色法术攻击伤害,Effect,effect/effect_resource/dark_hit,1.5,0,BONE,0,Bip01 Head,BONE,0,0.8,0,0,0,1,1
+81003,法术攻击伤害,Effect,effect/effect_resource/debuff_movespeed,1.5,0,OBJECT,0,Bip01 Head,BONE,0,0.8,0,0,0,1,1
+81004,法术攻击伤害,Effect,effect/effect_resource/e_gunner_s_attack1_xuli,1.5,0,BONE,0,Bip01 Head,BONE,0,0.8,0,0,0,1,1
+81005,法术攻击伤害,Effect,effect/effect_resource/e_mushroom_attack,1.5,0,BONE,0,Bip01 Head,BONE,0,0.8,0,0,0,1,1
+81006,法术攻击伤害,Effect,effect/effect_resource/e_sparta_attack,1.5,0,BONE,0,Bip01 Head,BONE,0,0.8,0,0,0,1,1
+81007,法术攻击伤害,Effect,effect/effect_resource/e_sparta_s_attack2,1.5,0,OBJECT,0,Bip01 Head,BONE,0,0.8,0,0,0,1,1
+81008,法术攻击伤害,Effect,effect/effect_resource/e_tiny_pig_s_attack1,1.5,0,BONE,0,Bip01 Head,LINE,0,1.2,0,0,0,1,1
+81009,法术攻击伤害,Effect,effect/effect_resource/ice_hit,1.5,0,BONE,0,Bip01 Head,BONE,0,0.8,0,0,0,1,1
+81010,法术攻击伤害,Effect,effect/effect_resource/physic_hit,1.5,0,BONE,0,Bip01 Head,BONE,0,0.8,0,0,0,1,1
+81011,法术攻击伤害,Effect,effect/effect_resource/buff_atk_y01,2,0,OBJECT,0,Bip01 Head,NONE,0,0.1,0,0,0,1,1
+81012,测试子弹-剑气（普攻）,Effect,prefabs/sphere,1.5,0,OBJECT,0,0,NONE,0,1,0,0,0,1,1
+81013,测试骷髅头龙卷风——直线多个技能（BOSS）,Effect,effect/effect_resource/skill/bonewhirlwind,2,0,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+81014,大火球——主技能（主角）,Effect,effect/effect_resource/skill/projectile03,2,0,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+81015,测试移动火球——暂时不用,Effect,effect/effect_resource/skill/arrowfx_fire,5,0,OBJECT,0,Bip01 Head,LINE,0,2,0,0,0,1,1
+81016,测试落雷闪电——直线多个技能（主角）,Effect,effect/effect_resource/skill/lightningstrike,2,0,OBJECT,0,Bip01 Head,LINE,0,1,0,0,0,1,1
+81017,测试子弹类技能——普通攻击（粉红星）,Effect,effect/effect_resource/skill/chaosmissile,2,0,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+81018,测试对应的命中（主角）,Effect,effect/effect_resource/skill/chaosexplosion,2,0,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+81019,测试子弹类技能——普通攻击（彩绿光）,Effect,effect/effect_resource/skill/rainbowballbase,2,0,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+81020,测试对应的命中（远程侠客）,Effect,effect/effect_resource/skill/rainbowexplosionbase,2,0,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+81021,测试子弹类技能——普通攻击（双线紫光）,Effect,effect/effect_resource/skill/arcanemissilebase,2,0,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+81022,测试对应的命中（远程侠客、怪物）,Effect,effect/effect_resource/skill/arcaneexplosionbase,2,0,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+81023,测试落雷闪电——直线单个技能（备用）,Effect,effect/effect_resource/skill/groundlightsbase,2,0,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+81024,测试——aoe（BOSS）,Effect,effect/effect_resource/skill/firestorm_manager,2,0,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+81025,测试——冰爆（主角）,Effect,effect/effect_resource/skill/ice_impact,2,0,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+81026,雷电,BaseEffect,effect/dynamicelements_effects/lightningeffects/lightningstrike,2,0,OBJECT,0,0,0,0,0,0,0,0,1,1
+81027,技能范围,BaseEffect,effect/skillbound,99,0,OBJECT,0,0,0,0,0.2,0,0,0,1,1
+81028,黑龙卷风,BaseEffect,effect/dynamicelements_effects/aireffects/tornadoeffect,6,0,0,0,0,0,0,0,0,0,0,1,1
+81029,危险范围紫色提示,BaseEffect,effect/cfx3/cartoonfx/cfx3prefabs/magicmisc/cfx3_vortex_ground,99,0,OBJECT,0,0,0,0,0.2,0,0,0,1,1
+81030,刀剑攻击声音,Effect,effect/Char/physic_hit,1.5,0,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+81031,BOSS咆哮,SoundEffect,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+81032,刀剑命中,Effect,effect/effect_resource/skill/rainbowexplosionbase,2,0,OBJECT,0,Bip01 Head,NONE,0,1,0,0,0,1,1
+9001,火BOSS普攻,Effect,effect/Atteffect/noratt_bossgoldenlionatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+9002,火BOSS技能1预警,Effect,effect/Char/skill_bossgoldenlionwaring,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+9003,火BOSS技能1子弹,Effect,effect/Char/skill_bossgoldenlionskill1,3,0,OBJECT,0,Bip01Footsteps,NONE,0,0.1,0,0,0,1,1
+9004,火BOSS技能2预警,Effect,effect/Char/skill_bossgoldwaring2,3,0,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+9005,火BOSS技能2火雨,Effect,effect/Char/skill_bossgoldenlionskill2,5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+9006,木BOSS技能1激光,Effect,effect/Char/skill_bossmechskill1,4,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+9007,木BOSS技能2预警,Effect,effect/Char/skill_bossmechwaring,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+9008,木BOSS技能2范围,Effect,effect/Char/skill_bossmechskill2,5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+9009,BOSS普攻,Effect,effect/Atteffect/noratt_bossgiantatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+9011,暗BOSS技能1\2预警,Effect,effect/Char/skill_bossstonemisterwaring,3,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+9012,暗BOSS技能1AOE,Effect,effect/Char/skill_bossstonemisterskill1,4,0,OBJECT,0,Bip01Footsteps,NONE,0,0.5,0,0,0,1,1
+9013,暗BOSS技能2AOE,Effect,effect/Char/skill_bossstonemisterskill2,4,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+9014,BOSS普攻,Effect,effect/Char/skill_bossstonemisterfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+9015,冰BOSS技能1起手,Effect,effect/Char/skill_bosshydrawaring,3,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+9016,冰BOSS技能1发射,Effect,effect/Char/skill_bosshydraskill1,10,0,OBJECT,0,Bip01Footsteps,NONE,0,0.1,0,0,0,1,1
+9017,冰BOSS技能2,Effect,effect/Char/skill_bosshydraskill2,20,0,OBJECT,0,Bip01Footsteps,LINE,0,0.1,0,0,0,1,1
+9018,冰BOSS技能2命中,Effect,effect/Char/ec_boom_blue_m,1,1,BONE,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+9019,BOSS普攻,Effect,effect/Atteffect/noratt_bosshydraatt,3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+9020,技能2起手,Effect,effect/Char/skill_bosshydrawaring2,3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+9021,光BOSS技能1,Effect,effect/Char/skill_bossguanyuskill1,3,1,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+9022,光BOSS技能2预警,Effect,effect/Char/skill_bosswaring,3,0,OBJECT,0,Bip01Footsteps,NONE,0,1,0,0,0,1,1
+9023,光BOSS技能2雷击,Effect,effect/Char/skill_bossguanyuskill2,3,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+9024,BOSS普攻,Effect,effect/Atteffect/noratt_bossguanyuatt,3,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+9025,主角跑路烟雾,Effect,Effect/Char/ec_dust,999999,1,OBJECT,0,0,0,0,0.5,0,0,0,1,1
+9026,0,Effect,Effect/Char/ec_battlehit,0.5,0,OBJECT,0,0,0,0,1.5,0,0,0,1,0
+8001,攻击力增加,Effect,effect/State/ec_bloodjian,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8002,攻击力数值减少,Effect,effect/State/ec_fracture,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8003,当前生命值增加,Effect,effect/State/ec_redcross,10,1,OBJECT,0,Bip01 Head,NONE,0,0,0,0,0,1,1
+8004,当前生命值减少,Effect,effect/State/ec_redarrow,10,1,OBJECT,0,Bip01 Head,NONE,0,0,0,0,0,1,1
+8005,当前魔法值增加,Effect,effect/State/ec_bluebroken,10,1,OBJECT,0,Bip01 Head,NONE,0,0,0,0,0,1,1
+8006,当前魔法值减少,Effect,effect/State/ec_bluearrow,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8007,防御力增加,Effect,effect/State/ec_goldenshield,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8008,防御力减少,Effect,effect/State/ec_shieldbroken,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8009,命中增加,Effect,effect/State/ec_hitincrease,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8010,命中下降,Effect,effect/State/ec_hitdown,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8011,闪避增加,Effect,effect/State/ec_evasionincrease,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8012,闪避下降,Effect,effect/State/ec_evasionincreasedown,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8013,暴击率增加,Effect,effect/State/ec_firefist,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8014,暴击率下降,Effect,effect/State/ec_waterboxing,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8015,增加受到暴击伤害比例,Effect,effect/State/ec_damage,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8016,减少受到暴击伤害比例,Effect,effect/State/ec_damagebjdown,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8017,伤害减免增加,Effect,effect/State/ec_damagenoneup,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8018,伤害减免下降,Effect,effect/State/ec_damagenonedown,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8019,魅惑,Effect,effect/State/ec_peachheart,10,1,OBJECT,0,Bip01 Head,NONE,0,0,0,0,0,1,1
+8020,恐惧,Effect,effect/State/ec_fear,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8021,冰冻,Effect,effect/State/ec_frozen,10,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+8022,眩晕,Effect,effect/State/ec_vertigo,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8023,生命上限增加,Effect,effect/State/ec_hpmaxadd,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8024,击倒,Effect,effect/State/ec_knockdown,10,1,OBJECT,0,Bip01 Head,NONE,0,0,0,0,0,1,1
+8025,当前魔法值增加,Effect,effect/State/ec_bluecross,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8026,中毒,Effect,effect/State/ec_poisondot,10,1,OBJECT,0,Bip01 Head,NONE,0,0,0,0,0,1,1
+8027,灼烧,Effect,effect/State/ec_firedot,10,1,OBJECT,0,Bip01 Head,NONE,0,0,0,0,0,1,1
+8028,攻击速度增加,Effect,effect/State/ec_bloodjianspeed,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8029,攻击速度减少,Effect,effect/State/ec_fracturespeed,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8030,生命值上限减少,Effect,effect/State/ec_hpmaxreduce,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8031,魔法值上限增加,Effect,effect/State/ec_spmaxadd,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+8032,魔法值上限减少,Effect,effect/State/ec_spmaxreduce,10,1,OBJECT,0,Bip01 Head,NONE,0,2.2,0,0,0,1,1
+10001,关羽绑定特效球,Effect,effect/Idleeffect/ec_qiu_01,9999,1,BONE,0,Qiu_01,BONE,0,0,0,0,0,1,1
+10002,关羽绑定特效球,Effect,effect/Idleeffect/ec_qiu_01,9999,1,BONE,0,Qiu_02,BONE,0,0,0,0,0,1,1
+10003,关羽绑定特效球,Effect,effect/Idleeffect/ec_qiu_01,9999,1,BONE,0,Qiu_03,BONE,0,0,0,0,0,1,1
+10004,麒麟爪,Effect,effect/Idleeffect/ec_kirin,9999,1,BONE,0,Bip001LHand,BONE,0,0,0,0,0,1,1
+10005,麒麟爪,Effect,effect/Idleeffect/ec_kirin,9999,1,BONE,0,Bip001RHand,BONE,0,0,0,0,0,1,1
+10006,麒麟爪,Effect,effect/Idleeffect/ec_kirin,9999,1,BONE,0,Bip001LFoot,BONE,0,0,0,0,0,1,1
+10007,麒麟爪,Effect,effect/Idleeffect/ec_kirin,9999,1,BONE,0,Bip001RFoot,BONE,0,0,0,0,0,1,1
+10008,麒麟尾巴,Effect,effect/Idleeffect/ec_kirin_tail,9999,1,BONE,0,Tail_04,BONE,0,0,0,0,0,1,1
+10014,火boss,Effect,effect/Idleeffect/ec_goldenlion,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+10019,雨师,Effect,effect/Idleeffect/ec_rainmaster_01,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+10020,树人火,Effect,effect/Idleeffect/ec_treeman_red,9999,1,BONE,0,Bip01 Head,BONE,0,0,0,0,0,1,1
+10021,树人水,Effect,effect/Idleeffect/ec_treeman_blue,9999,1,BONE,0,Bip01 Head,BONE,0,0,0,0,0,1,1
+10022,树人木,Effect,effect/Idleeffect/ec_treeman_green,9999,1,BONE,0,Bip01 Head,BONE,0,0,0,0,0,1,1
+10023,雨师,Effect,effect/Idleeffect/ec_windmaster,9999,1,BONE,0,Bip01Footsteps,BONE,0,0,0,0,0,1,1
+10024,石机,Effect,effect/Idleeffect/ec_stonemister,9999,1,BONE,0,Bip01 Neck,BONE,0,0,0,0,0,1,1
+10101,武圣随身-游戏中,Effect,Effect/Idleeffect/idleeffect_guanyuweapon,9999,1,BONE,0,Bip01 Prop1,BONE,0,0,0,0,0,1,1
+10102,武圣随身-游戏中,Effect,Effect/Idleeffect/idleeffect_guanyueyes,9999,1,BONE,0,Bip01 Head,BONE,0,0,0,0,0,1,1
+10103,石肌随身-游戏中,Effect,Effect/Idleeffect/idleeffect_stonemister,9999,1,BONE,0,Bip02,BONE,0,0,0,0,0,1,1
+10104,石肌随身-游戏中,Effect,Effect/Idleeffect/ec_stonemister,9999,1,BONE,0,Bip01 RFinger1,BONE,0,0,0,0,0,1,1
+10105,石肌随身-游戏中,Effect,Effect/Idleeffect/ec_stonemister,9999,1,BONE,0,Bip01 LFinger1,BONE,0,0,0,0,0,1,1
+10106,巨擘随身-游戏中,Effect,Effect/Idleeffect/idleeffect_giant,9999,1,BONE,0,Bip01 LUpperArm,BONE,0,0,0,0,0,1,1
+10107,巨擘随身-游戏中,Effect,Effect/Idleeffect/idleeffect_giant,9999,1,BONE,0,Bip01 RUpperArm,BONE,0,0,0,0,0,1,1
+10108,寒冰随身-游戏中,Effect,Effect/Idleeffect/idleeffect_hydrabig,9999,1,BONE,0,Bone054,BONE,0,0,0,0,0,1,1
+10109,寒冰随身-游戏中,Effect,Effect/Idleeffect/idleeffect_hydrabig,9999,1,BONE,0,Bone048,BONE,0,0,0,0,0,1,1
+10110,寒冰随身-游戏中,Effect,Effect/Idleeffect/idleeffect_hydrasmall,9999,1,BONE,0,Bone052,BONE,0,0,0,0,0,1,1
+10111,寒冰随身-游戏中,Effect,Effect/Idleeffect/idleeffect_hydrasmall,9999,1,BONE,0,Bone050,BONE,0,0,0,0,0,1,1
+10112,寒冰随身-游戏中,Effect,Effect/Idleeffect/idleeffect_hydrasmall,9999,1,BONE,0,Bone056,BONE,0,0,0,0,0,1,1
+10113,寒冰随身-游戏中,Effect,Effect/Idleeffect/idleeffect_hydraweapon,9999,1,BONE,0,Bip01 RHand,BONE,0,0,0,0,0,1,1
+10015,朱雀,Effect,effect/Idleeffect/ec_redbird,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+20101,朱雀随身-UI,Effect,Effect/Idleeffect/idleeffect_ui_redbird,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+10114,白虎随身-游戏中,Effect,Effect/Idleeffect/idleeffect_whitetriger,9999,1,BONE,0,Bip01 LHand,BONE,0,0,0,0,0,1,1
+10115,白虎随身-游戏中,Effect,Effect/Idleeffect/idleeffect_whitetriger,9999,1,BONE,0,Bip01 RHand,BONE,0,0,0,0,0,1,1
+10116,白虎随身-游戏中,Effect,Effect/Idleeffect/idleeffect_whitetrigerfoot,9999,1,BONE,0,Bip01 LFoot,BONE,0,0,0,0,0,1,1
+10117,白虎随身-游戏中,Effect,Effect/Idleeffect/idleeffect_whitetrigerfoot,9999,1,BONE,0,Bip01 RFoot,BONE,0,0,0,0,0,1,1
+10118,玄武随身-游戏中,Effect,Effect/Idleeffect/idleeffect_blackturtle,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+10119,刑天随身-游戏中,Effect,Effect/Idleeffect/idleeffect_gintanleader,9999,1,BONE,0,Bip02 LFinger1,BONE,0,0,0,0,0,1,1
+10120,刑天随身-游戏中,Effect,Effect/Idleeffect/idleeffect_gintan,9999,1,BONE,0,Bip01 LHand,BONE,0,0,0,0,0,1,1
+10121,刑天随身-游戏中,Effect,Effect/Idleeffect/idleeffect_gintan,9999,1,BONE,0,Bip01 RHand,BONE,0,0,0,0,0,1,1
+10122,饕餮随身-游戏中,Effect,Effect/Idleeffect/idleeffect_toitehorns,9999,1,BONE,0,Bip01 HeadNub,BONE,0,0,0,0,0,1,1
+10123,杨戬随身-游戏中,Effect,Effect/Idleeffect/idleeffect_threeeyeshead,9999,1,BONE,0,Bip01 Head,BONE,0,0,0,0,0,1,1
+10016,哪吒风火轮,Effect,effect/Idleeffect/ec_neza,9999,1,BONE,0,Bone06,BONE,0,0,0,0,0,1,1
+10017,哪吒风火轮,Effect,effect/Idleeffect/ec_neza,9999,1,BONE,0,Bone07,BONE,0,0,0,0,0,1,1
+20105,哪吒风火轮-UI,Effect,effect/Idleeffect/idleffect_ui_neza,9999,1,BONE,0,Bone06,BONE,0,0,0,0,0,1,1
+20106,哪吒风火轮-UI,Effect,effect/Idleeffect/idleffect_ui_neza,9999,1,BONE,0,Bone07,BONE,0,0,0,0,0,1,1
+10025,雷震子,Effect,Effect/Idleeffect/idleeffect_lightningmaster,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+20025,雷震子,Effect,Effect/Idleeffect/idleeffect_ui_lightningmaster,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+10124,风伯随身-游戏中,Effect,Effect/Idleeffect/ec_windmaster,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+20107,风伯-UI,Effect,effect/Idleeffect/idleeffect_ui_windmaster,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+20108,雨师-UI,Effect,effect/Idleeffect/idleeffect_ui_rainmaster,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+20109,白虎-UI,Effect,effect/Idleeffect/idleeffect_ui_whitetriger,9999,1,BONE,0,Bip01 LHand,BONE,0,0,0,0,0,1,1
+20110,白虎-UI,Effect,effect/Idleeffect/idleeffect_ui_whitetriger,9999,1,BONE,0,Bip01 RHand,BONE,0,0,0,0,0,1,1
+20111,白虎-UI,Effect,effect/Idleeffect/idleeffect_ui_whitetriger,9999,1,BONE,0,Bip01 LFoot,BONE,0,0,0,0,0,1,1
+20112,白虎-UI,Effect,effect/Idleeffect/idleeffect_ui_whitetriger,9999,1,BONE,0,Bip01 RFoot,BONE,0,0,0,0,0,1,1
+20113,饕餮-UI,Effect,effect/Idleeffect/idleeffect_ui_toite,9999,1,BONE,0,Bip01 HeadNub,BONE,0,0,0,0,0,1,1
+20114,玄武-UI,Effect,effect/Idleeffect/idleeffect_ui_blackturtle,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+10125,麒麟-游戏中,Effect,effect/Idleeffect/ec_kirin,9999,1,BONE,0,Bip01 LHand,BONE,0,0,0,0,0,1,1
+10126,麒麟-游戏中,Effect,effect/Idleeffect/ec_kirin,9999,1,BONE,0,Bip01 RHand,BONE,0,0,0,0,0,1,1
+10127,麒麟-游戏中,Effect,effect/Idleeffect/ec_kirin,9999,1,BONE,0,Bip01 LFoot,BONE,0,0,0,0,0,1,1
+10128,麒麟-游戏中,Effect,effect/Idleeffect/ec_kirin,9999,1,BONE,0,Bip01 RFoot,BONE,0,0,0,0,0,1,1
+10129,麒麟-游戏中,Effect,effect/Idleeffect/ec_kirin_tail,9999,1,BONE,0,Tail_04,BONE,0,0,0,0,0,1,1
+20115,麒麟-UI,Effect,effect/Idleeffect/idleeffect_ui_kirin,9999,1,BONE,0,Bip01 LHand,BONE,0,0,0,0,0,1,1
+20116,麒麟-UI,Effect,effect/Idleeffect/idleeffect_ui_kirin,9999,1,BONE,0,Bip01 RHand,BONE,0,0,0,0,0,1,1
+20117,麒麟-UI,Effect,effect/Idleeffect/idleeffect_ui_kirin,9999,1,BONE,0,Bip01 LFoot,BONE,0,0,0,0,0,1,1
+20118,麒麟-UI,Effect,effect/Idleeffect/idleeffect_ui_kirin,9999,1,BONE,0,Bip01 RFoot,BONE,0,0,0,0,0,1,1
+20119,麒麟-UI,Effect,effect/Idleeffect/idleeffect_ui_kirintail,9999,1,BONE,0,Tail_04,BONE,0,0,0,0,0,1,1
+20120,杨戬-UI,Effect,effect/Idleeffect/idleeffect_ui_threeeyes,9999,1,BONE,0,Bip01 Head,BONE,0,0,0,0,0,1,1
+20121,刑天-UI,Effect,effect/Idleeffect/idleeffect_ui_gintanleader,9999,1,BONE,0,Bip02 LFinger1,BONE,0,0,0,0,0,1,1
+20122,刑天-UI,Effect,effect/Idleeffect/idleeffect_ui_gintan,9999,1,BONE,0,Bip01 LHand,BONE,0,0,0,0,0,1,1
+20123,刑天-UI,Effect,effect/Idleeffect/idleeffect_ui_gintan,9999,1,BONE,0,Bip01 RHand,BONE,0,0,0,0,0,1,1
+20124,树人火-UI,Effect,effect/Idleeffect/idleeffect_ui_treemanred,9999,1,BONE,0,Bip01 Head,BONE,0,0,0,0,0,1,1
+20125,树人水-UI,Effect,effect/Idleeffect/idleeffect_ui_treemanblue,9999,1,BONE,0,Bip01 Head,BONE,0,0,0,0,0,1,1
+20126,树人木-UI,Effect,effect/Idleeffect/idleeffect_ui_treemangreen,9999,1,BONE,0,Bip01 Head,BONE,0,0,0,0,0,1,1
+10130,青龙-游戏中,Effect,effect/Idleeffect/idleeffect_bluedragontail,9999,1,BONE,0,Bone008,BONE,0,0,0,0,0,1,1
+10131,青龙-游戏中,Effect,effect/Idleeffect/idleeffect_bluedragon,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+20127,青龙-UI,Effect,effect/Idleeffect/idleeffect_ui_bluedragontail,9999,1,BONE,0,Bone008,BONE,0,0,0,0,0,1,1
+20128,青龙-UI,Effect,effect/Idleeffect/idleeffect_ui_bluedragon,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+10132,白无常-游戏中,Effect,effect/Idleeffect/idleeffect_ghostkwhite,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+10133,白无常-游戏中,Effect,effect/Idleeffect/idleeffect_ghostkwhitelight,9999,1,BONE,0,Bone028,BONE,0,0,0,0,0,1,1
+20129,白无常-UI,Effect,effect/Idleeffect/idleeffect_ui_ghostkwhite,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+20130,白无常-UI,Effect,effect/Idleeffect/idleeffect_ui_ghostkwhitelight,9999,1,BONE,0,Bone028,BONE,0,0,0,0,0,1,1
+10134,黑无常-游戏中,Effect,effect/Idleeffect/idleeffect_ghostkblack,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+10135,黑无常-游戏中,Effect,effect/Idleeffect/idleeffect_ghostkblacklight,9999,1,BONE,0,Bone028,BONE,0,0,0,0,0,1,1
+20131,黑无常-UI,Effect,effect/Idleeffect/idleeffect_ui_ghostkblack,9999,1,BONE,0,Bip01,BONE,0,0,0,0,0,1,1
+20132,黑无常-UI,Effect,effect/Idleeffect/idleeffect_ui_ghostkblacklight,9999,1,BONE,0,Bone028,BONE,0,0,0,0,0,1,1
+10136,马面-游戏中,Effect,effect/Idleeffect/idleeffect_horsehead,9999,1,BONE,0,Bip01 LHand,BONE,0,0,0,0,0,1,1
+10137,马面-游戏中,Effect,effect/Idleeffect/idleeffect_horsehead,9999,1,BONE,0,Bip01 RHand,BONE,0,0,0,0,0,1,1
+20133,马面-UI,Effect,effect/Idleeffect/idleeffect_ui_horsehead,9999,1,BONE,0,Bip01 LHand,BONE,0,0,0,0,0,1,1
+20134,马面-UI,Effect,effect/Idleeffect/idleeffect_ui_horsehead,9999,1,BONE,0,Bip01 RHand,BONE,0,0,0,0,0,1,1
+10138,牛头-游戏中,Effect,effect/Idleeffect/idleeffect_bullhead,9999,1,BONE,0,Bip01 LHand,BONE,0,0,0,0,0,1,1
+10139,牛头-游戏中,Effect,effect/Idleeffect/idleeffect_bullhead,9999,1,BONE,0,Bip01 RHand,BONE,0,0,0,0,0,1,1
+20135,牛头-UI,Effect,effect/Idleeffect/idleeffect_ui_bullhead,9999,1,BONE,0,Bip01 LHand,BONE,0,0,0,0,0,1,1
+20136,牛头-UI,Effect,effect/Idleeffect/idleeffect_ui_bullhead,9999,1,BONE,0,Bip01 RHand,BONE,0,0,0,0,0,1,1
+10140,鹿力大仙-游戏中,Effect,effect/Idleeffect/idleeffect_deerlord,9999,1,BONE,0,Bone11,BONE,0,0,0,0,0,1,1
+10141,鹿力大仙-游戏中,Effect,effect/Idleeffect/idleeffect_deerlord,9999,1,BONE,0,Bone03,BONE,0,0,0,0,0,1,1
+20137,鹿力大仙-UI,Effect,effect/Idleeffect/idleeffect_ui_deerlord,9999,1,BONE,0,Bone11,BONE,0,0,0,0,0,1,1
+20138,鹿力大仙-UI,Effect,effect/Idleeffect/idleeffect_ui_deerlord,9999,1,BONE,0,Bone03,BONE,0,0,0,0,0,1,1
+10142,羊力大仙-游戏中,Effect,effect/Idleeffect/idleeffect_coatlord,9999,1,BONE,0,Bip01 Head,BONE,0,0,0,0,0,1,1
+20139,羊力大仙-UI,Effect,effect/Idleeffect/idleeffect_ui_coatlord,9999,1,BONE,0,Bip01 Head,BONE,0,0,0,0,0,1,1
+10143,虎力大仙-游戏中,Effect,effect/Idleeffect/idleeffect_tigerlord,9999,1,BONE,0,Bip01 RFinger0,BONE,0,0,0,0,0,1,1
+10144,虎力大仙-游戏中,Effect,effect/Idleeffect/idleeffect_tigerlord,9999,1,BONE,0,Bip01 LFinger0,BONE,0,0,0,0,0,1,1
+20140,虎力大仙-UI,Effect,effect/Idleeffect/idleeffect_ui_tigerlord,9999,1,BONE,0,Bip01 RFinger0,BONE,0,0,0,0,0,1,1
+20141,虎力大仙-UI,Effect,effect/Idleeffect/idleeffect_ui_tigerlord,9999,1,BONE,0,Bip01 LFinger0,BONE,0,0,0,0,0,1,1
+30001,大地图主角选定特效,Effect,effect/ui/ec_ui_bigmapzhujiao,9999,1,OBJECT,0,0,0,0,0,0,0,0,1,1
+30002,大地图boss通过后眩晕特效,Effect,effect/ui/ec_ui_vertigo,9999,1,OBJECT,0,Bip01 Head,NONE,0,0.3,0,0,0,1,1
+30003,火属性特效,Effect,effect/ui/ec_ui_main_0,9999,0,BONE,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+30004,水属性特效,Effect,effect/ui/ec_ui_main_1,9999,0,BONE,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+30005,木属性特效,Effect,effect/ui/ec_ui_main_2,9999,0,BONE,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+30006,阳属性特效,Effect,effect/ui/ec_ui_main_3,9999,0,BONE,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+30007,阴属性特效,Effect,effect/ui/ec_ui_main_4,9999,0,BONE,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+5001,远程1,Effect,effect/Atteffect/noratt_zidan,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5002,远程1,Effect,Effect/Skill/redbird_attfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5003,近战1,Effect,effect/Atteffect/noratt_runeimpatt,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5004,远程1,Effect,effect/Atteffect/noratt_foxfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5005,近战1,Effect,Effect/Skill/blackturtle_att,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5006,远程1,Effect,effect/Atteffect/noratt_foxfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5007,远程1,Effect,effect/Atteffect/noratt_zidan,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5008,远程1,Effect,effect/Atteffect/noratt_mechbirdfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5009,远程1,Effect,Effect/Skill/gintan_att,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5010,近战1,Effect,effect/Atteffect/empty,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5011,近战1,Effect,effect/Atteffect/noratt_tigeratt,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5012,远程1,Effect,Effect/Skill/catimp_attack3,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5013,远程1,Effect,Effect/Skill/redbird_attfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5014,近战2,Effect,Effect/Skill/panda_att,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5015,近战2,Effect,Effect/Skill/panda_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5016,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5017,近战1,Effect,effect/Atteffect/noratt_spiritatt,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5018,近战2,Effect,Effect/Skill/monkey_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5019,近战2,Effect,Effect/Skill/monkey_att2,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5020,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5021,远程1,Effect,Effect/Skill/butterfly_attfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5022,近战1,Effect,effect/Atteffect/noratt_zombieatt,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5023,远程1,Effect,effect/Atteffect/noratt_evilfoxfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5024,近战1,Effect,effect/Atteffect/noratt_uncontrolmechatt,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5025,远程1&需要新增远程,Effect,Effect/Char/ec_rolesanzidan,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5026,近战1,Effect,effect/Atteffect/noratt_treemanatt,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5027,近战1,Effect,effect/Atteffect/empty,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5028,远程1,Effect,effect/Atteffect/noratt_fairyfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5029,远程1,Effect,effect/Atteffect/noratt_spiderfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5030,远程1,Effect,Effect/Skill/anjingling_attfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5031,近战2,Effect,Effect/Skill/binglingyuanshuai_attack,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5032,近战2,Effect,Effect/Skill/binglingyuanshuai_attack1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5033,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5034,近战2,Effect,Effect/Skill/neza_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5035,近战2,Effect,Effect/Skill/neza_att2,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5036,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5037,远程1,Effect,Effect/Skill/jianke_att,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5038,远程1,Effect,Effect/Skill/duopo_attfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5039,近战2,Effect,Effect/Skill/tigerlord_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5040,近战2,Effect,Effect/Skill/tigerlord_att2,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5041,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5042,近战2,Effect,Effect/Skill/bullhead_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5043,近战2,Effect,Effect/Skill/bullhead_att2,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5044,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5045,近战1,Effect,Effect/Skill/juqianxiejiang_attack,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5046,远程1,Effect,Effect/Skill/deerlord_attack1,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5047,近战2,Effect,Effect/Skill/mingjiezhanjiang_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5048,近战2,Effect,Effect/Skill/mingjiezhanjiang_att2,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5049,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5050,近战1,Effect,Effect/Skill/mohuawushi_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5051,远程2,Effect,Effect/Skill/guainia_attack,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5052,远程2,Effect,Effect/Skill/guainia_attack1,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5053,远程2,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5054,近战2,Effect,Effect/Skill/panda_att,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5055,近战2,Effect,Effect/Skill/panda_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5056,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5057,远程2,Effect,Effect/Skill/qiuju_att1,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5058,远程2,Effect,Effect/Skill/qiuju_att1,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5059,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5060,近战2,Effect,effect/Atteffect/empty,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5061,近战2,Effect,Effect/Skill/tianjiang,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5062,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5063,远程1,Effect,Effect/Skill/tianyi_attfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5064,近战2,Effect,Effect/Skill/coatlord_att,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5065,近战2,Effect,Effect/Skill/coatlord_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5066,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5067,近战2,Effect,Effect/Skill/horsehead_att,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5068,近战2,Effect,Effect/Skill/horsehead_att2,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5069,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5070,远程1,Effect,Effect/Skill/huaqingting_att,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5071,远程1,Effect,Effect/Skill/butterfly_attfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5072,远程1,Effect,Effect/Skill/zhubeixianzi_att1,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5073,近战2,Effect,Effect/Skill/whitertriger_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5074,近战2,Effect,Effect/Skill/whitertriger_att2,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5075,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5076,近战1,Effect,Effect/Skill/dongxueshou_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5077,新·远程,Effect,Effect/Skill/newkirin_fly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5080,近战1,Effect,Effect/Skill/goldenlion_att,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5081,远程2,Effect,Effect/Skill/ghostkeeper_hei_att,5,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5082,远程2,Effect,Effect/Skill/ghostkeeper_hei_att,5,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5083,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5084,远程1,Effect,Effect/Skill/hydra_attfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5085,近战1,Effect,Effect/Skill/mech_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5086,远程1,Effect,Effect/Skill/gintan_att,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5087,近战2,Effect,Effect/Skill/monkey_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5088,近战2,Effect,Effect/Skill/monkey_att2,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5089,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5090,远程1,Effect,Effect/Skill/lightningmaster_fly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5091,远程1,Effect,Effect/Skill/catimp_attack3,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5093,远程1,Effect,Effect/Skill/windmaster_attfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5094,近战2,Effect,Effect/Skill/shenhuoshou_att1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5095,近战2,Effect,Effect/Skill/shenhuoshou_att2,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5096,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5097,远程1,Effect,Effect/Skill/stonemister_dark_att,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5098,远程1,Effect,Effect/Skill/shujingling_attfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5099,远程2,Effect,Effect/Skill/ghostkeeper_bai_att,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5100,远程2,Effect,Effect/Skill/ghostkeeper_bai_att,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5101,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5102,近战2,Effect,Effect/Skill/threeeyes_attack,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5103,近战2,Effect,Effect/Skill/threeeyes_attack1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5104,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5105,近战2,Effect,effect/Atteffect/empty,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5106,近战2,Effect,effect/Atteffect/noratt_totieatt1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5107,0,Effect,effect/Atteffect/empty,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5108,近战1,Effect,Effect/Skill/guanyu_light_attack,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5109,远程1,Effect,Effect/Skill/newredbird_fly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5110,新·近战3,Effect,Effect/Skill/bluedragon_att,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5078,新·近战3,Effect,Effect/Skill/bluedragon_att1,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5079,新·近战3,Effect,Effect/Skill/bluedragon_att2,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5111,远程1,Effect,Effect/Skill/sworddancer_attfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5112,远程1,Effect,Effect/Skill/rainmaster_attfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5113,蛋1,Effect,effect/Atteffect/empty,3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5114,御火剑使,Effect,Effect/Skill/sworddancer_skill,1,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5115,神火兽,Effect,Effect/Skill/shenhuoshou_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5116,霞光朱雀,Effect,Effect/Skill/redbird_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5117,雷火金刚,Effect,Effect/Skill/monkeyfive_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5118,狻猊,Effect,Effect/Skill/goldenlion_skill,2,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5119,洞雪兽,Effect,Effect/Skill/dongxueshou_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5120,执伞浪人,Effect,Effect/Skill/rainmaster_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5121,游云青龙,Effect,Effect/Skill/bluedragon_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5122,碧眼蝶仙,Effect,Effect/Skill/butterfly_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5123,寒冰仙子,Effect,Effect/Skill/hydra_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5124,树精灵,Effect,Effect/Skill/shujingling_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5125,木扇仙人,Effect,Effect/Skill/windmaster_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5126,苍叶白虎,Effect,Effect/Skill/whitertriger_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5127,吞天兽,Effect,Effect/Skill/totie_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5128,巨擎,Effect,Effect/Skill/mech_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5129,勾魂黑使,Effect,Effect/Skill/ghostkeeper_hei_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5130,锁魄白使,Effect,Effect/Skill/ghostkeeper_bai_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5131,瞑木玄武,Effect,Effect/Skill/blackturtle_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5132,傀儡巨像,Effect,Effect/Skill/gintan_skill,3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5133,石矶,Effect,Effect/Skill/stonemister_dark_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5134,雷震童子,Effect,Effect/Skill/lightningmaster_skill02,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5135,梵地麒麟,Effect,Effect/Skill/kirin_skill2,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5136,通天眼,Effect,Effect/Skill/threeeyes_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5137,猫天师,Effect,Effect/Skill/catimp_skill2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5138,武圣,Effect,Effect/Skill/guanyu_light_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5139,虎力大仙,Effect,Effect/Skill/tigerlord_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5140,独孤求败起手,Effect,Effect/Skill/jianke_skill1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5141,健美牛头,Effect,Effect/Skill/bullhead_skill1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5142,冰凌元帅,Effect,Effect/Skill/binglingyuanshuai_skill_2,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5143,珠贝仙子,Effect,Effect/Skill/zhubeixianzi_skill_1,3.5,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+5144,鹿力大仙,Effect,Effect/Skill/deerlord_skill_1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5145,神木大圣,Effect,Effect/Skill/panda_skill_pet,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5146,羊力大仙,Effect,Effect/Skill/coatlord_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5147,真武角马,Effect,Effect/Skill/horsehead_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5148,冥界战将起手,Effect,Effect/Skill/mingjiezhanjiang_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5149,夺魄,Effect,Effect/Skill/duopo_skill,1.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5150,暗精灵,Effect,Effect/Skill/anjingling_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5151,向阳,Effect,Effect/Skill/qiuju_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5152,天将,Effect,Effect/Skill/tianjiang_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5153,持枪仙君,Effect,Effect/Skill/neza_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5154,魔化武士,Effect,Effect/Skill/mohuawushi_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5155,巨钳蟹将,Effect,Effect/Skill/juqianxiejiang_skill,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5156,三头怪鸟,Effect,Effect/Skill/guainia_skill1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5157,诸乘射手,Effect,Effect/Skill/huaqingting_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5158,天翼隼,Effect,Effect/Skill/tianyi_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5159,独孤求败命中,Effect,Effect/Skill/jianke_skill2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5160,猫天师起手,Effect,Effect/Skill/catimp_skill1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5161,冥界战将命中,Effect,Effect/Skill/mingjiezhanjiang_skill1,2,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+5162,健美牛头命中,Effect,Effect/Skill/bullhead_skill2,2,0,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+5163,冰凌元帅命中,Effect,Effect/Skill/binglingyuanshuai_skill_1,3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5164,鹿力大仙特效,Effect,Effect/Skill/deerlord_skill_2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5165,暗精灵命中,Effect,Effect/Skill/anjingling_skill1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5166,御火剑使,Effect,Effect/Skill/sworddancer_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5167,神火兽,Effect,Effect/Skill/shenhuoshou_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5168,霞光朱雀,Effect,Effect/Skill/redbird_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5169,雷火金刚,Effect,Effect/Skill/monkeyfive_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5170,狻猊,Effect,Effect/Skill/goldenlion_skill_pet,3.3,0,OBJECT,0,Bip01 Neck,LINE,0,0,0,0,0,1,1
+5171,洞雪兽,Effect,Effect/Skill/dongxueshou_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5172,执伞浪人,Effect,Effect/Skill/rainmaster_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5173,游云青龙,Effect,Effect/Skill/bluedragon_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5174,碧眼蝶仙,Effect,Effect/Skill/butterfly_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5175,寒冰仙子,Effect,Effect/Skill/hydra_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5176,树精灵,Effect,Effect/Skill/shujingling_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5177,六根道人,Effect,Effect/Skill/windmaster_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5178,苍叶白虎,Effect,Effect/Skill/whitetriger_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5179,吞天兽,Effect,Effect/Skill/totie_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5180,巨擎,Effect,Effect/Skill/mech_skill_pet,3.3,1,BONE,0,Bone001,BONE,0,0,0,0,0,1,1
+5181,勾魂黑使（起手）,Effect,Effect/Skill/ghostkeeper_hei_skill_pet1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5182,勾魂黑使（命中）,Effect,Effect/Skill/ghostkeeper_hei_skill_pet2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5183,锁魄白使,Effect,Effect/Skill/ghostkeeper_bai_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5184,瞑木玄武（起手）,Effect,Effect/Skill/blackturtle_skill_pet1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5185,瞑木玄武（命中）,Effect,Effect/Skill/blackturtle_skill_pet2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5186,傀儡巨像,Effect,Effect/Skill/gintan_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5187,石矶,Effect,Effect/Skill/stonemister_dark_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5188,雷震童子（起手）,Effect,Effect/Skill/lightningmaster_skill_pet1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5189,雷震童子（命中),Effect,Effect/Skill/lightningmaster_skill_pet2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,-0.5,0,0,0,1,1
+5190,梵地麒麟,Effect,Effect/Skill/kirin_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5191,通天眼,Effect,Effect/Skill/threeeyes_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5192,猫天师,Effect,Effect/Skill/catimp_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5193,武圣,Effect,Effect/Skill/guanyu_light_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5194,虎力大仙,Effect,Effect/Skill/tigerlord_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5195,独孤求败(起手),Effect,Effect/Skill/jianke_skill_pet1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5196,独孤求败（飞行）,Effect,Effect/Skill/jianke_skill_pet2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5197,健美牛头,Effect,Effect/Skill/bullhead_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5198,冰凌元帅,Effect,Effect/Skill/binglingyuanshuai_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5199,珠贝仙子(起手),Effect,Effect/Skill/zhubeixianzi_skill_pet1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5200,珠贝仙子（命中）,Effect,Effect/Skill/zhubeixianzi_skill_pet2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5201,鹿力大仙(起手),Effect,Effect/Skill/deerlord_skill_pet1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5202,鹿力大仙（命中）,Effect,Effect/Skill/deerlord_skill_pet2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5203,神木大圣,Effect,Effect/Skill/panda_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5204,羊力大仙,Effect,Effect/Skill/coatlord_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5205,真武角马,Effect,Effect/Skill/horsehead_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5206,冥界战将,Effect,Effect/Skill/mingjiezhanjiang_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5207,夺魄（飞行）,Effect,Effect/Skill/duopo_skill_pet1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,3,0,0,0,1,1
+5208,夺魄（命中）,Effect,Effect/Skill/duopo_skill_pet2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5209,暗精灵（起手）,Effect,Effect/Skill/anjingling_skill_pet1,3.3,0,OBJECT,0,Bip01 Head,LINE,0,0,0,0,0,1,1
+5210,暗精灵（命中）,Effect,Effect/Skill/anjingling_skill_pet2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5211,天道医师（起手飞行）,Effect,Effect/Skill/qiuju_skill_pet1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5212,天道医师（命中）,Effect,Effect/Skill/qiuju_skill_pet2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5213,天将,Effect,Effect/Skill/tianjiang_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5214,持枪仙君,Effect,Effect/Skill/neza_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5215,魔化武士,Effect,Effect/Skill/mohuawushi_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5216,巨钳蟹将,Effect,Effect/Skill/juqianxiejiang_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5217,三头怪鸟(起手),Effect,Effect/Skill/guainia_skill_pet1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5218,三头怪鸟（飞行）,Effect,Effect/Skill/guainia_skill_pet2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5219,诸乘射手,Effect,Effect/Skill/huaqingting_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5220,天翼隼（飞行）,Effect,Effect/Skill/tianyi_skill_pet1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,1,0,0,0,1,1
+5221,天翼隼(命中),Effect,Effect/Skill/tianyi_skill_pet2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5222,洞雪兽主技能,Effect,Effect/Skill/dongxueshou_skill_pet_1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5223,洞雪兽副技能起手,Effect,Effect/Skill/dongxueshou_skill_1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5224,洞雪兽副技能飞行,Effect,Effect/Skill/dongxueshou_skill_2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5225,洞雪兽副技能命中,Effect,Effect/Skill/dongxueshou_skill_3,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5226,夺魄主技能,Effect,Effect/Skill/duopo_skill1,6,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5227,夺魄副技能,Effect,Effect/Skill/duopo_skill2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5228,天道医师主技能,Effect,Effect/Skill/qiuju_skill,6,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5229,天道医师副技能飞行,Effect,Effect/Skill/qiuju_skill_pet1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,2,1
+5230,天道医师副技能命中,Effect,Effect/Skill/qiuju_skill_pet2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,2,1
+5231,雷震童子（命中),Effect,Effect/Skill/lightningmaster_skill_pet3,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5232,寒冰仙子副技能（飞行),Effect,Effect/Skill/hydra_skill1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5233,寒冰仙子副技能（命中),Effect,Effect/Skill/hydra_skill2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5234,木扇仙人副技能（飞行),Effect,Effect/Skill/windmaster_skill_pet1,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5235,木扇仙人副技能（命中),Effect,Effect/Skill/windmaster_skill_pet2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5236,雷火金刚主技能,Effect,Effect/Skill/monkey_skill,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5237,雷火金刚副技能,Effect,Effect/Skill/monkey_skill_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5238,苍叶白虎主技能,Effect,Effect/Skill/whitetriger_skill,6,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5239,苍叶白虎副技能,Effect,Effect/Skill/whitetriger_skill_pet,10,1,OBJECT,0,Bip01 Head,LINE,0,0,0,0,0,1,1
+5240,巨擘主技能,Effect,Effect/Skill/mech_skill1,3.5,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5241,巨擘副技能,Effect,Effect/Skill/mech_skill2,6,1,OBJECT,0,Bip01 Neck,LINE,0,0,0,0,0,1,1
+5242,瞑目玄武主技能,Effect,Effect/Skill/blackturtle_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5243,瞑目玄武副技能,Effect,Effect/Skill/blackturtle_skill,3,0,OBJECT,0,Bip01 Neck,LINE,0,0,0,0,0,1,1
+5244,通天眼主技能,Effect,Effect/Skill/blackturtle_skill,3,0,OBJECT,0,Bip01 Neck,LINE,0,0,0,0,0,1,1
+5245,新手石矶秒杀技能,Effect,Effect/Skill/monkey_skill_pet_all,3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5246,霞光朱雀技能,Effect,Effect/Skill/goldenlion_att1,3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5247,独孤求败,Effect,Effect/Skill/jianke_skill2,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5248,新手石矶龙卷风,Effect,effect/Char/skill_bossstonemisterskill2,4,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1.5
+5249,新手石矶全屏火焰,Effect,effect/skill/fire_dan,4,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5250,新手石矶全屏火焰预警,Effect,effect/Char/skill_bossstonemisterwaring,1,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,10
+5251,新手石矶冰球预警,Effect,effect/Char/skill_bosshydrawaring2,1,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5252,健美牛头命中,Effect,Effect/Skill/bullhead_skill2,8,1,OBJECT,0,Bip01Footsteps,NONE,0,0,0,0,0,1,1
+5253,苍叶白虎副技能,Effect,Effect/Skill/whitetriger_skill_pet,3,0,OBJECT,0,Bip01 Head,LINE,0,0,0,0,0,1,1
+5254,天道医师治疗技能特效,Effect,Effect/Skill/qiuju_skill_pet3,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,2,1
+5255,单体加血,Effect,Effect/Skill/zhubeixianzi_skill_2,3.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,2,1
+5256,傀儡巨像伤害减免,Effect,Effect/Skill/totie_skill_pet,4,1,OBJECT,0,Bip01 Head,LINE,0,0,0,0,0,1,1
+5257,圆形预警特效2秒,Effect,Effect/Skill/waring_quan_2,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5258,圆形预警特效1.5秒,Effect,Effect/Skill/waring_quan_15,1.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5259,直线预警1.5秒,Effect,Effect/Skill/waring_line_15,1.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5260,直线预警1秒,Effect,Effect/Skill/waring_line_1,1,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5261,鹿力大仙技能1,Effect,Effect/Skill/deerlord_attfly,10,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,2
+5092,近战3,Effect,Effect/Skill/blackturtle_dark_new_attack_1,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5262,近战3,Effect,Effect/Skill/blackturtle_dark_new_attack_2,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5263,鹿力大仙技能1起手,Effect,Effect/Skill/deerlord_flyqishou,1.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5264,多重直线预警1秒,Effect,Effect/Skill/waring_group_1,1,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5265,多重直线预警1.5秒,Effect,Effect/Skill/waring_group_15,1.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5266,新手战斗石矶落地特效,Effect,Effect/Skill/boss6v6effect,0.5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,5
+5267,新手战斗石矶随身特效1,Effect,Effect/Idleeffect/idleeffect_stonemister,13,1,BONE,0,Bip02,LINE,0,0,0,0,0,1,1
+5268,新手战斗石矶随身特效2,Effect,Effect/Idleeffect/ec_stonemister,13,1,BONE,0,Bone010,LINE,0,0,0,0,0,1,1
+5269,新手战斗石矶随身特效3,Effect,Effect/Idleeffect/ec_stonemister,13,1,BONE,0,Bone042,LINE,0,0,0,0,0,1,1
+5270,三头怪鸟,Effect,Effect/Skill/guainia_skill2,6,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5271,神火兽增加闪避命中,Effect,effect/State/ec_bluebroken,10,1,OBJECT,0,Bip01 Head,NONE,0,0,0,0,0,1,1
+5272,羊力大仙,Effect,Effect/Skill/coatlord_skill_pet,1,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5273,洞雪兽普通攻击,Effect,Effect/Skill/dongxueshou_attack,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5274,黑无常1技能aoe,Effect,Effect/Skill/mohuawushi_skill,2,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,2
+5275,流血特效,Effect,Effect/New_Eff_ALL/new_liuxue_state,5,1,BONE,0,Bip01 Head,LINE,0,0,0,0,0,1,1
+5276,攻击力提升特效,Effect,Effect/New_Eff_ALL/new_atkup_state,5,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5277,怒吼特效,Effect,Effect/New_Eff_ALL/new_nuhou_state,5,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5278,持续加血,Effect,Effect/New_Eff_ALL/new_kirin_state,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5279,单体加血,Effect,Effect/New_Eff_ALL/new_kirin_skill,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5280,通天眼主角技能,Effect,Effect/New_Eff_ALL/new_threeeyes_skill,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5281,鲁班巨像主角技能,Effect,Effect/New_Eff_ALL/new_mech_skill,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5282,傀儡魔甲主角技能,Effect,Effect/New_Eff_ALL/new_gintan_skill,5,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5283,游云青龙灵将技能,Effect,Effect/New_Eff_ALL/new_bluedragon_skill,5,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5284,古木山精,Effect,Effect/New_Eff_ALL/new_gumushujing_skill,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5285,六根道人灵将2技能,Effect,Effect/New_Eff_ALL/new_windmaster_skill,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5286,六根道人灵将4技能,Effect,Effect/New_Eff_ALL/new_windmaster_state,5,1,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5287,神木大圣主角技能,Effect,Effect/New_Eff_ALL/new_sunwukong_skill,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5288,褚乘射手灵将技能,Effect,Effect/New_Eff_ALL/new_huaqingting_skill,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5289,神木大圣特殊命中,Effect,Effect/New_Eff_ALL/new_sunwukong_hit,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5290,魔化武士特殊命中,Effect,Effect/New_Eff_ALL/new_mohuawushi_hit,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5291,健美牛头特殊命中,Effect,Effect/New_Eff_ALL/new_bullhead_hit,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5292,通天眼特殊命中,Effect,Effect/New_Eff_ALL/new_threeeyes_hit,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5293,雷火金刚特殊命中,Effect,Effect/New_Eff_ALL/new_monkeyleihuo_hit,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5294,冰凌元帅aoe,Effect,Effect/New_Eff_ALL/new_binglingyuanshuai_skill,5,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+5295,火球特效,Effect,Effect/Skill/fire_dan_huoqiu,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,1.5,0,0,0,1,1
+5296,冥界战将小锤子落地特效,Effect,Effect/Skill/mingjiezhanjiang_skill_small_pet,3.3,0,OBJECT,0,Bip01Footsteps,LINE,0,0,0,0,0,1,1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

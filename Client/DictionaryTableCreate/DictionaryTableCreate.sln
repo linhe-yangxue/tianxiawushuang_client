@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DictionaryTableCreate", "DictionaryTableCreate\DictionaryTableCreate.vcxproj", "{39255A6E-E8A3-4A0E-A059-AB5DE91CA5F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyCreate", "KeyCreate\KeyCreate.vcxproj", "{3EDA2F5C-72AB-4FD7-BE17-9D9EB9BF1235}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ASCIICreate", "ASCIICreate\ASCIICreate.vcxproj", "{B77A9061-4225-44EF-9162-00898148044F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39255A6E-E8A3-4A0E-A059-AB5DE91CA5F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{39255A6E-E8A3-4A0E-A059-AB5DE91CA5F3}.Debug|Win32.Build.0 = Debug|Win32
+		{39255A6E-E8A3-4A0E-A059-AB5DE91CA5F3}.Release|Win32.ActiveCfg = Release|Win32
+		{39255A6E-E8A3-4A0E-A059-AB5DE91CA5F3}.Release|Win32.Build.0 = Release|Win32
+		{3EDA2F5C-72AB-4FD7-BE17-9D9EB9BF1235}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3EDA2F5C-72AB-4FD7-BE17-9D9EB9BF1235}.Debug|Win32.Build.0 = Debug|Win32
+		{3EDA2F5C-72AB-4FD7-BE17-9D9EB9BF1235}.Release|Win32.ActiveCfg = Release|Win32
+		{3EDA2F5C-72AB-4FD7-BE17-9D9EB9BF1235}.Release|Win32.Build.0 = Release|Win32
+		{B77A9061-4225-44EF-9162-00898148044F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B77A9061-4225-44EF-9162-00898148044F}.Debug|Win32.Build.0 = Debug|Win32
+		{B77A9061-4225-44EF-9162-00898148044F}.Release|Win32.ActiveCfg = Release|Win32
+		{B77A9061-4225-44EF-9162-00898148044F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

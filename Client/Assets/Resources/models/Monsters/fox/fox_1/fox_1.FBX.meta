@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: a2db1c473d731a844b4ec889f07c69d4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 L Calf
+    100006: Bip01 L Clavicle
+    100008: Bip01 L Forearm
+    100010: Bip01 L Thigh
+    100012: Bip01 L UpperArm
+    100014: Bip01 Neck
+    100016: Bip01 Pelvis
+    100018: Bip01 R Calf
+    100020: Bip01 R Clavicle
+    100022: Bip01 R Forearm
+    100024: Bip01 R Thigh
+    100026: Bip01 R UpperArm
+    100028: Bip01 Spine
+    100030: Bip01 Spine1
+    100032: Bone01
+    100034: Bone01(mirrored)
+    100036: Bone02
+    100038: Bone10
+    100040: Bone10(mirrored)
+    100042: //RootNode
+    100044: linghu_1_red
+    100046: Bip01 L Foot
+    100048: Bip01 L Hand
+    100050: Bip01 R Foot
+    100052: Bip01 R Hand
+    100054: Bone03
+    100056: Bone05
+    100058: Bone05(mirrored)
+    100060: Bone06
+    100062: Bone06(mirrored)
+    100064: Bone08
+    100066: Bone09
+    100068: Bone11
+    100070: linghu_6_fire
+    100072: Bip01 HeadNub
+    100074: Bip01 L Toe0
+    100076: Bip01 L Toe0Nub
+    100078: Bip01 R Toe0
+    100080: Bip01 R Toe0Nub
+    100082: Bone04
+    100084: Bone07
+    100086: Bone07(mirrored)
+    100088: linghu_1_fire
+    100090: Bip01 Footsteps
+    100092: linghu_1_fire002
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 L Calf
+    400006: Bip01 L Clavicle
+    400008: Bip01 L Forearm
+    400010: Bip01 L Thigh
+    400012: Bip01 L UpperArm
+    400014: Bip01 Neck
+    400016: Bip01 Pelvis
+    400018: Bip01 R Calf
+    400020: Bip01 R Clavicle
+    400022: Bip01 R Forearm
+    400024: Bip01 R Thigh
+    400026: Bip01 R UpperArm
+    400028: Bip01 Spine
+    400030: Bip01 Spine1
+    400032: Bone01
+    400034: Bone01(mirrored)
+    400036: Bone02
+    400038: Bone10
+    400040: Bone10(mirrored)
+    400042: //RootNode
+    400044: linghu_1_red
+    400046: Bip01 L Foot
+    400048: Bip01 L Hand
+    400050: Bip01 R Foot
+    400052: Bip01 R Hand
+    400054: Bone03
+    400056: Bone05
+    400058: Bone05(mirrored)
+    400060: Bone06
+    400062: Bone06(mirrored)
+    400064: Bone08
+    400066: Bone09
+    400068: Bone11
+    400070: linghu_6_fire
+    400072: Bip01 HeadNub
+    400074: Bip01 L Toe0
+    400076: Bip01 L Toe0Nub
+    400078: Bip01 R Toe0
+    400080: Bip01 R Toe0Nub
+    400082: Bone04
+    400084: Bone07
+    400086: Bone07(mirrored)
+    400088: linghu_1_fire
+    400090: Bip01 Footsteps
+    400092: linghu_1_fire002
+    4300000: linghu_1_red
+    4300002: linghu_6_fire
+    4300004: linghu_1_fire
+    4300006: linghu_1_fire002
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: linghu_1_red
+    13700002: linghu_6_fire
+    13700004: linghu_1_fire
+    13700006: linghu_1_fire002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,14 @@
+INT,STRING,STRING,STRING,STRING
+INDEX,TIP_TITLE,TIP_DESC,TIP_BACKGROUND_PATH,TIP_BACKGROUND_NAME
+0,TIP标题,TIP描述,TIP图片路径,TIP图片名称
+1000,[99FF00]每日挂机次数[FFCC00]0[99FF00]次,\n每日挂机次数10次\n,StaticResources/textures/UItextures/Loading/,battle_loading_0
+1001,[99FF00]每日挂机次数[FFCC00]1[99FF01]次,\n每日挂机次数11次\n,StaticResources/textures/UItextures/Loading/,battle_loading_1
+1002,[99FF00]每日挂机次数[FFCC00]2[99FF02]次,\n每日挂机次数12次\n,StaticResources/textures/UItextures/Loading/,battle_loading_2
+1003,[99FF00]每日挂机次数[FFCC00]3[99FF03]次,\n每日挂机次数13次\n,StaticResources/textures/UItextures/Loading/,battle_loading_3
+1004,[99FF00]每日挂机次数[FFCC00]4[99FF04]次,\n每日挂机次数14次\n,StaticResources/textures/UItextures/Loading/,battle_loading_4
+1005,[99FF00]每日挂机次数[FFCC00]5[99FF05]次,\n每日挂机次数15次\n,StaticResources/textures/UItextures/Loading/,battle_loading_5
+1006,[99FF00]每日挂机次数[FFCC00]6[99FF06]次,\n每日挂机次数16次\n,StaticResources/textures/UItextures/Loading/,battle_loading_6
+1007,[99FF00]每日挂机次数[FFCC00]70[99FF07]次,\n每日挂机次数17次\n,StaticResources/textures/UItextures/Loading/,battle_loading_7
+1008,[99FF00]每日挂机次数[FFCC00]80[99FF08]次,\n每日挂机次数18次\n,StaticResources/textures/UItextures/Loading/,battle_loading_0
+1009,[99FF00]每日挂机次数[FFCC00]06[99FF09]次,\n每日挂机次数19次\n,StaticResources/textures/UItextures/Loading/,battle_loading_1
+1010,[99FF00]每日挂机次数[FFCC00]05[99FF10]次,\n每日挂机次数20次\n,StaticResources/textures/UItextures/Loading/,battle_loading_2

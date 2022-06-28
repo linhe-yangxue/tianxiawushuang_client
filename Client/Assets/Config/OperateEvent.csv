@@ -1,0 +1,16 @@
+﻿INDEX,EVENT_TYPE,TITLE,RESOURCE_ATLAS,SPRITE_NAME,WEIGHT
+INT,INT,STRING,STRING,STRING,INT
+1,1,每日签到,activityUIAtlas,a_ui_hdicon_08,1
+6,6,首充礼包,activityUIAtlas,a_ui_hdicon_05,2
+4,4,VIP礼包,activityUIAtlas,a_ui_hdicon_03,3
+5,5,开服基金,activityUIAtlas,a_ui_hdicon_04,4
+11,11,幸运翻牌,activityUIAtlas,a_ui_hdicon_11,5
+10,10,射手乐园,activityUIAtlas,a_ui_hdicon_10,6
+8,8,月卡,activityUIAtlas,a_ui_hdicon_06,6
+7,7,领仙桃,activityUIAtlas,a_ui_hdicon_02,7
+3,3,摇钱树,activityUIAtlas,a_ui_hdicon_07,8
+9,9,礼品码,activityUIAtlas,a_ui_hdicon_09,9
+12,12,累计充值,activityUIAtlas,a_ui_hdicon_14,10
+13,13,累计消费,activityUIAtlas,a_ui_hdicon_15,11
+14,14,限时抢购,activityUIAtlas,a_ui_hdicon_12,12
+15,15,单充福利,activityUIAtlas,a_ui_hdicon_12,13

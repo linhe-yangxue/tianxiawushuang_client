@@ -1,0 +1,17 @@
+﻿CONDUIT_ID,CONDUIT_NAME,CONDUIT_PROPORTION,CONDUIT_MONEY
+INT,STRING,FLOAT,STRING
+0,裸包,1,分
+1,UC,1,元
+3,360,1,元
+7,小米,1,元
+9,华为,1,元
+10,OPPO,1,元
+14,VIVO,1,元
+17,酷派,1,元
+18,联想,1,元
+19,金立,1,元
+72,虫虫,1,元
+74,IOS-UC,1,元
+200,Hengxiang,1,元
+201,HengxiangIOS,1,元
+999,模拟渠道,1,分

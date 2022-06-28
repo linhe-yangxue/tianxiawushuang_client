@@ -1,0 +1,13 @@
+﻿INDEX,TIPICON_NAME,TIPICON_ATLAS_NAME,TIPICON_SPRITE_NAME
+INT,STRING,STRING,STRING
+1,推荐,PetShopUIAtlas,a_ui_smsdxingxing
+2,限时,PetShopUIAtlas,a_ui_smsdxianshi
+11,1折,PetShopUIAtlas,a_ui_smsddazhe_01
+12,2折,PetShopUIAtlas,a_ui_smsddazhe_02
+13,3折,PetShopUIAtlas,a_ui_smsddazhe_03
+14,4折,PetShopUIAtlas,a_ui_smsddazhe_04
+15,5折,PetShopUIAtlas,a_ui_smsddazhe_05
+16,6折,PetShopUIAtlas,a_ui_smsddazhe_06
+17,7折,PetShopUIAtlas,a_ui_smsddazhe_07
+18,8折,PetShopUIAtlas,a_ui_smsddazhe_08
+19,9折,PetShopUIAtlas,a_ui_smsddazhe_09

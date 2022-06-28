@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 10ac15e77f747814daf0842277180f22
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: shuiguandapingtai
+    100002: //RootNode
+    100004: shuiguandapingtai2
+    100006: shuiguandapingtai2 1
+    100008: tushuizhu
+    100010: tushuizhu 1
+    100012: tushuizhu 2
+    100014: tushuizhu 3
+    100016: tushuizhu01
+    100018: tushuizhu02
+    100020: tushuizhu03
+    100022: Object03
+    100024: Object04
+    100026: Object11
+    100028: Object12
+    100030: Object14
+    100032: Object205
+    100034: Object218
+    100036: Object220
+    400000: shuiguandapingtai
+    400002: //RootNode
+    400004: shuiguandapingtai2
+    400006: shuiguandapingtai2 1
+    400008: tushuizhu
+    400010: tushuizhu 1
+    400012: tushuizhu 2
+    400014: tushuizhu 3
+    400016: tushuizhu01
+    400018: tushuizhu02
+    400020: tushuizhu03
+    400022: Object03
+    400024: Object04
+    400026: Object11
+    400028: Object12
+    400030: Object14
+    400032: Object205
+    400034: Object218
+    400036: Object220
+    2300000: shuiguandapingtai
+    2300002: shuiguandapingtai2
+    2300004: shuiguandapingtai2 1
+    2300006: tushuizhu
+    2300008: tushuizhu 1
+    2300010: tushuizhu 2
+    2300012: tushuizhu 3
+    2300014: tushuizhu01
+    2300016: tushuizhu02
+    2300018: tushuizhu03
+    2300020: Object03
+    2300022: Object04
+    2300024: Object11
+    2300026: Object12
+    2300028: Object14
+    2300030: Object205
+    2300032: Object218
+    2300034: Object220
+    3300000: shuiguandapingtai
+    3300002: shuiguandapingtai2
+    3300004: shuiguandapingtai2 1
+    3300006: tushuizhu
+    3300008: tushuizhu 1
+    3300010: tushuizhu 2
+    3300012: tushuizhu 3
+    3300014: tushuizhu01
+    3300016: tushuizhu02
+    3300018: tushuizhu03
+    3300020: Object03
+    3300022: Object04
+    3300024: Object11
+    3300026: Object12
+    3300028: Object14
+    3300030: Object205
+    3300032: Object218
+    3300034: Object220
+    4300000: shuiguandapingtai
+    4300002: shuiguandapingtai2
+    4300004: shuiguandapingtai2
+    4300006: tushuizhu
+    4300008: tushuizhu
+    4300010: tushuizhu
+    4300012: tushuizhu
+    4300014: tushuizhu01
+    4300016: tushuizhu02
+    4300018: tushuizhu03
+    4300020: Object14
+    4300022: Object03
+    4300024: Object220
+    4300026: Object12
+    4300028: Object11
+    4300030: Object04
+    4300032: Object218
+    4300034: Object205
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

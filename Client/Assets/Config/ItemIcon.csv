@@ -1,0 +1,17 @@
+﻿INDEX,NAME,ITEM_ATLAS_NAME,ITEM_SPRITE_NAME,ITEM_ICON_ATLAS,ITEM_ICON_SPRITE,MYSTERIOUS_SHOP_ATLAS,MYSTERIOUS_SHOP_SPRITE
+INT,STRING,STRING,STRING,STRING,STRING,STRING,STRING
+1000001,元宝,ResourceAtlas1,icon_yuanbao,ResourceAtlas,a_ui_rmb,ResourceAtlas,a_ui_rmb
+1000002,银币,ResourceAtlas1,icon_yinbi,ResourceAtlas,a_ui_pic_yinbi,ResourceAtlas,a_ui_pic_yinbi
+1000003,体力,ResourceAtlas1,icon_tili,ResourceAtlas,a_ui_pic_tili,ResourceAtlas,a_ui_pic_tili
+1000004,将魂,ResourceAtlas1_1,icon_fuhun,ResourceAtlas,a_ui_smsdbaoshi,ResourceAtlas,a_ui_smsdbaoshi
+1000005,精力值,ResourceAtlas1,icon_jingli,ResourceAtlas,a_ui_jingli,ResourceAtlas,a_ui_jingli
+1000006,声望（竞技场货币）,ResourceAtlas1,icon_shengwang,ResourceAtlas,a_ui_shengwang,ResourceAtlas,a_ui_shengwang
+1000007,封灵符,ResourceAtlas1,icon_linghe,ResourceAtlas,a_ui_linghe,ResourceAtlas,a_ui_linghe
+1000008,魔麟,ResourceAtlas1,icon_moling,ResourceAtlas,a_ui_moling,ResourceAtlas,a_ui_moling
+1000009,宗门贡献,ResourceAtlas1,icon_gonghuigongxian,ResourceAtlas,a_ui_gongxian,ResourceAtlas,a_ui_gongxian
+1000010,降魔令,ResourceAtlas1,material_xiangmoling,ResourceAtlas,a_ui_xiangmoling,ResourceAtlas,a_ui_xiangmoling
+1000011,主角经验,ResourceAtlas1_1,icon_exp,ResourceAtlas1_1,icon_exp,ResourceAtlas1_1,icon_exp
+2000008,技能升级书,ResourceAtlas1,icon_jinengshu,ResourceAtlas,a_ui_jinengshu,ResourceAtlas,a_ui_jinengshu
+2000010,银符令,ResourceAtlas1,material_yinlingfu,ResourceAtlas,a_ui_yinfuling,ResourceAtlas,a_ui_yinfuling
+2000011,金符令,ResourceAtlas1,material_jinlingfu,ResourceAtlas,a_ui_jinfuling,ResourceAtlas,a_ui_jinfuling
+2000002,突破石,ResourceAtlas1,material_tupo,ResourceAtlas,a_ui_tuposhi,ResourceAtlas1,material_tupo

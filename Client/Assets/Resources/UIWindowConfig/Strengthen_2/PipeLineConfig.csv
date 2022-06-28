@@ -1,0 +1,14 @@
+INDEX,PIPE_LINE_TYPE,NOTE,COMPONENT_NAME,OPERATE_TYPE
+INT,STRING,STRING,STRING,STRING
+0,Set_CurLevel,当前装备强化大师等级,curLevel,SetLabel
+1,Set_TarLevel,当前装备强化大师等级,tarLevel,SetLabel
+2,Set_TarLevel_Explain,当前装备强化大师等级,tarLevelExplain,SetLabel
+3,Set_CurLabel_1,当前装备强化大师等级,curLabel_1,SetLabel
+4,Set_CurLabel_2,当前装备强化大师等级,curLabel_2,SetLabel
+5,Set_CurLabel_3,当前装备强化大师等级,curLabel_3,SetLabel
+6,Set_CurLabel_4,当前装备强化大师等级,curLabel_4,SetLabel
+7,Set_TarLabel_1,当前装备强化大师等级,tarLabel_1,SetLabel
+8,Set_TarLabel_2,当前装备强化大师等级,tarLabel_2,SetLabel
+9,Set_TarLabel_3,当前装备强化大师等级,tarLabel_3,SetLabel
+10,Set_TarLabel_4,当前装备强化大师等级,tarLabel_4,SetLabel
+11,Set_Explain,当前装备强化大师等级,Explain,SetLabel

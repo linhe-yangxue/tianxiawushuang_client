@@ -1,0 +1,6 @@
+﻿INDEX,REFINE_STONE_NAME,ICON_ATLAS_NAME,ICON_SPRITE_NAME,REFINE_STONE_EXP,SPEED
+INT,STRING,STRING,STRING,INT,FLOAT
+2000004,下品精炼仙露,ResourceAtlas1,material_jinglian1,5,0.001
+2000005,中品精炼仙露,ResourceAtlas1,material_jinglian2,10,0.001
+2000006,上品精炼仙露,ResourceAtlas1,material_jinglian3,25,0.001
+2000007,极品精炼仙露,ResourceAtlas1,material_jinglian4,50,0.001

@@ -1,0 +1,12 @@
+﻿INDEX,TITLE,ICON_ATLAS_NAME,ICON_SPRITE_NAME,Function_ID
+INT,STRING,STRING,STRING,INT
+1,竞技场奖励,TrialEasyJumpAtlas,a_ui_liliantubiao_01,1405
+2,封灵塔奖励,TrialEasyJumpAtlas,a_ui_liliantubiao_02,1402
+3,封灵塔重置,TrialEasyJumpAtlas,a_ui_liliantubiao_03,1402
+4,夺宝合成,TrialEasyJumpAtlas,a_ui_liliantubiao_04,1403
+5,镇妖空闲,TrialEasyJumpAtlas,a_ui_liliantubiao_05,1404
+6,镇妖完成,TrialEasyJumpAtlas,a_ui_liliantubiao_06,1404
+7,天魔刷新,TrialEasyJumpAtlas,a_ui_liliantubiao_07,1401
+8,天魔消耗打折,TrialEasyJumpAtlas,a_ui_liliantubiao_08,1401
+9,天魔战绩双倍,TrialEasyJumpAtlas,a_ui_liliantubiao_09,1401
+10,天魔奖励,TrialEasyJumpAtlas,a_ui_liliantubiao_10,1401

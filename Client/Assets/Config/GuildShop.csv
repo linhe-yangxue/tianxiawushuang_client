@@ -1,0 +1,12 @@
+INT,STRING,STRING,STRING,INT
+INDEX,NAME,ICONATLAS,PICTURE,SINGEROFFER
+0,物品名字,捐献图集,图标,价格
+1001,风伯,AvatarAtlas,icon_windmaster_5_green,42000
+1002,青龙,AvatarAtlas,icon_bluedragon_5_blue,35000
+1003,寒冰仙子,AvatarAtlas,icon_hydra_5_blue,36800
+1004,无双战神,AvatarAtlas,icon_gintan_5_shadow,25900
+1005,夺命魔女,AvatarAtlas,icon_fairy_4_shadow,48500
+1006,狻猊,AvatarAtlas,icon_goldenlion_5_red,60000
+1007,朱雀,AvatarAtlas,icon_redbird_5_red,15000
+1008,武圣,AvatarAtlas,icon_guanyu_5_gold,21000
+1009,雷震童子,AvatarAtlas,icon_lightningmaster_4_gold,36900

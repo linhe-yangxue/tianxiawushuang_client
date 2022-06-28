@@ -1,0 +1,47 @@
+﻿INDEX,NAME,TXT,ATTRIBUTE_BATTLE,ICON_ATLAS_NAME,ICON_SPRITE_NAME,NAME_EN
+INT,STRING,STRING,FLOAT,STRING,STRING,STRING
+1,攻击力,攻击,3,SmalliconAtlas,skill_atk,ATTACK
+2,攻击力,攻击百分比,0,SmalliconAtlas,skill_hitper,ATTACK_RATE
+3,防御力,防御,0,SmalliconAtlas,skill_damageredu,DEFENCE
+4,防御力,防御百分比,0,SmalliconAtlas,skill_damageredu,DEFENCE_RATE
+5,生命值,当前生命,0,SmalliconAtlas,skill_hp,HP
+6,生命值,当前生命百分比,0,SmalliconAtlas,skill_hpper,HP_RATE
+7,生命上限,hp上限数值,0.08,SmalliconAtlas,skill_hp,HP_MAX
+8,生命上限,hp上限百分比,0,SmalliconAtlas,skill_hpper,HP_MAX_RATE
+9,魔法值,当前魔法值,0,SmalliconAtlas,skill_mp,MP
+10,魔法值,当前魔法值百分比,0,SmalliconAtlas,skill_mpper,MP_RATE
+11,魔法上限,mp上限数值,0,SmalliconAtlas,skill_mp,MP_MAX
+12,魔法上限,mp上限百分比,0,SmalliconAtlas,skill_mpper,MP_MAX_RATE
+13,命中,命中,0,SmalliconAtlas,skill_hit,HIT_TARGET
+14,命中,命中率,12000,SmalliconAtlas,skill_hit,HIT_TARGET_RATE
+15,暴击,暴击,0,SmalliconAtlas,skill_cstrike,CRITICAL_STRIKE
+16,暴击,暴击率,12000,SmalliconAtlas,skill_cstrike,CRITICAL_STRIKE_RATE
+17,暴击伤害,暴击伤害百分比,0,SmalliconAtlas,skill_cdamage,HIT_CRITICAL_STRIKE_RATE
+18,眩晕抵抗,抗晕,0,SmalliconAtlas,skill_res,DEFENCE_CHARM_RATE
+19,恐惧抵抗,抗恐惧,0,SmalliconAtlas,skill_resfear,DEFENCE_FEAR_RATE
+20,魅惑抵抗,抗魅惑,0,SmalliconAtlas,skill_rescharm,DEFENCE_WOOZY_RATE
+21,冰冻抵抗,抗冰,0,SmalliconAtlas,skill_resice,DEFENCE_ICE_RATE
+22,击退抵抗,抗击退,0,SmalliconAtlas,skill_res,DEFENCE_BEATBACK_RATE
+23,击倒抵抗,抗击倒,0,SmalliconAtlas,skill_res,DEFENCE_DOWN_RATE
+24,伤害减免,伤害减免百分比,24000,SmalliconAtlas,skill_damageredu,DEFENCE_HIT_RATE
+25,移动速度,移动速度,0,SmalliconAtlas,skill_dodge,MOVE_SPEED
+26,移动速度,移动速度百分比,0,SmalliconAtlas,skill_dodge,MOVE_SPEED_RATE
+27,攻击速度,攻击速度,0,SmalliconAtlas,skill_dodge,ATTACK_SPEED
+28,攻击速度,攻击速度百分比,0,SmalliconAtlas,skill_dodge,ATTACK_SPEED_RATE
+29,闪避,闪避,0,SmalliconAtlas,skill_dodge,DODGE
+30,闪避,闪避率,12000,SmalliconAtlas,skill_dodge,DODGE_RATE
+31,暴击伤害减免,暴击伤害减免百分比,0,SmalliconAtlas,skill_damageredu,DEFENCE_CRITICAL_DAMAGE_RATE
+32,生命恢复,生命值恢复,0,SmalliconAtlas,skill_hp,AUTO_HP
+33,魔法恢复,魔法值恢复,0,SmalliconAtlas,skill_mp,AUTO_MP
+34,吸血,按攻击力百分比回血,0,SmalliconAtlas,skill_hp,BLOOD_SUCKING
+35,火抗减免,火抗减免,0,Battle Atlas,ui_bloodmark_red,RED_REDUCTION_RATE
+36,水抗减免,木抗减免,0,Battle Atlas,ui_bloodmark_blue,GREEN_REDUCTION_RATE
+37,木抗减免,水抗减免,0,Battle Atlas,ui_bloodmark_green,BLUE_REDUCTION_RATE
+38,阳抗减免,阴抗减免,0,Battle Atlas,ui_bloodmark_gold,SHADOW_REDUCTION_RATE
+39,阴抗减免,阳抗减免,0,Battle Atlas,ui_bloodmark_shadow,GOLD_REDUCTION_RATE
+40,物防,物防,1.5,SmalliconAtlas,skill_dodge,PHYSICAL_DEFENCE
+41,法防,法防,1.5,SmalliconAtlas,skill_dodge,MAGIC_DEFENCE
+42,物防率,物防百分比,0,SmalliconAtlas,skill_dodge,PHYSICAL_DEFENCE_RATE
+43,法防率,法防百分比,0,SmalliconAtlas,skill_dodge,MAGIC_DEFENCE_RATE
+44,暴击抗性,抗暴率,12000,SmalliconAtlas,skill_cstrike,DEFENCE_CRITICAL_STRIKE _RATE
+45,伤害加成,伤害增加百分比,24000,SmalliconAtlas,skill_damageredu,HIT_RATE

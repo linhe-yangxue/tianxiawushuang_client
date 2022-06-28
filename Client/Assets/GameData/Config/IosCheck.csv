@@ -1,0 +1,13 @@
+﻿INDEX,DESC,WINDOW_NAME,TYPE,IOS_ATLAS_NAME,RESOURCE_PATH,ANDROID,IOS_CHECK
+INT,STRING,STRING,STRING,STRING,STRING,STRING,STRING
+1,25元月卡充值图片,RECHARGE_WINDOW,Sprite,IosCheckAtlas,top_info/recharge_month_buy_0,a_ui_xiaoyueka,a_ui_xiaoyueka_ios
+2,50元月卡充值图片,RECHARGE_WINDOW,Sprite,IosCheckAtlas,top_info/recharge_month_buy_1,a_ui_dayueka,a_ui_dayueka_ios
+3,月卡界面title,ACTIVE_DAILY_REWARD_FOR_MONTH_WINDOW,Label,IosCheckAtlas,title_bg/title_Label,月卡,福利
+4,月卡界面说明文字,ACTIVE_DAILY_REWARD_FOR_MONTH_WINDOW,Label,IosCheckAtlas,tips_bg/tips_label,两种月卡可同时生效哦！,两种福利可同时生效哦！
+5,25元月卡title,ACTIVE_DAILY_REWARD_FOR_MONTH_WINDOW,Sprite,IosCheckAtlas,cheap/title,a_ui_yueka25yuanyueka,a_ui_yueka25yuanyueka_ios
+6,50元月卡title,ACTIVE_DAILY_REWARD_FOR_MONTH_WINDOW,Sprite,IosCheckAtlas,expensive/title,a_ui_yueka50yuanyueka,a_ui_yueka50yuanyueka_ios
+7,25元月卡说明文字,ACTIVE_DAILY_REWARD_FOR_MONTH_WINDOW,Label,IosCheckAtlas,cheap/cheap_get_now,购买即可获得250元宝,仅需25元，立即获得250元宝
+8,50元月卡说明文字,ACTIVE_DAILY_REWARD_FOR_MONTH_WINDOW,Label,IosCheckAtlas,expensive/expensive_get_now,购买即可获得500元宝,仅需50元，立即获得500元宝
+9,25元月卡奖励持续时间说明文字,ACTIVE_DAILY_REWARD_FOR_MONTH_WINDOW,Label,IosCheckAtlas,cheap/CheapDay,月卡领取持续时间30天,奖励领取持续时间30天
+10,50元月卡奖励持续时间说明文字,ACTIVE_DAILY_REWARD_FOR_MONTH_WINDOW,Label,IosCheckAtlas,expensive/ExpensiveDay,月卡领取持续时间30天,奖励领取持续时间30天
+11,次日登陆,MORROW_LAND_WINDOW,Texture,IosCheckAtlas,tween_root/decorate_sprite,a_ui_wenzipaopao,a_ui_wenzipaopao_ios

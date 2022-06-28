@@ -1,0 +1,6 @@
+INDEX,PIPE_LINE_TYPE,NOTE,COMPONENT_NAME,OPERATE_TYPE
+INT,STRING,STRING,STRING,STRING
+0,Set_Name,设定名称,name,SetName 
+1,Set_Icon,设定图标,icon,SetIcon
+2,Set_Level_Slider,设定进度条,levelSlider,SetSlider
+3,Set_Level_Num,设定进度条数字,levelNum,SetLabel

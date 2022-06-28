@@ -1,0 +1,13 @@
+INT,STRING,STRING,STRING,INT,STRING
+INDEX,NAME,ICONATLAS,PICTURE,LEVEL,LEVELLABEL
+0,功能名,图标图集,图标,开启等级,开启等级
+1001,提升等级,StrongerUIAtlas,ui_tishengshili_tsdj,1,1级开启
+1002,召唤符灵,StrongerUIAtlas,ui_tishengshili_zhfl,1,1级开启
+1003,抽取法宝,StrongerUIAtlas,ui_tishengshili_cqfb,1,1级开启
+1004,符灵升级,StrongerUIAtlas,ui_tishengshili_flsj,4,4级开启
+1005,强化符灵,StrongerUIAtlas,ui_tishengshili_qhfl,5,5级开启
+1006,符人探险,StrongerUIAtlas,ui_tishengshili_frtx,6,6级开启
+1007,强化法宝,StrongerUIAtlas,ui_tishengshili_zbqh,10,10级开启
+1008,铜钱活动,StrongerUIAtlas,ui_tishengshili_jbhd,13,13级开启
+1009,经验活动,StrongerUIAtlas,ui_tishengshili_jyhd,13,13级开启
+1010,秘境探索,StrongerUIAtlas,ui_tishengshili_mjhd,24,24级开启

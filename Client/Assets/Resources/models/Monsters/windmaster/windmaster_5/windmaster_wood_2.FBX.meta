@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: d5ad813b7dfb0004d9168db6311fa08e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Beard_01
+    100002: Beard_02
+    100004: Bip001
+    100006: Bip001 Head
+    100008: Bip001 L Clavicle
+    100010: Bip001 L Finger0
+    100012: Bip001 L Finger1
+    100014: Bip001 L Finger2
+    100016: Bip001 L Forearm
+    100018: Bip001 L Hand
+    100020: Bip001 L UpperArm
+    100022: Bip001 Neck
+    100024: Bip001 Pelvis
+    100026: Bip001 Prop1
+    100028: Bip001 R Clavicle
+    100030: Bip001 R Finger0
+    100032: Bip001 R Finger1
+    100034: Bip001 R Finger2
+    100036: Bip001 R Forearm
+    100038: Bip001 R Hand
+    100040: Bip001 R UpperArm
+    100042: Bip001 Spine
+    100044: Eye_left
+    100046: Eye_right
+    100048: Hair_01
+    100050: Hair_02
+    100052: Hair_03
+    100054: Pendant_01
+    100056: Pendant_02
+    100058: Pendant_03
+    100060: Pendant_l01
+    100062: Pendant_r01
+    100064: //RootNode
+    100066: windmaster_wood_2
+    100068: Wing_L01
+    100070: Wing_L02
+    100072: Wing_R01
+    100074: Wing_R02
+    100076: Bip01
+    100078: Bip01 Footsteps
+    100080: Bip01 Head
+    100082: Bip01 HeadNub
+    100084: Bip01 L Calf
+    100086: Bip01 L Clavicle
+    100088: Bip01 L Finger0
+    100090: Bip01 L Finger0Nub
+    100092: Bip01 L Finger1
+    100094: Bip01 L Finger1Nub
+    100096: Bip01 L Finger2
+    100098: Bip01 L Finger2Nub
+    100100: Bip01 L Foot
+    100102: Bip01 L Forearm
+    100104: Bip01 L Hand
+    100106: Bip01 L Thigh
+    100108: Bip01 L Toe0
+    100110: Bip01 L Toe0Nub
+    100112: Bip01 L UpperArm
+    100114: Bip01 Neck
+    100116: Bip01 Pelvis
+    100118: Bip01 Prop1
+    100120: Bip01 R Calf
+    100122: Bip01 R Clavicle
+    100124: Bip01 R Finger0
+    100126: Bip01 R Finger0Nub
+    100128: Bip01 R Finger1
+    100130: Bip01 R Finger1Nub
+    100132: Bip01 R Finger2
+    100134: Bip01 R Finger2Nub
+    100136: Bip01 R Foot
+    100138: Bip01 R Forearm
+    100140: Bip01 R Hand
+    100142: Bip01 R Thigh
+    100144: Bip01 R Toe0
+    100146: Bip01 R Toe0Nub
+    100148: Bip01 R UpperArm
+    100150: Bip01 Spine
+    100152: Bone004
+    100154: Bone008
+    100156: Bone011
+    100158: Bone013
+    100160: Bone015
+    100162: windmaster_wood_1
+    100164: windmaster_2
+    400000: Beard_01
+    400002: Beard_02
+    400004: Bip001
+    400006: Bip001 Head
+    400008: Bip001 L Clavicle
+    400010: Bip001 L Finger0
+    400012: Bip001 L Finger1
+    400014: Bip001 L Finger2
+    400016: Bip001 L Forearm
+    400018: Bip001 L Hand
+    400020: Bip001 L UpperArm
+    400022: Bip001 Neck
+    400024: Bip001 Pelvis
+    400026: Bip001 Prop1
+    400028: Bip001 R Clavicle
+    400030: Bip001 R Finger0
+    400032: Bip001 R Finger1
+    400034: Bip001 R Finger2
+    400036: Bip001 R Forearm
+    400038: Bip001 R Hand
+    400040: Bip001 R UpperArm
+    400042: Bip001 Spine
+    400044: Eye_left
+    400046: Eye_right
+    400048: Hair_01
+    400050: Hair_02
+    400052: Hair_03
+    400054: Pendant_01
+    400056: Pendant_02
+    400058: Pendant_03
+    400060: Pendant_l01
+    400062: Pendant_r01
+    400064: //RootNode
+    400066: windmaster_wood_2
+    400068: Wing_L01
+    400070: Wing_L02
+    400072: Wing_R01
+    400074: Wing_R02
+    400076: Bip01
+    400078: Bip01 Footsteps
+    400080: Bip01 Head
+    400082: Bip01 HeadNub
+    400084: Bip01 L Calf
+    400086: Bip01 L Clavicle
+    400088: Bip01 L Finger0
+    400090: Bip01 L Finger0Nub
+    400092: Bip01 L Finger1
+    400094: Bip01 L Finger1Nub
+    400096: Bip01 L Finger2
+    400098: Bip01 L Finger2Nub
+    400100: Bip01 L Foot
+    400102: Bip01 L Forearm
+    400104: Bip01 L Hand
+    400106: Bip01 L Thigh
+    400108: Bip01 L Toe0
+    400110: Bip01 L Toe0Nub
+    400112: Bip01 L UpperArm
+    400114: Bip01 Neck
+    400116: Bip01 Pelvis
+    400118: Bip01 Prop1
+    400120: Bip01 R Calf
+    400122: Bip01 R Clavicle
+    400124: Bip01 R Finger0
+    400126: Bip01 R Finger0Nub
+    400128: Bip01 R Finger1
+    400130: Bip01 R Finger1Nub
+    400132: Bip01 R Finger2
+    400134: Bip01 R Finger2Nub
+    400136: Bip01 R Foot
+    400138: Bip01 R Forearm
+    400140: Bip01 R Hand
+    400142: Bip01 R Thigh
+    400144: Bip01 R Toe0
+    400146: Bip01 R Toe0Nub
+    400148: Bip01 R UpperArm
+    400150: Bip01 Spine
+    400152: Bone004
+    400154: Bone008
+    400156: Bone011
+    400158: Bone013
+    400160: Bone015
+    400162: windmaster_wood_1
+    400164: windmaster_2
+    4300000: windmaster_wood_2
+    4300002: windmaster_wood_1
+    4300004: windmaster_2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: windmaster_wood_2
+    13700002: windmaster_wood_1
+    13700004: windmaster_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

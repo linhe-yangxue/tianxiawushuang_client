@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: e46f9ac736e5095428c811b79e95ca2e
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: loyalismwood_groundBOSS
+    100004: loyalismwood_groundBOSS 1
+    100006: loyalismwood_groundBOSS 10
+    100008: loyalismwood_groundBOSS 11
+    100010: loyalismwood_groundBOSS 12
+    100012: loyalismwood_groundBOSS 13
+    100014: loyalismwood_groundBOSS 14
+    100016: loyalismwood_groundBOSS 15
+    100018: loyalismwood_groundBOSS 16
+    100020: loyalismwood_groundBOSS 17
+    100022: loyalismwood_groundBOSS 2
+    100024: loyalismwood_groundBOSS 3
+    100026: loyalismwood_groundBOSS 4
+    100028: loyalismwood_groundBOSS 5
+    100030: loyalismwood_groundBOSS 6
+    100032: loyalismwood_groundBOSS 7
+    100034: loyalismwood_groundBOSS 8
+    100036: loyalismwood_groundBOSS 9
+    100038: loyalismwood_groundBOSS_a
+    100040: loyalismwood_groundBOSS_b
+    400000: //RootNode
+    400002: loyalismwood_groundBOSS
+    400004: loyalismwood_groundBOSS 1
+    400006: loyalismwood_groundBOSS 10
+    400008: loyalismwood_groundBOSS 11
+    400010: loyalismwood_groundBOSS 12
+    400012: loyalismwood_groundBOSS 13
+    400014: loyalismwood_groundBOSS 14
+    400016: loyalismwood_groundBOSS 15
+    400018: loyalismwood_groundBOSS 16
+    400020: loyalismwood_groundBOSS 17
+    400022: loyalismwood_groundBOSS 2
+    400024: loyalismwood_groundBOSS 3
+    400026: loyalismwood_groundBOSS 4
+    400028: loyalismwood_groundBOSS 5
+    400030: loyalismwood_groundBOSS 6
+    400032: loyalismwood_groundBOSS 7
+    400034: loyalismwood_groundBOSS 8
+    400036: loyalismwood_groundBOSS 9
+    400038: loyalismwood_groundBOSS_a
+    400040: loyalismwood_groundBOSS_b
+    2300000: loyalismwood_groundBOSS 1
+    2300002: loyalismwood_groundBOSS 10
+    2300004: loyalismwood_groundBOSS 11
+    2300006: loyalismwood_groundBOSS 12
+    2300008: loyalismwood_groundBOSS 13
+    2300010: loyalismwood_groundBOSS 14
+    2300012: loyalismwood_groundBOSS 15
+    2300014: loyalismwood_groundBOSS 16
+    2300016: loyalismwood_groundBOSS 17
+    2300018: loyalismwood_groundBOSS 2
+    2300020: loyalismwood_groundBOSS 3
+    2300022: loyalismwood_groundBOSS 4
+    2300024: loyalismwood_groundBOSS 5
+    2300026: loyalismwood_groundBOSS 6
+    2300028: loyalismwood_groundBOSS 7
+    2300030: loyalismwood_groundBOSS 8
+    2300032: loyalismwood_groundBOSS 9
+    2300034: loyalismwood_groundBOSS_a
+    2300036: loyalismwood_groundBOSS_b
+    3300000: loyalismwood_groundBOSS 1
+    3300002: loyalismwood_groundBOSS 10
+    3300004: loyalismwood_groundBOSS 11
+    3300006: loyalismwood_groundBOSS 12
+    3300008: loyalismwood_groundBOSS 13
+    3300010: loyalismwood_groundBOSS 14
+    3300012: loyalismwood_groundBOSS 15
+    3300014: loyalismwood_groundBOSS 16
+    3300016: loyalismwood_groundBOSS 17
+    3300018: loyalismwood_groundBOSS 2
+    3300020: loyalismwood_groundBOSS 3
+    3300022: loyalismwood_groundBOSS 4
+    3300024: loyalismwood_groundBOSS 5
+    3300026: loyalismwood_groundBOSS 6
+    3300028: loyalismwood_groundBOSS 7
+    3300030: loyalismwood_groundBOSS 8
+    3300032: loyalismwood_groundBOSS 9
+    3300034: loyalismwood_groundBOSS_a
+    3300036: loyalismwood_groundBOSS_b
+    4300000: loyalismwood_groundBOSS_b
+    4300002: loyalismwood_groundBOSS_a
+    4300004: loyalismwood_groundBOSS
+    4300006: loyalismwood_groundBOSS
+    4300008: loyalismwood_groundBOSS
+    4300010: loyalismwood_groundBOSS
+    4300012: loyalismwood_groundBOSS
+    4300014: loyalismwood_groundBOSS
+    4300016: loyalismwood_groundBOSS
+    4300018: loyalismwood_groundBOSS
+    4300020: loyalismwood_groundBOSS
+    4300022: loyalismwood_groundBOSS
+    4300024: loyalismwood_groundBOSS
+    4300026: loyalismwood_groundBOSS
+    4300028: loyalismwood_groundBOSS
+    4300030: loyalismwood_groundBOSS
+    4300032: loyalismwood_groundBOSS
+    4300034: loyalismwood_groundBOSS
+    4300036: loyalismwood_groundBOSS
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

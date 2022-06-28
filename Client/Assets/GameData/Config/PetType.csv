@@ -1,0 +1,6 @@
+﻿INDEX,NAME,TPYE_ATLAS_NAME,TYPE_SPRITE_NAME
+INT,STRING,STRING,STRING
+0,防御型,ElementAtlas,a_ui_fulingleixing02
+1,物攻型,ElementAtlas,a_ui_fulingleixing01
+2,法攻型,ElementAtlas,a_ui_fulingleixing01
+3,辅助型,ElementAtlas,a_ui_fulingleixing03

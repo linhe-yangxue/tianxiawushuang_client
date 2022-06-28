@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 2062fb7503963eb4cba466b000d1f9ad
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 HeadNub
+    100006: Bip01 L Calf
+    100008: Bip01 L Clavicle
+    100010: Bip01 L Finger0
+    100012: Bip01 L Finger0Nub
+    100014: Bip01 L Foot
+    100016: Bip01 L Forearm
+    100018: Bip01 L ForeTwist
+    100020: Bip01 L ForeTwist1
+    100022: Bip01 L ForeTwistNub
+    100024: Bip01 L Hand
+    100026: Bip01 L Thigh
+    100028: Bip01 L Toe0
+    100030: Bip01 L Toe0Nub
+    100032: Bip01 L UpperArm
+    100034: Bip01 Neck
+    100036: Bip01 Pelvis
+    100038: Bip01 Prop1
+    100040: Bip01 R Calf
+    100042: Bip01 R Clavicle
+    100044: Bip01 R Finger0
+    100046: Bip01 R Finger0Nub
+    100048: Bip01 R Foot
+    100050: Bip01 R Forearm
+    100052: Bip01 R ForeTwist
+    100054: Bip01 R ForeTwist1
+    100056: Bip01 R ForeTwistNub
+    100058: Bip01 R Hand
+    100060: Bip01 R Thigh
+    100062: Bip01 R Toe0
+    100064: Bip01 R Toe0Nub
+    100066: Bip01 R UpperArm
+    100068: Bip01 Spine
+    100070: Bip01 Spine1
+    100072: Bip01 Spine2
+    100074: Bip01 Tail
+    100076: Bip01 Tail1
+    100078: Bip01 TailNub
+    100080: Bone001
+    100082: Bone002
+    100084: Bone003
+    100086: Bone004
+    100088: Bone005
+    100090: Bone006
+    100092: Bone007
+    100094: Bone008
+    100096: Bone009
+    100098: Bone009(mirrored)
+    100100: Bone010
+    100102: Bone010(mirrored)
+    100104: Bone011
+    100106: Bone011(mirrored)
+    100108: Bone012
+    100110: Bone012(mirrored)
+    100112: Bone013
+    100114: Bone013(mirrored)
+    100116: Bone014
+    100118: Bone015
+    100120: Bone016
+    100122: Bone017
+    100124: Bone018
+    100126: Bone019
+    100128: Bone020
+    100130: Bone020(mirrored)
+    100132: Bone021
+    100134: Bone021(mirrored)
+    100136: Dummy001
+    100138: Dummy002
+    100140: //RootNode
+    100142: evilsnake_dark_1
+    100144: evilsnake_dark_2
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 HeadNub
+    400006: Bip01 L Calf
+    400008: Bip01 L Clavicle
+    400010: Bip01 L Finger0
+    400012: Bip01 L Finger0Nub
+    400014: Bip01 L Foot
+    400016: Bip01 L Forearm
+    400018: Bip01 L ForeTwist
+    400020: Bip01 L ForeTwist1
+    400022: Bip01 L ForeTwistNub
+    400024: Bip01 L Hand
+    400026: Bip01 L Thigh
+    400028: Bip01 L Toe0
+    400030: Bip01 L Toe0Nub
+    400032: Bip01 L UpperArm
+    400034: Bip01 Neck
+    400036: Bip01 Pelvis
+    400038: Bip01 Prop1
+    400040: Bip01 R Calf
+    400042: Bip01 R Clavicle
+    400044: Bip01 R Finger0
+    400046: Bip01 R Finger0Nub
+    400048: Bip01 R Foot
+    400050: Bip01 R Forearm
+    400052: Bip01 R ForeTwist
+    400054: Bip01 R ForeTwist1
+    400056: Bip01 R ForeTwistNub
+    400058: Bip01 R Hand
+    400060: Bip01 R Thigh
+    400062: Bip01 R Toe0
+    400064: Bip01 R Toe0Nub
+    400066: Bip01 R UpperArm
+    400068: Bip01 Spine
+    400070: Bip01 Spine1
+    400072: Bip01 Spine2
+    400074: Bip01 Tail
+    400076: Bip01 Tail1
+    400078: Bip01 TailNub
+    400080: Bone001
+    400082: Bone002
+    400084: Bone003
+    400086: Bone004
+    400088: Bone005
+    400090: Bone006
+    400092: Bone007
+    400094: Bone008
+    400096: Bone009
+    400098: Bone009(mirrored)
+    400100: Bone010
+    400102: Bone010(mirrored)
+    400104: Bone011
+    400106: Bone011(mirrored)
+    400108: Bone012
+    400110: Bone012(mirrored)
+    400112: Bone013
+    400114: Bone013(mirrored)
+    400116: Bone014
+    400118: Bone015
+    400120: Bone016
+    400122: Bone017
+    400124: Bone018
+    400126: Bone019
+    400128: Bone020
+    400130: Bone020(mirrored)
+    400132: Bone021
+    400134: Bone021(mirrored)
+    400136: Dummy001
+    400138: Dummy002
+    400140: //RootNode
+    400142: evilsnake_dark_1
+    400144: evilsnake_dark_2
+    4300000: evilsnake_dark_1
+    4300002: evilsnake_dark_2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: evilsnake_dark_1
+    13700002: evilsnake_dark_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,14 @@
+INT,STRING,STRING,STRING,STRING
+INDEX,PIPE_LINE_TYPE,NOTE,COMPONENT_NAME,OPERATE_TYPE
+0,Set_Buy_Button_Action,设定购买按钮事件,btnAction,DoAction
+1,Set_YuanBao_Cost,设定元宝数值,yuanBaoCost,SetLabel
+2,Set_Contri_Cost,设定贡献值数值,contriCost,SetLabel
+3,Set_Name,设定名字,name,SetName
+4,Set_Remain_Buy_Count_Each,设定个人限定数量,buyCountLimit,SetLabel
+5,Set_Remain_Buy_Count_Guild,设定工会限定数量,buyCountLimit_guild,SetLabel
+6,Set_Each_Deal_Num,设定单个物品交易数量,eachDealNum,SetLabel
+7,Set_UI_Sprite,设定图标,sprite,SetIcon
+8,Switch_YuanBao_Icon,切换元宝图标,yuanBaoIcon,SwitchGameObject
+9,Switch_Contri_Icon,切换贡献值图标,contriIcon,SwitchGameObject
+10,Switch_CanBuy,设定是否可购买,canBuy,SetLabel
+11,Switch_CanBuy_Btn,切换可购买按钮,canBuyBtn,SwitchBtnState

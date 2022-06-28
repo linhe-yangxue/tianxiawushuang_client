@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 566c28b01bf67bd41a729d9ab294b026
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ____13
+    100002: ____22
+    100004: dimian01
+    100006: dimian02
+    100008: dimian03
+    100010: //RootNode
+    100012: qiao
+    100014: weiqiang
+    100016: Line01
+    100018: dimian01 1
+    100020: ____08
+    100022: ____10
+    100024: ____11
+    100026: female_01
+    100028: Object01
+    100030: Object05
+    100032: Shape09
+    100034: bian
+    100036: Box01
+    100038: shuichitang
+    100040: grass
+    100042: Object02
+    100044: Object03
+    100046: Object07
+    100048: qiao02
+    400000: ____13
+    400002: ____22
+    400004: dimian01
+    400006: dimian02
+    400008: dimian03
+    400010: //RootNode
+    400012: qiao
+    400014: weiqiang
+    400016: Line01
+    400018: dimian01 1
+    400020: ____08
+    400022: ____10
+    400024: ____11
+    400026: female_01
+    400028: Object01
+    400030: Object05
+    400032: Shape09
+    400034: bian
+    400036: Box01
+    400038: shuichitang
+    400040: grass
+    400042: Object02
+    400044: Object03
+    400046: Object07
+    400048: qiao02
+    2300000: ____13
+    2300002: ____22
+    2300004: dimian01
+    2300006: dimian02
+    2300008: dimian03
+    2300010: qiao
+    2300012: weiqiang
+    2300014: Line01
+    2300016: dimian01 1
+    2300018: ____08
+    2300020: ____10
+    2300022: ____11
+    2300024: female_01
+    2300026: Object01
+    2300028: Object05
+    2300030: Shape09
+    2300032: bian
+    2300034: Box01
+    2300036: shuichitang
+    2300038: grass
+    2300040: Object02
+    2300042: Object03
+    2300044: Object07
+    2300046: qiao02
+    3300000: ____13
+    3300002: ____22
+    3300004: dimian01
+    3300006: dimian02
+    3300008: dimian03
+    3300010: qiao
+    3300012: weiqiang
+    3300014: Line01
+    3300016: dimian01 1
+    3300018: ____08
+    3300020: ____10
+    3300022: ____11
+    3300024: female_01
+    3300026: Object01
+    3300028: Object05
+    3300030: Shape09
+    3300032: bian
+    3300034: Box01
+    3300036: shuichitang
+    3300038: grass
+    3300040: Object02
+    3300042: Object03
+    3300044: Object07
+    3300046: qiao02
+    4300000: dimian02
+    4300002: qiao
+    4300004: ____13
+    4300006: ____22
+    4300008: dimian01
+    4300010: weiqiang
+    4300012: dimian03
+    4300014: Line01
+    4300016: dimian01
+    4300018: female_01
+    4300020: ____10
+    4300022: Object05
+    4300024: Shape09
+    4300026: ____08
+    4300028: ____11
+    4300030: Object01
+    4300032: bian
+    4300034: Box01
+    4300036: shuichitang
+    4300038: grass
+    4300040: Object02
+    4300042: Object03
+    4300044: Object07
+    4300046: qiao02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 

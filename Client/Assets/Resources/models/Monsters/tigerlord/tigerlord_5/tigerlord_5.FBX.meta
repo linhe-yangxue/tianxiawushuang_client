@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: a57f46b6cc2a0fa489430d23180c41bc
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 L Calf
+    100006: Bip01 L Clavicle
+    100008: Bip01 L Finger0
+    100010: Bip01 L Finger01
+    100012: Bip01 L Foot
+    100014: Bip01 L Forearm
+    100016: Bip01 L Hand
+    100018: Bip01 L Thigh
+    100020: Bip01 L UpperArm
+    100022: Bip01 Neck
+    100024: Bip01 Pelvis
+    100026: Bip01 Prop1
+    100028: Bip01 R Calf
+    100030: Bip01 R Clavicle
+    100032: Bip01 R Finger0
+    100034: Bip01 R Finger01
+    100036: Bip01 R Foot
+    100038: Bip01 R Forearm
+    100040: Bip01 R Hand
+    100042: Bip01 R Thigh
+    100044: Bip01 R UpperArm
+    100046: Bip01 Spine
+    100048: Bip01 Spine1
+    100050: Bone01
+    100052: Bone02
+    100054: Bone03
+    100056: Bone05
+    100058: Bone06
+    100060: Bone07
+    100062: Bone07(mirrored)
+    100064: Bone08
+    100066: Bone08(mirrored)
+    100068: Bone09
+    100070: Bone09(mirrored)
+    100072: Bone11
+    100074: Bone11(mirrored)
+    100076: tiger_immortal_5
+    100078: //RootNode
+    100080: Bip01 L Toe0
+    100082: Bip01 R Toe0
+    100084: Bone04
+    100086: Bone10
+    100088: Bone10(mirrored)
+    100090: tiger_immortal_5_red
+    100092: tiger_immortal_5_red001
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 L Calf
+    400006: Bip01 L Clavicle
+    400008: Bip01 L Finger0
+    400010: Bip01 L Finger01
+    400012: Bip01 L Foot
+    400014: Bip01 L Forearm
+    400016: Bip01 L Hand
+    400018: Bip01 L Thigh
+    400020: Bip01 L UpperArm
+    400022: Bip01 Neck
+    400024: Bip01 Pelvis
+    400026: Bip01 Prop1
+    400028: Bip01 R Calf
+    400030: Bip01 R Clavicle
+    400032: Bip01 R Finger0
+    400034: Bip01 R Finger01
+    400036: Bip01 R Foot
+    400038: Bip01 R Forearm
+    400040: Bip01 R Hand
+    400042: Bip01 R Thigh
+    400044: Bip01 R UpperArm
+    400046: Bip01 Spine
+    400048: Bip01 Spine1
+    400050: Bone01
+    400052: Bone02
+    400054: Bone03
+    400056: Bone05
+    400058: Bone06
+    400060: Bone07
+    400062: Bone07(mirrored)
+    400064: Bone08
+    400066: Bone08(mirrored)
+    400068: Bone09
+    400070: Bone09(mirrored)
+    400072: Bone11
+    400074: Bone11(mirrored)
+    400076: tiger_immortal_5
+    400078: //RootNode
+    400080: Bip01 L Toe0
+    400082: Bip01 R Toe0
+    400084: Bone04
+    400086: Bone10
+    400088: Bone10(mirrored)
+    400090: tiger_immortal_5_red
+    400092: tiger_immortal_5_red001
+    4300000: tiger_immortal_5
+    4300002: tiger_immortal_5_red
+    4300004: tiger_immortal_5_red001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: tiger_immortal_5
+    13700002: tiger_immortal_5_red
+    13700004: tiger_immortal_5_red001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

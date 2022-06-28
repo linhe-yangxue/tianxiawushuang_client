@@ -1,0 +1,13 @@
+INT,STRING,STRING,STRING
+INDEX,DATA_TYPE,NOTE,TABLE_PATH
+0,yuanBaoTid,元宝,1000001
+1,silverTid,银币,1000002
+2,ghostTid,符魂,1000004
+3,reputationTid,声望,1000006
+4,moLingTid,魔麟,1000008
+5,coreTid,灵核,1000007
+6,contriTid,宗门贡献,1000009
+7,energy,精力,30
+8,stamina,体力,100
+9,xiangMo,降魔令,10
+10,nextLevelExp,,CharacterLevelExp/LEVEL_EXP

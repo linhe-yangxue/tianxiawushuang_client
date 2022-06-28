@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 8971c59801ebda24fb067ff974885362
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: ____07
+    100002: ____10
+    100004: ____11
+    100006: ____26
+    100008: ____27
+    100010: ____28
+    100012: dimian01
+    100014: dimian02
+    100016: dimian03
+    100018: female_01
+    100020: Object05
+    100022: qiao
+    100024: //RootNode
+    100026: Shape09
+    400000: ____07
+    400002: ____10
+    400004: ____11
+    400006: ____26
+    400008: ____27
+    400010: ____28
+    400012: dimian01
+    400014: dimian02
+    400016: dimian03
+    400018: female_01
+    400020: Object05
+    400022: qiao
+    400024: //RootNode
+    400026: Shape09
+    2300000: ____07
+    2300002: ____10
+    2300004: ____11
+    2300006: ____26
+    2300008: ____27
+    2300010: ____28
+    2300012: dimian01
+    2300014: dimian02
+    2300016: dimian03
+    2300018: female_01
+    2300020: Object05
+    2300022: qiao
+    2300024: Shape09
+    3300000: ____07
+    3300002: ____10
+    3300004: ____11
+    3300006: ____26
+    3300008: ____27
+    3300010: ____28
+    3300012: dimian01
+    3300014: dimian02
+    3300016: dimian03
+    3300018: female_01
+    3300020: Object05
+    3300022: qiao
+    3300024: Shape09
+    4300000: female_01
+    4300002: ____10
+    4300004: qiao
+    4300006: ____11
+    4300008: Object05
+    4300010: Shape09
+    4300012: dimian03
+    4300014: dimian02
+    4300016: dimian01
+    4300018: ____07
+    4300020: ____26
+    4300022: ____27
+    4300024: ____28
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

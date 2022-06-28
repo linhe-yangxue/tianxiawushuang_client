@@ -1,0 +1,16 @@
+INT,STRING,STRING,STRING
+INDEX,DATA_TYPE,NOTE,TABLE_PATH
+0,tid,物品tid,GuildShopConfig/ITEM_ID
+1,gid,工会索引,SERVER
+2,yuanBaoCost,元宝消耗数量,GuildShopConfig/COST_NUM_2
+3,contriCost,贡献值消耗数量,GuildShopConfig/COST_NUM_1
+4,limitEach,个人限定数量,GuildShopConfig/BUY_NUM
+5,limitGuild,工会限定数量,GuildShopConfig/MAX_ITEM_NUM
+6,guildLimitLevel,可购买工会等级限制,GuildShopConfig/OPEN_GUILD_LEVEL
+7,eachDealNum,单个物品交易数量,GuildShopConfig/ITEM_NUM
+8,boughtNumEach,已经购买个人数量,SERVER
+9,boughtNumGuild,已经购买工会数量,SERVER
+10,showLevel,展示等级,GuildShopConfig/ITEM_SHOW_LEVEL
+11,tabID,商店类型,GuildShopConfig/TAB_ID
+12,gIndex,物品索引,GuildShopConfig/INDEX
+13,guildLevel,工会等级,PUBLIC

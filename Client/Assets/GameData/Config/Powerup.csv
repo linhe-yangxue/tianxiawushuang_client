@@ -1,0 +1,6 @@
+INT,STRING,STRING
+INDEX,PIC_IMAGE,UI_WINDOW
+0,°ïÖúÍ¼Æ¬,Í¨ÏòUI´°¿Ú
+1001,textures/Uitextures/Powerup/powerupad_1,shop_window
+1003,textures/Uitextures/Powerup/powerupad_1,all_role_attribute_info_window
+1004,textures/Uitextures/Powerup/powerupad_1,all_pet_attribute_info_window

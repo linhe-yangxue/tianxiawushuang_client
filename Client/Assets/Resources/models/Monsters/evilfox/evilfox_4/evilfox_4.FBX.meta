@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: c1a5047600ddf204fa93a60957b5632b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 L Calf
+    100006: Bip01 L Clavicle
+    100008: Bip01 L Finger0
+    100010: Bip01 L Foot
+    100012: Bip01 L Forearm
+    100014: Bip01 L Hand
+    100016: Bip01 L Thigh
+    100018: Bip01 L Toe0
+    100020: Bip01 L UpperArm
+    100022: Bip01 Neck
+    100024: Bip01 Pelvis
+    100026: Bip01 R Calf
+    100028: Bip01 R Clavicle
+    100030: Bip01 R Finger0
+    100032: Bip01 R Foot
+    100034: Bip01 R Forearm
+    100036: Bip01 R Hand
+    100038: Bip01 R Thigh
+    100040: Bip01 R Toe0
+    100042: Bip01 R UpperArm
+    100044: Bip01 Spine
+    100046: Bip01 Spine1
+    100048: Bone002
+    100050: Bone004
+    100052: Bone006
+    100054: Bone008
+    100056: //RootNode
+    100058: fox_deamon_4_green
+    100060: QB_Back01
+    100062: QB_Back02
+    100064: QB_Back03
+    100066: QB_Back04
+    100068: QB_Front01
+    100070: QB_Front02
+    100072: QB_Front03
+    100074: QB_Left01
+    100076: QB_Left02
+    100078: QB_Left03
+    100080: QB_Right01
+    100082: QB_Right02
+    100084: QB_Right03
+    100086: Tail_LB06
+    100088: Tail_LB07
+    100090: Tail_LB08
+    100092: Tail_LB09
+    100094: Tail_LB10
+    100096: Tail_M01
+    100098: Tail_M02
+    100100: Tail_M03
+    100102: Tail_M04
+    100104: Tail_M05
+    100106: Tail_RB06
+    100108: Tail_RB07
+    100110: Tail_RB08
+    100112: Tail_RB09
+    100114: Tail_RB10
+    100116: evilfox_4
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 L Calf
+    400006: Bip01 L Clavicle
+    400008: Bip01 L Finger0
+    400010: Bip01 L Foot
+    400012: Bip01 L Forearm
+    400014: Bip01 L Hand
+    400016: Bip01 L Thigh
+    400018: Bip01 L Toe0
+    400020: Bip01 L UpperArm
+    400022: Bip01 Neck
+    400024: Bip01 Pelvis
+    400026: Bip01 R Calf
+    400028: Bip01 R Clavicle
+    400030: Bip01 R Finger0
+    400032: Bip01 R Foot
+    400034: Bip01 R Forearm
+    400036: Bip01 R Hand
+    400038: Bip01 R Thigh
+    400040: Bip01 R Toe0
+    400042: Bip01 R UpperArm
+    400044: Bip01 Spine
+    400046: Bip01 Spine1
+    400048: Bone002
+    400050: Bone004
+    400052: Bone006
+    400054: Bone008
+    400056: //RootNode
+    400058: fox_deamon_4_green
+    400060: QB_Back01
+    400062: QB_Back02
+    400064: QB_Back03
+    400066: QB_Back04
+    400068: QB_Front01
+    400070: QB_Front02
+    400072: QB_Front03
+    400074: QB_Left01
+    400076: QB_Left02
+    400078: QB_Left03
+    400080: QB_Right01
+    400082: QB_Right02
+    400084: QB_Right03
+    400086: Tail_LB06
+    400088: Tail_LB07
+    400090: Tail_LB08
+    400092: Tail_LB09
+    400094: Tail_LB10
+    400096: Tail_M01
+    400098: Tail_M02
+    400100: Tail_M03
+    400102: Tail_M04
+    400104: Tail_M05
+    400106: Tail_RB06
+    400108: Tail_RB07
+    400110: Tail_RB08
+    400112: Tail_RB09
+    400114: Tail_RB10
+    400116: evilfox_4
+    4300000: fox_deamon_4_green
+    4300002: evilfox_4
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: fox_deamon_4_green
+    13700002: evilfox_4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

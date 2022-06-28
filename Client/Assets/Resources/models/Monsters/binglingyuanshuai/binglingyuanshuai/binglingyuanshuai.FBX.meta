@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 062f19918a4b1fc44a6d5f173a8bd570
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: binglingyuanshuai
+    100004: Bip01
+    100006: Bip01 Head
+    100008: Bip01 L Calf
+    100010: Bip01 L Clavicle
+    100012: Bip01 L Foot
+    100014: Bip01 L Forearm
+    100016: Bip01 L Hand
+    100018: Bip01 L Thigh
+    100020: Bip01 L Toe0
+    100022: Bip01 L UpperArm
+    100024: Bip01 Neck
+    100026: Bip01 Pelvis
+    100028: Bip01 Prop1
+    100030: Bip01 R Calf
+    100032: Bip01 R Clavicle
+    100034: Bip01 R Foot
+    100036: Bip01 R Forearm
+    100038: Bip01 R Hand
+    100040: Bip01 R Thigh
+    100042: Bip01 R Toe0
+    100044: Bip01 R UpperArm
+    100046: Bip01 Spine
+    100048: Bip01 Spine1
+    100050: Bip01 Xtra01
+    100052: Bip01 Xtra0102
+    100054: Bip01 Xtra0103
+    100056: Bip01 Xtra0104
+    100058: Bip01 Xtra01Opp
+    100060: Bip01 Xtra01Opp02
+    100062: Bip01 Xtra01Opp03
+    100064: Bip01 Xtra01Opp04
+    100066: Bip01 Xtra02
+    100068: Bip01 Xtra0202
+    100070: Bip01 Xtra0203
+    100072: Bip01 Xtra02Opp
+    100074: Bip01 Xtra02Opp02
+    100076: Bip01 Xtra02Opp03
+    100078: Bone01
+    100080: Bone011
+    100082: Bone011(mirrored)
+    400000: //RootNode
+    400002: binglingyuanshuai
+    400004: Bip01
+    400006: Bip01 Head
+    400008: Bip01 L Calf
+    400010: Bip01 L Clavicle
+    400012: Bip01 L Foot
+    400014: Bip01 L Forearm
+    400016: Bip01 L Hand
+    400018: Bip01 L Thigh
+    400020: Bip01 L Toe0
+    400022: Bip01 L UpperArm
+    400024: Bip01 Neck
+    400026: Bip01 Pelvis
+    400028: Bip01 Prop1
+    400030: Bip01 R Calf
+    400032: Bip01 R Clavicle
+    400034: Bip01 R Foot
+    400036: Bip01 R Forearm
+    400038: Bip01 R Hand
+    400040: Bip01 R Thigh
+    400042: Bip01 R Toe0
+    400044: Bip01 R UpperArm
+    400046: Bip01 Spine
+    400048: Bip01 Spine1
+    400050: Bip01 Xtra01
+    400052: Bip01 Xtra0102
+    400054: Bip01 Xtra0103
+    400056: Bip01 Xtra0104
+    400058: Bip01 Xtra01Opp
+    400060: Bip01 Xtra01Opp02
+    400062: Bip01 Xtra01Opp03
+    400064: Bip01 Xtra01Opp04
+    400066: Bip01 Xtra02
+    400068: Bip01 Xtra0202
+    400070: Bip01 Xtra0203
+    400072: Bip01 Xtra02Opp
+    400074: Bip01 Xtra02Opp02
+    400076: Bip01 Xtra02Opp03
+    400078: Bone01
+    400080: Bone011
+    400082: Bone011(mirrored)
+    4300000: binglingyuanshuai
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: binglingyuanshuai
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

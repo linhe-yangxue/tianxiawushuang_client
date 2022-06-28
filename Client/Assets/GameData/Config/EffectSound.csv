@@ -1,0 +1,372 @@
+﻿OBJECT_NAME,SOUND_FILE,HIT_SOUND_FILE,DELAY_TIME,IS_LOOP,INTERVAL_TIME,IS_NEED_REPLAY,SOUND_TYPE,INFO
+STRING,STRING,STRING,FLOAT,INT,FLOAT,INT,INT,STRING
+sworddancer_skill,Sound/skillsound/Sound_sworddancer_skill,0,0,0,0,0,1,御火剑使 主角技能（从天而降一把剑）
+redbird_skill_pet,Sound/skillsound/Sound_redbird_skill_pet,0,0,0,0,0,1,朱雀 灵将技能（一个半球形防护光效扩散爆掉的感觉）
+goldenlion_att,Sound/skillsound/,0,0,0,0,0,1,焚天炎龙 普攻（砸地效果）
+goldenlion_skill,Sound/skillsound/Sound_goldenlion_skill,0,0,0,0,0,1,焚天炎龙 主角技能（无敌盾）
+goldenlion_skill_pet,Sound/skillsound/Sound_goldenlion_pet,0,0,0,0,0,1,焚天炎龙 灵将技能（砸地火圈扩散效果）
+bullhead_att1,Sound/skillsound/,0,0,0,0,0,1,健美牛头 普攻（带有火焰的拳迅速挥击的效果）1段
+bullhead_att2,Sound/skillsound/,0,0,0,0,0,1,健美牛头 普攻（带有火焰的拳迅速挥击的效果）2段
+deerlord_attack1,Sound/skillsound/,0,0,0,0,0,1,鹿力大仙 普攻（一个水系的锥形物体飞出的效果）
+horsehead_att,Sound/skillsound/,0,0,0,0,0,1,真武角马 普攻（挥拳的音效）
+duopo_attfly,Sound/skillsound/,0,0,0,0,0,1,夺魄 普攻（一个黑紫色的黑暗物质打出的飞行效果）
+anjingling_attfly,Sound/skillsound/,0,0,0,0,0,1,暗精灵 普攻（一个暗系的坠型道具飞出的效果）
+qiuju_att1,Sound/skillsound/,0,0,0,0,0,1,天道医师 普攻（一个太阳花道具飞出的效果）
+guainia_attack,Sound/skillsound/,0,0,0,0,0,1,三头怪鸟 普攻（一个火焰物体飞出的效果）
+huaqingting_att,Sound/skillsound/,0,0,0,0,0,1,诸乘射手 普攻(弓箭的射出效果)
+tianyi_attfly,Sound/skillsound/,0,0,0,0,0,1,天翼隼 普攻（一个光球型的飞行道具被打出的效果）
+dongxueshou_skill_pet_1,Sound/skillsound/Sound_dongxueshou_skill_pet_1,0,0,0,0,0,1,洞穴兽 主角技能（下雪特效）
+duopo_skill1,Sound/skillsound/Sound_duopo_skill1,0,0,0,0.3,1,1,夺魄 主角技能（暗影箭雨效果）
+mingjiezhanjiang_skill_pet,Sound/skillsound/Sound_mingjiezhanjiang_skill_pet,0,0,0,0,0,1,冥界战神 主角技能（从天而降一个冥界战将的大锤子，咋地上击晕）
+monkey_skill,Sound/skillsound/Sound_monkey_skill,0,0,0,0,0,1,雷火金刚 主角技能（主角攻击力提升效果）
+monkey_skill_pet,Sound/skillsound/Sound_monkey_skill,0,0,0,0,0,1,雷火金刚 灵将技能（火圈效果）
+whitetriger_skill,Sound/skillsound/Sound_whitetriger_skill,0,0,0,0,0,1,白虎 主角技能（绿色光圈开启后获得伤害减免）
+whitetriger_skill_pet,Sound/skillsound/Sound_whitetriger_skill_pet,0,0,0,0,0,1,白虎 灵将技能（虎头buff，10秒内攻击力提升）
+mech_skill1,Sound/skillsound/Sound_mech_skill1,0,0,0,0,0,1,巨擎boss 主角技能（有机关零件的无敌盾）
+mech_skill2,Sound/skillsound/Sound_mech_skill2,0,0,0,0,0,1,巨擎boss 灵将技能（头上的齿轮转动效果）
+mech_att1,0,0,0,0,0,0,1,巨擎boss 普攻
+blackturtle_skill,Sound/skillsound/Sound_blackturtle_skill,0,0,0,0,0,1,玄武 主角技能（类似激光的横向水柱）
+blackturtle_pet,Sound/skillsound/Sound_blackturtle_pet,0,0,0,0,0,1,玄武 灵将技能（水柱龙卷风）
+lightningmaster_skill02,Sound/skillsound/Sound_lightningmaster_skill02,0,0,0,0,0,1,雷震子 主角技能（闪电激光）
+rainmaster_skill,Sound/skillsound/Sound_rainmaster_skill,0,0,0,0,0,1,雨伞 主角技能（毒雨）
+butterfly_skill,Sound/skillsound/Sound_butterfly_skill,0,0,0,0,0,1,蝴蝶女 主角技能(海浪)
+bluedragon_skill,Sound/skillsound/Sound_bluedragon_skill,0,0,0,0,0,1,青龙 主角技能（超声波）
+bluedragon_skill_pet,Sound/skillsound/Sound_bluedragon_pet,0,0,0,0,0,1,青龙 灵将技能（风暴漩涡）
+hydra_skill1,Sound/skillsound/Sound_hydra_skill1,0,0,0,0,0,1,寒冰仙子boss 主角技能（冰雪球）
+hydra_skill_pet,Sound/skillsound/Sound_hydra_pet,0,0,0,0,0,1,寒冰仙子boss 灵将技能（冰锥）
+shujingling_skill,Sound/skillsound/Sound_shujingling_skill,0,0,0,0,0,1,树精灵 主角技能（绿圈 树叶飞起范围回复）
+shujingling_skill_pet,Sound/skillsound/Sound_shujingling_pet,0,0,0,0,0,1,树精灵 灵将技能（魅惑）
+windmaster_skill,Sound/skillsound/Sound_windmaster_skill,0,0,0,0,0,1,扇子爷 主角技能（范围回复）
+windmaster_skill_pet1,Sound/skillsound/Sound_windmaster_pet,0,0,0,0,0,1,扇子爷 灵将技能（龙卷风）
+totie_skill,Sound/skillsound/Sound_totie_skill,0,0,0,0,0,1,饕餮 主角技能（召唤）
+totie_skill_pet,Sound/skillsound/Sound_totie_pet,0,0,0,0,0,1,饕餮 灵将技能（盾牌防御buff）
+gintan_skill,Sound/skillsound/Sound_lightningmaster_skill02,0,0,0,0,0,1,傀儡巨像 主角技能（黑暗射线）
+stonemister_dark_skill,Sound/skillsound/Sound_stonemister_skill,0,0,0,0,0,1,石姬boss 主角技能（黑暗能量柱）
+stonemister_dark_skill_pet,Sound/skillsound/Sound_stonemister_pet,0,0,0,0,0,1,石姬boss 灵将技能（黑暗沉默）
+lightningmaster_skill_pet2,Sound/skillsound/Sound_lightningmaster_skill_pet,0,0,0,0,0,1,雷震子 灵将技能（闪电球）
+kirin_skill2,Sound/skillsound/Sound_kirin_skill2,0,0,0,0,0,1,梵地麒麟 主角技能（能量防护罩）
+kirin_skill_pet,Sound/skillsound/Sound_kirin_skill_pet,0,0,0,0,0,1,梵地麒麟 灵将技能（能量范围回复）
+catimp_skill2,Sound/skillsound/Sound_catimp_skill2,0,0,0,0,0,1,猫天师  主角技能（天剑落下）
+catimp_skill1,Sound/skillsound/Sound_catimp_skill1,0,0,0,0,0,1,猫天师  主角技能起手（天剑飞出）
+catimp_skill_pet,Sound/skillsound/Sound_catimp_pet,0,0,0,0,0,1,猫天师  灵将技能（回复）
+threeeyes_skill_pet,Sound/skillsound/Sound_threeeyes_pet,0,0,0,0,0,1,通天眼 灵将技能 （旋转武器后斩击）
+guanyu_light_skill,Sound/skillsound/Sound_guanyu_light_skill,0,0,0,0,0,1,武圣boss 主角技能（一把大刀升起，然后劈下，伴随刀光飞出）
+guanyu_light_skill_pet,Sound/skillsound/Sound_guanyu_light_skill_pet,0,0,0,0,0,1,武圣boss 灵将技能（能量升起后快速落地）
+guanyu_light_attack,Sound/skillsound/,0,0,0,0,0,1,武圣boss 普攻
+tigerlord_skill,Sound/skillsound/Sound_tigerlord_skill,0,0,0,0,0,1,虎力大仙 主角技能（一只虎冲出）
+tigerlord_skill_pet,Sound/skillsound/Sound_tigerlord_skill_pet,0,0,0,0,0,1,虎力大仙 灵将技能（火焰斩击）
+jianke_skill1,Sound/skillsound/Sound_jianke_skill1,0,0,0,0,0,1,剑客 主角技能起手（火剑飞起）
+jianke_skill2,Sound/skillsound/Sound_jianke_skill,0,0,0,0,0,1,剑客 主角技能（火剑落下）
+jianke_skill_pet1,Sound/skillsound/Sound_catimp_pet,0,0,0,0,0,1,剑客 灵将技能起手（火剑回转）
+jianke_skill_pet2,Sound/skillsound/Sound_jianke_pet,0,0,0,0,0,1,剑客 灵将技能（火剑飞出）
+bullhead_skill_pet,Sound/skillsound/Sound_bullhead_skill_pet,0,0,0,0,0,1,健美牛头 灵将技能（红色回复特效）
+bullhead_skill1,Sound/skillsound/Sound_bullhead_skill1,0,0,0,0,0,1,健美牛头 主角技能起手（火光）
+bullhead_skill2,Sound/skillsound/Sound_bullhead_skill2,0,0,0,0,0,1,健美牛头 主角技能（月型刀光）
+binglingyuanshuai_skill_pet,Sound/skillsound/Sound_binglingyuanshuai_skill_pet,0,0,0,0,0,1,冰凌元帅 灵将技能（寒气斩击）
+binglingyuanshuai_skill_1,Sound/skillsound/Sound_binglingyuanshuai_skill,0,0,0,0,0,1,冰凌元帅 主角技能（目标脚底一圈有旋转冰花特效）
+zhubeixianzi_skill_1,Sound/skillsound/Sound_zhubeixianzi_skill,0,0,0,0,0,1,珠贝仙子 主角技能（召唤一个水牢套住敌人，随后水牢爆炸）
+zhubeixianzi_skill_2,Sound/skillsound/Sound_zhubeixianzi_skill1,0,0,0,0,0,1,珠贝仙子 主角技能后手（吸收后的回复特效）
+zhubeixianzi_skill_pet2,Sound/skillsound/Sound_zhubeixianzi_skill_pet,0,0,0,0,0,1,珠贝仙子 灵将技能（冰刺）
+deerlord_skill_1,Sound/skillsound/Sound_deerlord_skill,0,0,0,0,0,1,鹿力大仙 主角技能（水回复）
+deerlord_skill_pet2,Sound/skillsound/Sound_deerlord_skill_pet,0,0,0,0,0,1,鹿力大仙 灵将技能（三个水球）
+panda_skill,Sound/skillsound/Sound_panda_skill,0,0,0,0,0,1,神木大圣 主角技能（光环buff）
+panda_skill_pet,Sound/skillsound/Sound_panda_skill_pet,0,0,0,0,0,1,神木大圣 灵将技能（大棒砸地）
+coatlord_skill,Sound/skillsound/Sound_coatlord_skill,0,0,0,0,0,1,羊力大仙 主角技能（月光飞出）
+coatlord_skill_pet,Sound/skillsound/Sound_coatlord_skill,0,0,0,0,0,1,羊力大仙 灵将技能（刀光飞出）
+horsehead_skill,Sound/skillsound/Sound_horsehead_skill,0,0,0,0,0,1,真武角马 主角技能（一只大脚踩下）
+horsehead_skill_pet,Sound/skillsound/Sound_shujingling_skill,0,0,0,0,0,1,真武角马 灵将技能（回复技能）
+duopo_skill2,Sound/skillsound/Sound_duopo_skill_pet,0,0,0,0,0,1,夺魄 灵将技能（符飞出）
+anjingling_skill,Sound/skillsound/Sound_anjingling_skill,0,0,0,0.2,1,1,暗精灵 主角技能（荆棘）
+anjingling_skill_pet2,Sound/skillsound/Sound_anjingling_skill_pet,0,0,0,0,0,1,暗精灵 灵将技能（天光）
+qiuju_skill,Sound/skillsound/Sound_qiuju_skill,0,0.8,0,0.2,1,1,医师 主角技能（扇形攻击）
+qiuju_skill_pet2,Sound/skillsound/Sound_qiuju_skill_pet,0,0,0,0,0,1,医师 灵将技能（爆炸）
+tianjiang_skill,Sound/skillsound/Sound_tianjiang_skill,0,0,0,0,0,1,天将 主角技能（天降巨戟）
+tianjiang_skill_pet,Sound/skillsound/Sound_tianjiang_skill_pet,0,0,0,0,0,1,天将 灵将技能（斩击）
+neza_skill,Sound/skillsound/Sound_neza_skill,0,0,0,0,0,1,持枪仙君 主角技能（落雷）
+neza_skill_pet,Sound/skillsound/Sound_neza_skill_pet,0,0,0,0,0,1,持枪仙君 灵将技能（刀光飞出）
+mohuawushi_skill,Sound/skillsound/Sound_mohuawushi_skill,0,0,0,0,0,1,魔化武士 主角技能（怨灵）
+mohuawushi_skill_pet,Sound/skillsound/Sound_mohuawushi_skill_pet,0,0,0,0,0,1,魔化武士 灵将技能（旋风斩特效）
+juqianxiejiang_skill,Sound/skillsound/Sound_juqianxiejiang_skill,0,0,0,0,0,1,巨钳蟹将 主角技能（水泡）
+juqianxiejiang_skill_pet,Sound/skillsound/Sound_juqianxiejiang_skill_pet,0,0,0,0,0,1,巨钳蟹将 灵将技能（钳子）
+guainia_skill2,Sound/skillsound/Sound_guainia_skill,0,0,0,0,0,1,三头怪鸟 主角技能（双色火炎）
+guainia_skill_pet2,Sound/skillsound/Sound_guainia_skill_pet,0,0,0,0,0,1,三头怪鸟 灵将技能（双色飞鸟）
+huaqingting_skill,Sound/skillsound/Sound_huaqingting_skill,0,0,0,0,0,1,诸乘射手 主角技能（落弓箭）
+huaqingting_skill_pet,Sound/skillsound/Sound_huaqingting_skill_pet,0,0,0,0,0,1,诸乘射手 灵将技能（巨大弓箭）
+tianyi_skill,Sound/skillsound/Sound_tianyi_skill,0,0,0,0,0,1,天翼隼 主角技能（天上光球发射无数能量光束）
+stonemister_dark_att,Sound/skillsound/,0,0,0,0,0,1,石姬boss 普攻
+ec_generalhit,0,0,0,0,0,0,1,通用受击
+ghostkeeper_bai_skill_pet,Sound/skillsound/Sound_ghostkeeper_bai_skill_pet,0,0,0,0,0,1,白无常 灵将技能 （buff）
+ghostkeeper_bai_skill,Sound/skillsound/Sound_ghostkeeper_bai_skill,0,0,0,0,0,1,白无常 主角技能（灵爆）
+ghostkeeper_hei_skill,Sound/skillsound/Sound_ghostkeeper_bai_skill,0,0,0,0,0,1,黑无常 主角技能（灵爪）
+ghostkeeper_hei_skill_pet1,Sound/skillsound/Sound_ghostkeeper_bai_skill_pet,0,0,0,0,0,1,黑无常 灵将技能 （debuff）
+redbird_skill,Sound/skillsound/Sound_coatlord_skill,0,0,0,0,0,1,朱雀 主角技能（火月光）
+qiuju_skill_pet3,Sound/skillsound/Sound_kirin_skill2,0,0,0,0,0,1,0
+deerlord_attfly,Sound/skillsound/Sound_bullhead_skill2,0,0,0,0,0,1,0
+0,0,0,0,0,0,0,0,0
+ec_ui_main_0,Sound/new/key/switch,0,0,0,0,0,0,0
+ec_ui_main_1,Sound/new/key/switch,0,0,0,0,0,0,0
+ec_ui_main_2,Sound/new/key/switch,0,0,0,0,0,0,0
+ec_ui_main_3,Sound/new/key/switch,0,0,0,0,0,0,0
+ec_ui_main_4,Sound/new/key/switch,0,0,0,0,0,0,0
+ec_ui_mainzhujiao,Sound/new/key/switch,0,0,0,0,0,0,0
+ec_ui_strengthen-002,Sound/new/cwshengjiTX,0,0.1,0,0,0,0,强化、升级特效
+evolution_gain_pet_info_window,Sound/Die/fox,0,0.1,0,0,0,0,打开进化窗口
+strengthen_fail_group,Sound/new/QH_shibai,0,0.1,0,0,0,0,强化失败
+level_up_success_group,Sound/new/cwshengjiCG,0,0.1,0,0,0,0,升级成功
+strengthen_success_group,Sound/new/cwshengjiCG,0,0.1,0,0,0,0,强化成功
+boss_appear01_window,Sound/new/boss_appear,0,0.1,0,0,0,0,BOSS出现
+ec_dust,Sound/new/run,0,0.1,0,0.5,1,0,主角跑步
+upgrade_window,Sound/new/levelup,0,0,0,0,0,0,主角升级
+ec_ui_atkwinstar,Sound/new/star,0,0.1,0,0,0,0,星星
+pve_boss_appear_window,Sound/new/warningboss,0,0,0,0,0,0,boss警告
+ec_ui_fubagua,Sound/new/gacha_2,0,0,0,0,0,0,八卦
+pve_begin_battle_window,Sound/uisound/Start Sound,0,1,0,0,0,0,战斗开始
+pvp_begin_battle_window,Sound/uisound/Fighting Start,0,0,0,0,0,0,3 2 1倒计时
+0,0,0,0,0,0,0,0,0
+ec_gather_blue_z,Sound/new/TX/ec_gather,0,0,0,0,0,1,聚气符（水）
+ec_gather_green_z,Sound/new/TX/ec_gather,0,0,0,0,0,1,聚气符（木）
+ec_gather_red_z,Sound/new/TX/ec_gather,0,0,0,0,0,1,聚气符（火）
+ec_jet_blue_q,Sound/new/TX/spray,0,0,0,0,0,1,喷射（水）
+ec_jet_green_q,Sound/new/TX/spray,0,0,0,0,0,1,喷射（木）
+ec_jet_red_q,Sound/new/TX/spray,0,0,0,0,0,1,喷射（火）
+ec_mighty_red_m,Sound/new/TX/wuhu,0,0,0,0,0,1,威武符
+ec_impact_red_z,Sound/new/TX/chongjifu,0,0,0,0,0,1,冲击符（火）
+ec_impact_blue_z,Sound/new/TX/chongjifu,0,0,0,0,0,1,冲击符（水）
+ec_impact_green_z,Sound/new/TX/chongjifu,0,0,0,0,0,1,冲击符（木）
+ec_woodskin_green_m,Sound/new/TX/wuhu,0,0,0,0,0,1,木肤符
+ec_gettogether_gold_z,Sound/new/TX/taotie,0,0,0,0,0,1,喵喵冲击（阳）
+ec_gettogether_shadow_z,Sound/new/TX/taotie,0,0,0,0,0,1,喵喵冲击（阴）
+ec_weak_gold_m,Sound/new/TX/wuhu,0,0,0,0,0,1,虚弱符
+ec_backtolife_q,Sound/new/TX/wuhu,0,0,0,0,0,1,回命符
+ec_lucky_red_m,Sound/new/TX/wuhu,0,0,0,0,0,1,幸运符
+ec_ghostsword_gold_q,Sound/new/TX/ghostword,0,0,0,0,0,1,鬼剑符（阳）
+ec_ghostsword_shadow_q,Sound/new/TX/ghostword,0,0,0,0,0,1,鬼剑符（阴）
+ec_heavenly_blue_m,Sound/new/TX/tianj,0,0,0,0,0,1,天剑符（水）
+ec_heavenly_green_m,Sound/new/TX/tianj,0,0,0,0,0,1,天剑符（木）
+ec_heavenly_red_m,Sound/new/TX/tianj,0,0,0,0,0,1,天剑符（火）
+ec_heavenly_gold_m,Sound/new/TX/tianj,0,0,0,0,0,1,天剑符（阳）
+ec_heavenly_shadow_m,Sound/new/TX/tianj,0,0,0,0,0,1,天剑符（阴）
+ec_boom_gold_m,Sound/new/TX/bomb,0,0.3,0,0,0,1,受击爆炸（阳）
+ec_boom_shadow_m,Sound/new/TX/bomb,0,0.3,0,0,0,1,受击爆炸（阴）
+ec_boom_blue_m,Sound/new/TX/bomb,0,0.3,0,0,0,1,受击爆炸（水）
+ec_boom_green_m,Sound/new/TX/bomb,0,0.3,0,0,0,1,受击爆炸（木）
+ec_boom_red_m,Sound/new/TX/bomb,0,0.3,0,0,0,1,受击爆炸（火）
+ec_sword_blue_q,Sound/new/TX/jujianfu,0,0,0,0,0,1,巨剑符（水）
+ec_sword_green_q,Sound/new/TX/jujianfu,0,0,0,0,0,1,巨剑符（木）
+ec_sword_red_q,Sound/new/TX/jujianfu,0,0,0,0,0,1,巨剑符（火）
+ec_tigerforce_q,Sound/new/TX/tigerforce,0,0,0,0,0,1,虎力符（火）
+ec_eagleeye_blue_m,Sound/new/TX/wuhu,0,0,0,0,0,1,鹿力符
+ec_wood_m,Sound/new/TX/winf,0,0,0,0,0,1,木旋风（木）
+ec_whirlpool_q,Sound/new/TX/iceyushi,0,0,0,0.5,1,1,寒冰风暴（水）
+ec_daysofthunder_m,Sound/new/TX/shake,0,0,0,0,0,1,天雷震（雷电）
+ec_unable_shadow_m,Sound/new/TX/wuhu,0,0,0,0,0,1,无力符
+ec_weak_gold_m,Sound/new/TX/wuhu,0,0,0,0,0,1,虚弱符
+ec_tsinglung_z,Sound/new/TX/qinlunfu,0,0,0,0,0,1,青龙符
+ec_basaltic_m,Sound/new/TX/xuanwuqilin,0,0,0,0,0,1,玄武符
+ec_rosefinch_z,Sound/new/TX/zhuque,0,0,0,0,0,1,朱雀符
+ec_kirin_m,Sound/new/TX/xuanwuqilin,0,0,0,0,0,1,麒麟符
+ec_taotie_z,Sound/new/TX/taotie,0,0,0,0,0,1,暴食
+ec_comparedto_q,Sound/new/TX/shenwei,0,0,0,0,0,1,神威
+skill_bossgoldenlionskill1,Sound/new/TX/goldenskill1,0,0,0,0,0,1,火boss大火球
+skill_bossgoldenlionskill2,Sound/new/TX/goldenskill2,0,0,0,0.5,1,1,火boss火雨
+skill_bossguanyuskill1,Sound/new/TX/guanyuskill1,0,1.2,0,0,0,1,光boss回旋斩
+skill_bossguanyuskill2,Sound/new/TX/guanyuskill2,0,0,0,0.5,1,1,光boss闪电
+skill_bosshydraskill1,Sound/new/TX/iceyushi,0,0,0,0.5,1,1,水boss冰雨
+skill_bosshydraskill2,Sound/new/TX/hydraskill2,0,0,0,0,0,1,大冰球
+skill_bossmechskill1,Sound/new/TX/mechskill2,0,0,0,0,0,1,激光
+skill_bossmechskill2,Sound/new/TX/bomb,0,0,0,0.5,1,1,落石
+skill_bossstonemisterskill1,Sound/new/TX/stonesisterskill1,0,0,0,0,0,1,暗boss黑洞
+skill_bossstonemisterskill2,Sound/new/TX/stonesisterskill2,0,0,0,0,0,1,黑暗旋风
+ec_battlehit,0,0,0,0,0,0,1,受击被克
+ec_twilight_q,Sound/new/TX/huichunfu,0,0,0,0,0,1,回春
+ec_rejuvenation_q,Sound/new/TX/xiaguang,0,0,0,0,0,1,霞光
+ec_sheepforce_z,Sound/new/TX/sheepforce,0,0,0,0.5,1,1,缠绕符
+ec_redcross,0,0,0,0,0,0,1,回血
+ec_bluecross,0,0,0,0,0,0,1,回蓝
+ec_luli_m,Sound/new/TX/lulifu,0,0,0,0,0,1,鹿力符
+ec_highestday_red_z,Sound/new/TX/bullskill,0,0,0,0.3,1,1,牛头天罡符
+ec_changhong_blue_q,Sound/new/TX/changhong,0,0,0,0,0,1,长虹水
+ec_changhong_gold_q,Sound/new/TX/changhong,0,0,0,0,0,1,长虹阳
+ec_changhong_green_q,Sound/new/TX/changhong,0,0,0,0,0,1,长虹木
+ec_changhong_red_q,Sound/new/TX/changhong,0,0,0,0,0,1,长虹火
+ec_changhong_shadow_q,Sound/new/TX/changhong,0,0,0,0,0,1,长虹阴
+ec_fear,Sound/new/TX/kongju,0,0,0,0,0,1,恐惧状态
+ec_frozen,Sound/new/TX/dongjie,0,0,0,0,0,1,冻结状态
+ec_poisondot,Sound/new/TX/zhongdu,0,0,0,0,0,1,中毒状态
+ec_firedot,Sound/new/TX/firedot,0,0,0,0,0,1,燃烧状态
+ec_vertigo,Sound/new/TX/stun,0,0,0,0,0,1,晕眩状态
+ec_peachheart,Sound/new/TX/meihuo,0,0,0,0,0,1,魅惑状态
+ec_defense_green_m,Sound/new/TX/wuhu,0,0,0,0,0,1,不动符
+ec_howl_blue_m,Sound/new/TX/wuhu,0,0,0,0,0,1,嚎叫符
+ec_snakeduwu,Sound/new/TX/duwu,0,0,0,0,0,1,毒雾
+ec_bluntenough_blue_m,Sound/new/TX/dunzu,0,0,0,0.4,1,1,钝足符
+ec_talons_m,Sound/new/TX/wuhu,0,0,0,0,0,1,鹰爪符
+0,0,0,0,0,0,0,0,0
+tianyi_attfly,0,Sound/attack/tianyi_atk_hit,0,0,0,0,2,0
+anjingling_attfly,0,Sound/attack/anjingling_atk_hit,0,0,0,0,2,0
+butterfly_attfly,0,Sound/attack/butterfly_atk_hit,0,0,0,0,2,0
+catimp_attack3,0,Sound/attack/catimp_atk_hit,0,0,0,0,2,0
+deerlord_attack1,0,Sound/attack/deerlord_atk_hit,0,0,0,0,2,0
+duopo_attfly,0,Sound/attack/duopo_atk_hit,0,0,0,0,2,0
+ghostkeeper_bai_att,0,Sound/attack/ghostkeeper_bai_atk_hit,0,0,0,0,2,0
+ghostkeeper_bai_att,0,Sound/attack/ghostkeeper_bai_atk_hit,0,0,0,0,2,0
+ghostkeeper_hei_att,0,Sound/attack/ghostkeeper_heii_atk_hit,0,0,0,0,2,0
+ghostkeeper_hei_att,0,Sound/attack/ghostkeeper_heii_atk_hit,0,0,0,0,2,0
+guainia_attack,0,Sound/attack/guainia_atk_01_hit,0,0,0,0,2,0
+guainia_attack1,0,Sound/attack/guainia_atk_02_hit,0,0,0,0,2,0
+huaqingting_att,0,Sound/attack/huaqingting_atk_01_hit,0,0,0,0,2,0
+hydra_attfly,0,Sound/attack/hydra_atk_01_hit,0,0,0,0,2,0
+jianke_att,0,Sound/attack/jianke_atk_hit,0,0,0,0,2,0
+male_fly,0,Sound/attack/male_atk_01_hit,0,0,0,0,2,0
+male_fly,0,Sound/attack/male_atk_02_hit,0,0,0,0,2,0
+male_fly,0,Sound/attack/male_atk_03_hit,0,0,0,0,2,0
+newkirin_fly,0,Sound/attack/kirin_atk_hit,0,0,0,0,2,0
+newredbird_fly,0,Sound/attack/redbirdboss_atk_01_hit,0,0,0,0,2,0
+newredbird_fly,0,Sound/attack/redbirdboss_atk_02_hit,0,0,0,0,2,0
+newredbird_fly,0,Sound/attack/redbirdboss_atk_03_hit,0,0,0,0,2,0
+noratt_evilfoxfly,0,Sound/attack/evilfox_atk_hit,0,0,0,0,2,0
+noratt_fairyfly,0,Sound/attack/fairy_atk_hit,0,0,0,0,2,0
+noratt_foxfly,0,Sound/attack/fox_atk_hit,0,0,0,0,2,0
+noratt_spiderfly,0,Sound/attack/spider_atk_hit,0,0,0,0,2,0
+noratt_zhujiaozidan,0,Sound/attack/female_atk_hit,0,0,0,0,2,0
+noratt_zhujiaozidan,0,Sound/attack/female_atk_hit,0,0,0,0,2,0
+noratt_zhujiaozidan,0,Sound/attack/female_atk_hit,0,0,0,0,2,0
+noratt_zidan,0,Sound/attack/civet_atk_hit,0,0,0,0,2,0
+qiuju_att1,0,Sound/attack/qiuju_atk_2_hit,0,0,0,0,2,0
+qiuju_att1,0,Sound/attack/qiuju_atk_2_hit,0,0,0,0,2,0
+rainmaster_attfly,0,Sound/attack/rainmaster_atk_01_hit,0,0,0,0,2,0
+shujingling_attfly,0,Sound/attack/shujingling_atk_hit,0,0,0,0,2,0
+stonemister_dark_att,0,Sound/attack/yinji_atk_hit,0,0,0,0,2,0
+sworddancer_attfly,0,Sound/attack/sworddancer_atk_hit,0,0,0,0,2,0
+windmaster_attfly,0,Sound/attack/windmaster_atk_hit,0,0,0,0,2,0
+zhubeixianzi_att1,0,Sound/attack/zhubeixianzi_atk_hit,0,0,0,0,2,0
+zhubeixianzi_att1,0,Sound/attack/dongxueshou_atk_hit,0,0,0,0,2,0
+0,0,0,0,0,0,0,0,0
+scroll_world_map_bottom_left_window_test,Sound/uisound/Difficult Sound,0,0,0,0,0,0,关卡难度选择
+bag_pet_window,Sound/uisound/Open Bag Sound,0,0,0,0,0,0,背包打开
+bag_magic_window,Sound/uisound/Open Bag Sound,0,0,0,0,0,0,背包打开
+bag_equip_window,Sound/uisound/Open Bag Sound,0,0,0,0,0,0,背包打开
+fragment_compound_effect_3,Sound/uisound/Compound Sound,0,0,0,0,0,0,夺宝合成
+fragment_compound_effect_4,Sound/uisound/Compound Sound,0,0,0,0,0,0,夺宝合成
+fragment_compound_effect_5,Sound/uisound/Compound Sound,0,0,0,0,0,0,夺宝合成
+fragment_compound_effect_6,Sound/uisound/Compound Sound,0,0,0,0,0,0,夺宝合成
+ui_weapon_qianghua,Sound/uisound/Equip Stre,0,0,0,0,0,0,强化
+ui_weapon_lvup,Equip Refine,0,0,0,0,0,0,精炼升级
+0,0,0,0,0,0,0,0,0
+ready_register_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+access_to_res_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+active_stage_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+activity_first_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+activity_flash_sale_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+activity_present_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+activity_rank_reward_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+activity_rank_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+activity_tips_label_up_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+activity_tree_up_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+activity_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+add_vitality_up_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+announcement_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+arena_break_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+arena_list_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+arena_main_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+arena_rank_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+arena_record_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+arena_treasure_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+astrology_reward_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+awards_tips_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+award_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+bag_bg_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+black_market_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+board_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+boss_rank_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+boss_ready_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+boss_reward_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+chat_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+common_tip_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+connect_error_tologin_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+connect_error_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+consumables_details_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+Dynamic_MsgBox_4,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+equip_bg_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+explore_tip_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+explore_way_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+flash_sale_details_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+flash_sale_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+fragment_bag,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+friend_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+game_settings_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+get_decompose_result_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+get_rewards_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+get_score_award_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+grab_buy_peace_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+grab_compose_item_info,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+grab_compose_result,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+grab_fight_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+grab_list_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+grab_record_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+key_use_choose_reward_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+login_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+mail_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+main_rank_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+mall_bg_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+mall_consume_buy_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+mall_gift_preview_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+message_help_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+message_ok_ex_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+message_ok_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+message_only_tips_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+message_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+morrow_land_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+net_error_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+package_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+peak_break_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+peak_rank_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+peak_treasure_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+pet_album_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+private_chat_friend_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+rammbock_difficulty_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+rammbock_rank_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+rammbock_reward_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+recharge_vip_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+recover_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+registration_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+reward_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+role_details_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+select_item_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+seven_days_carnival_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+shop_album_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+shop_gain_item_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+shop_gain_pet_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+shop_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+stage_info_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+task_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+team_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+tips_picture_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+total_task_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+union_check_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+union_create_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+union_infonews_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+union_list_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+union_pk_drop_preview_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+union_pk_enter_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+union_pk_rank_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+union_rank_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+union_rule_tips_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+union_set_pk_aim_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+union_shop_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+world_map_bonus_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+shop_feats_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+shop_renown_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+shop_prestige_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+package_consume_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+package_equip_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+explore_bg_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+explore_friend_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+grab_use_peace_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+pet_album_camp_info_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+union_shop_container_window,Sound/uisound/UI_CASE_03,0,0,0,0,0,0,界面弹出
+new_ui_choukalow,Sound/uisound/ui_EFF_02_back,0,0,0,0,0,0,普通抽取
+new_ui_choukaadvanced,Sound/uisound/ui_EFF_01_back,0,0,0,0,0,0,高级符灵获取
+ten_times_get_card,Sound/uisound/ui_ten_times_get_card,0,0,0,0,0,0,十连抽飞出
+tupo_animation_window,Sound/skillsound/tupo,0,0,0,0,0,0,突破1阶段
+ec_ui_qhcg,Sound/skillsound/LevelUptupo,0,0,0,0,0,0,突破2阶段

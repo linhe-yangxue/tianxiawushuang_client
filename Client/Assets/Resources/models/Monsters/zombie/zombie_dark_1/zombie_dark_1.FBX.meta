@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 2f2dc05ae41ae58438582b39e985291b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 L Calf
+    100006: Bip01 L Clavicle
+    100008: Bip01 L Finger0
+    100010: Bip01 L Foot
+    100012: Bip01 L Forearm
+    100014: Bip01 L Hand
+    100016: Bip01 L Thigh
+    100018: Bip01 L Toe0
+    100020: Bip01 L UpperArm
+    100022: Bip01 Neck
+    100024: Bip01 Pelvis
+    100026: Bip01 R Calf
+    100028: Bip01 R Clavicle
+    100030: Bip01 R Finger0
+    100032: Bip01 R Foot
+    100034: Bip01 R Forearm
+    100036: Bip01 R Hand
+    100038: Bip01 R Thigh
+    100040: Bip01 R Toe0
+    100042: Bip01 R UpperArm
+    100044: Bip01 Spine
+    100046: Bone001
+    100048: Bone002
+    100050: Bone003
+    100052: Bone004
+    100054: Bone005
+    100056: Bone006
+    100058: Bone008
+    100060: Bone009
+    100062: Bone010
+    100064: Bone011
+    100066: Bone012
+    100068: Bone013
+    100070: Bone014
+    100072: Bone015
+    100074: Bone016
+    100076: Bone017
+    100078: Bone018
+    100080: Bone019
+    100082: Bone020
+    100084: Bone021
+    100086: Bone022
+    100088: Bone024
+    100090: Bone026
+    100092: Bone028
+    100094: Bone030
+    100096: //RootNode
+    100098: zombie_dark_1
+    100100: zombie_light_1
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 L Calf
+    400006: Bip01 L Clavicle
+    400008: Bip01 L Finger0
+    400010: Bip01 L Foot
+    400012: Bip01 L Forearm
+    400014: Bip01 L Hand
+    400016: Bip01 L Thigh
+    400018: Bip01 L Toe0
+    400020: Bip01 L UpperArm
+    400022: Bip01 Neck
+    400024: Bip01 Pelvis
+    400026: Bip01 R Calf
+    400028: Bip01 R Clavicle
+    400030: Bip01 R Finger0
+    400032: Bip01 R Foot
+    400034: Bip01 R Forearm
+    400036: Bip01 R Hand
+    400038: Bip01 R Thigh
+    400040: Bip01 R Toe0
+    400042: Bip01 R UpperArm
+    400044: Bip01 Spine
+    400046: Bone001
+    400048: Bone002
+    400050: Bone003
+    400052: Bone004
+    400054: Bone005
+    400056: Bone006
+    400058: Bone008
+    400060: Bone009
+    400062: Bone010
+    400064: Bone011
+    400066: Bone012
+    400068: Bone013
+    400070: Bone014
+    400072: Bone015
+    400074: Bone016
+    400076: Bone017
+    400078: Bone018
+    400080: Bone019
+    400082: Bone020
+    400084: Bone021
+    400086: Bone022
+    400088: Bone024
+    400090: Bone026
+    400092: Bone028
+    400094: Bone030
+    400096: //RootNode
+    400098: zombie_dark_1
+    400100: zombie_light_1
+    4300000: zombie_dark_1
+    4300002: zombie_light_1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: zombie_dark_1
+    13700002: zombie_light_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
