@@ -261,7 +261,7 @@ public class ActivityShooterParkWindow : tWindow
         return -1;
     }
 
-    // 加载小师妹模型
+    // 加载无双模型
     private void LoadModel()
     {
         GameObject tmpGOUIPoint = GameCommon.FindObject(mGameObjUI, "uipoint");

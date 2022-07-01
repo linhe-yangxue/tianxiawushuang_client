@@ -640,7 +640,7 @@ public enum STRING_INDEX
     RECHAGE_EXTEND_BAG_TIPS = 6304,          //将军,提升VIP等级可增加背包上限
     RECHAGE_EXTEND_BAG_MAX = 6305,           //将军,背包上限已扩充至最大!
     VIP_EXCLUSIVE_CONSUMER_QQ_NUMBER = 6306,                //> 客服的QQ号,填具体的QQ号码 
-    VIP_EXCLUSIVE_MAIN_CONTENT = 6307,                      //> 尊敬的少侠，专属客服小师妹随时准备为您服务哦，可以帮您解决任何游戏内的问题，块垒联系我吧~!
+    VIP_EXCLUSIVE_MAIN_CONTENT = 6307,                      //> 尊敬的少侠，专属客服无双随时准备为您服务哦，可以帮您解决任何游戏内的问题，块垒联系我吧~!
     VIP_EXCLUESIVE_OUTSIDE_CONTENT = 6308,                  //> 联系客服QQ可帮您去掉主界面上的按钮，还您一个清爽的界面
 
     RAMMBOCK_FIGHTPOINT_NOT_ENOUGH = 6400,                  //前方太过凶险，本层无法一键3星，少侠还请慎重
